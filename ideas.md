@@ -1,0 +1,7767 @@
+# 3 Ideas From Me
+
+Extracted from the James Clear 3-2-1 newsletter archive: 374 issues, 1122 ideas.
+
+---
+
+## 2019-08-08
+
+Over 107 billion people have lived throughout history. (There are roughly 7.7 billion people alive right now.)
+
+Over the centuries, these billions of people have tried things, failed, learned, and tried differently. Sometimes, they found new solutions. And when you are born, you get to inherit the insights they learned by trial and error.
+
+The cumulative lessons of those 107 billion people have been passed down to you. It is the greatest gift you will ever receive. We are smart not because of our individual genius, but because of our collective knowledge.
+
+As the historian Niall Ferguson noted, “The dead outnumber the living fourteen to one, and we ignore the accumulated experience of such a huge majority of mankind at our peril.”
+
+“Life is short.
+
+And if life is short, then moving quickly matters. Launch the product. Write the book. Ask the question. Take the chance.
+Be thoughtful, but get moving.”
+
+“Start now. Optimize later.
+
+An imperfect start can always be improved, but obsessing over a perfect plan will never take you anywhere on its own.”
+
+[source](https://jamesclear.com/3-2-1/august-8-2019)
+
+---
+
+## 2019-08-15
+
+“Mastery requires both impatience and patience.
+
+The impatience to have a bias toward action, to not waste time, and to work with a sense of urgency each day.
+
+The patience to delay gratification, to wait for your actions to accumulate, and to trust the process.”
+
+“When making plans, think big.
+
+When making progress, think small.”
+
+“A simple strategy that will save you so many headaches: don’t care about winning trivial arguments.
+
+Did someone say something you don’t agree with? Smile, nod, and move on to more important things.
+
+Life is short. Learning to not care about having the last word will save you so much time.”
+
+[source](https://jamesclear.com/3-2-1/august-15-2019)
+
+---
+
+## 2019-08-22
+
+“Qualities that lead to increasing intelligence:
+
+1. The curiosity to experiment and explore.
+2. The honesty to observe the world as it is, not as you wish it to be.
+3. The humility to kill your favorite ideas when you learn something new.
+4. The consistency to repeat this cycle for life.”
+
+“The most effective networking strategy I’ve found has nothing to do with conferences, cocktail hours, cold emails, or any of the common ideas you hear.
+
+1) Do interesting things.
+2) Share them publicly.
+
+Repeat those two strategies and you’ll become a magnet. Like-minded people will come to you.”
+
+“In the long-run (and often in the short-run), your willpower will never beat your environment.”
+
+[source](https://jamesclear.com/3-2-1/august-22-2019)
+
+---
+
+## 2019-08-29
+
+“You know yourself mostly by your thoughts.
+
+Everyone else in the world knows you only by your actions.
+
+Remember this when you feel misunderstood. You have to do or say something for others to know how you feel.”
+
+“A strategy for thinking clearly: Rather than trying to be right, assume you are wrong and try to be less wrong.
+
+Trying to be right has a tendency to devolve into protecting your beliefs.
+
+Trying to be less wrong has a tendency to prompt more questions and intellectual humility.”
+
+“Habits will form whether you want them or not.
+
+Whatever you repeat, you reinforce.”
+
+[source](https://jamesclear.com/3-2-1/august-29-2019)
+
+---
+
+## 2019-09-05
+
+“A problem solving strategy:
+
+If you’re stuck, shift up a level or two (think bigger picture) or down a level or two (think finer details). Many problems are solvable at a different level.
+
+This works for strategy too. You’ll often find a better opportunity at a different level.”
+
+“Practice is the price you pay today to be better tomorrow.”
+
+“Merely believing you deserve something doesn’t make it a reality… but believing you don’t deserve something will prevent you from trying.
+
+Most people are capable of more than they believe. Confidence won’t automatically get you results, but self-doubt sets your ceiling.”
+
+[source](https://jamesclear.com/3-2-1/september-5-2019)
+
+---
+
+## 2019-09-12
+
+“Your 1st blog post will be bad, but your 1000th will be great.
+
+Your 1st workout will be weak, but your 1000th will be strong.
+
+Your 1st meditation will be scattered, but your 1000th will be focused.
+
+Put in your reps.”
+
+“Make mistakes of ambition and not mistakes of sloth.”
+—Machiavelli
+
+“Mistakes of ambition:
+-failing on a big goal
+-creating something nobody wants
+
+Mistakes of sloth:
+-not attempting a big goal
+-consuming instead of creating
+
+Mistakes of ambition teach. Mistakes of sloth comfort.”
+
+It’s crazy how often I feel like I need to resolve some big problem in my life when all I really need is one of the following:
+
+1. A glass of water
+2. A 10-minute walk outside
+3. A good night of sleep
+
+Three simple things that resolve many of the stresses and anxieties of daily life.
+
+[source](https://jamesclear.com/3-2-1/september-12-2019)
+
+---
+
+## 2019-09-19
+
+“To improve, compare little things.
+
+-marketing strategies
+-exercise technique
+-writing tactics
+
+To be miserable, compare big things.
+
+-career path
+-marriage
+-net worth
+
+Comparison is the thief of joy when applied broadly, but the teacher of skills when applied narrowly.”
+
+“If you want to be in the top 1% of a particular domain, then you can’t take your cues from and follow the social norms of 99% of people.
+
+This is harder than it sounds. We are wired to imitate. The further you want to climb, the more carefully you need to construct your tribe.”
+
+“Most people need consistency more than they need intensity.
+
+Intensity:
+-run a marathon
+-write a book in 30 days
+-silent meditation retreat
+
+Consistency:
+-don’t miss a workout for 2 years
+-write every week
+-daily silence
+
+Intensity makes a good story. Consistency makes progress.”
+
+[source](https://jamesclear.com/3-2-1/september-19-2019)
+
+---
+
+## 2019-09-26
+
+“Optimists win in the long-run because their miscalculation of how long it will take or how likely it is to succeed motivates them to give it a try.
+
+If you knew how hard it would be and how long it would take in the beginning then you might not try in the first place.
+
+You can’t guarantee success, but you can guarantee failure: never try.”
+
+“Your body adapts to what you eat.
+
+Your mind adapts to what you consume.
+
+Your soul adapts to what you love.
+
+What you feed yourself today is who you become tomorrow.”
+
+“One of the most underrated career skills that isn’t really taught anywhere is editing your own writing.
+
+Great writing is actually re-writing. Simplifying paragraphs. Clarifying key points. Double-checking for typos.
+
+Good writing will impress in any job.”
+
+[source](https://jamesclear.com/3-2-1/september-26-2019)
+
+---
+
+## 2019-10-03
+
+“The costs of your good habits are in the present.
+
+The costs of your bad habits are in the future.”
+
+“Why focus on the process when the world is outcome driven? Don’t results matter?
+
+Yes, results do matter. But if you optimize for the outcome, you win one time.
+
+If you optimize for a process that leads to great outcomes, you can win again and again.”
+
+“Major life changes—moving to a new city, starting a new job, ending a relationship, getting married, having kids, etc.—will often make life harder for the first 100 days before improving.
+
+This is not always true, but it’s a nice reminder that experiencing early struggle doesn’t mean it was a bad choice.”
+
+[source](https://jamesclear.com/3-2-1/october-3-2019)
+
+---
+
+## 2019-10-10
+
+“Gut reactions are usually very wrong or very right.
+
+They tend to be wrong when they are based purely on emotion and in domains where you lack experience. They tend to be right when they are rooted in deep understanding and well-developed taste.
+
+Trust your gut when you have the experience to back it up.”
+
+“Negotiation Tips
+
+-You want leverage.
+-The person who creates more value has leverage.
+-The person who can walk away has leverage.
+-The person who is irreplaceable has leverage.
+-The person who has a second option has leverage.
+-The person who knows the numbers has leverage.
+-The person who everyone likes and wants to work with has leverage.
+-The person who asks for more, gets more.
+
+And finally, most negotiations are not one-time affairs. The person people continue to like at the end of this negotiation is in a better position for the next one.”
+
+“The fact that you go to the gym even though you don’t “need” to… is why you don’t need to.
+
+The fact that you save when you could spend… is why you have money to spend.
+
+Your habits create your strength.”
+
+[source](https://jamesclear.com/3-2-1/october-10-2019)
+
+---
+
+## 2019-10-17
+
+“The idea that ‘change is hard’ is one of the biggest myths about human behavior.
+
+The truth is, you change effortlessly and all the time. The primary job of the brain is to adjust your behavior based on the environment.
+
+Design a better environment. Change will happen naturally.”
+
+“A simple way to ensure you are focused on what matters:
+
+Imagine everything gets wiped. You inherit no tasks or responsibilities from your past or present. Then, add back only what you miss.
+
+Choose what to add to a blank slate, not what to keep from a full plate.”
+
+“Having good health isn’t everything, but not having it is.
+
+Having money isn’t everything, but not having it is.
+
+You don’t need 6-pack abs or a million dollars to be happy, but it is worth learning the fundamentals of fitness and finance.
+
+They bring a margin of safety.”
+
+[source](https://jamesclear.com/3-2-1/october-17-2019)
+
+---
+
+## 2019-10-24
+
+“Habits that have a high rate of return in life:
+
+– sleeping 8+ hours each day
+– lifting weights 3x week
+– going for a walk each day
+– saving at least 10 percent of your income
+– reading every day
+– drinking more water and less of everything else
+– leaving your phone in another room while you work”
+
+“A good choice may go unrewarded for a long time.
+
+The best choices tend to provide exponential returns and a hallmark of any compounding process is that the greatest rewards are delayed. Things don’t really take off until years later.
+
+Keep working. Be patient.”
+
+“When you say no, you are only saying no to one option.
+
+When you say yes, you are saying no to every other option.
+
+No is a decision.
+
+Yes is a responsibility.
+
+Be careful what (and who) you say yes to. It will shape your day, your career, your family, your life.”
+
+Pair with: The Ultimate Productivity Hack is Saying No
+
+[source](https://jamesclear.com/3-2-1/october-24-2019)
+
+---
+
+## 2019-10-31
+
+“If you haven’t started, then taking action is more important than finding a better strategy.
+
+If you’re already taking action, then ensuring you’re working on the right thing is more important than working harder.
+
+Your effort sets your floor. Your strategy sets your ceiling.”
+
+“A few tips on how to be a better writer:
+
+– write about what fascinates you
+– make one point per sentence
+– use stories to make your point
+– cut extra words like “really” and “very”
+– read the whole thing out loud
+– post publicly (you’ll try harder when you know others will read it)
+
+And finally, be more thoughtful about what you consume. The quality of ideas you put in determines the quality of ideas you put out.”
+
+A short idea from Atomic Habits:
+
+“Your outcomes are a lagging measure of your habits. Your net worth is a lagging measure of your financial habits. Your weight is a lagging measure of your eating habits. Your knowledge is a lagging measure of your learning habits. Your clutter is a lagging measure of your cleaning habits. You get what you repeat.”
+
+[source](https://jamesclear.com/3-2-1/october-31-2019)
+
+---
+
+## 2019-11-07
+
+“If you want to take something more seriously, do it publicly.
+
+Publishing an article pressures you to think clearly. Competing in a race pressures you to train consistently. Presenting on any topic pressures you to learn it.
+
+Social pressure forces you to up your game.”
+
+“Your choices create leverage. Your habits unleash leverage.
+
+A good initial choice (like choosing the right thing to work on or the right person to work with) can deliver 100x payoff. However, if you don’t have great habits, then great choices are just potential energy.
+
+Ideally, you’ll have both.”
+
+“Most failures are one-time costs. Most regrets are recurring costs.
+
+The pain of inaction stings longer than the pain of incorrect action.”
+
+[source](https://jamesclear.com/3-2-1/november-7-2019)
+
+---
+
+## 2019-11-14
+
+“The surest way to prevent yourself from learning a topic is to believe you already know it.”
+
+“The longer I live, the more I notice how valuable it is to do one simple thing: be kind.
+
+– When someone does a good job, tell them.
+– When someone makes a mistake, forgive them.
+– When someone tells you their problems, listen.
+
+Being kind barely costs a thing. You’ll hardly remember you did it, but the other person may never forget that you did.”
+
+For my final thought, a quote from Atomic Habits:
+
+“It doesn’t matter how successful or unsuccessful you are right now. What matters is whether your habits are putting you on the path toward success. You should be far more concerned with your current trajectory than with your current results. If you’re a millionaire but you spend more than you earn each month, then you’re on a bad trajectory; if your spending habits don’t change, it’s not going to end well. Conversely, if you’re broke, but you save more than you spend every month, then you’re on the path toward financial freedom—even if you’re moving slower than you’d like.”
+
+[source](https://jamesclear.com/3-2-1/november-14-2019)
+
+---
+
+## 2019-11-21
+
+“Rome wasn’t built in a day, but they were laying bricks every hour.”
+
+“How long does it take to build a habit?
+
+21 days? 30 days? 66 days?
+
+The honest answer is: forever. Because once you stop doing it, it is no longer a habit.
+
+A habit is a lifestyle to be lived, not a finish line to be crossed. Make small, sustainable changes you can stick with.”
+
+“The highest level of mastery is simplicity.
+
+Most information is irrelevant and most effort is wasted, but only the expert knows what to ignore.”
+
+[source](https://jamesclear.com/3-2-1/november-21-2019)
+
+---
+
+## 2019-11-28
+
+“The most satisfying form of freedom is not a life without responsibilities, but a life where you are free to choose your responsibilities.”
+
+“The ‘bad’ workouts are often the most important ones.
+
+It’s easy to train when you feel good, but it’s crucial to show up when you don’t feel like it—even if you do less than you hope.
+
+Going to gym for 5 minutes might not transform your body, but it does reaffirm your identity.”
+
+“My wife shared a bit of wisdom with me recently, and I’d like to pass it along to you today…
+
+You can be happy with who you are and still want to be better. You can love your body and still want to improve it. You can appreciate your financial state and still want to improve it.
+
+Progress does not require self-loathing. You can feel successful along the way.”
+
+[source](https://jamesclear.com/3-2-1/november-28-2019)
+
+---
+
+## 2019-12-05
+
+“New goals don’t deliver new results. New lifestyles do.
+
+And a lifestyle is not an outcome, it is a process. For this reason, all of your energy should go into building better habits, not chasing better results.”
+
+Note: For the ultimate habit-building guide, see Atomic Habits.
+
+How to Be Unhappy:
+
+-stay inside all day
+-move as little as possible
+-spend more than you earn
+-take yourself (and life) too seriously
+-look for reasons why things won’t work
+-always consume, never contribute
+-resent the lucky and successful
+-never say hello first
+-be unreliable
+
+Invert for happiness:
+
+-get outside each day
+-move: walk, exercise, dance
+-spend less than you earn
+-view life as play
+-be the one who looks for solutions
+-develop a bias to contribute and create
+-learn from the lucky and successful
+-be the first to say hello
+-be reliable
+
+“Some people need more focus. Others need to broaden their perspective.
+
+Some people need to try harder. Others need to stress less.
+
+Some people need to care more. Others need to let it go.
+
+The secret is you are both people. The key is to know which one you are in this moment.”
+
+[source](https://jamesclear.com/3-2-1/december-5-2019)
+
+---
+
+## 2019-12-12
+
+“Your actions are your real priorities.”
+
+“Modern society is defined by an excess of opportunity. We have more information, more products, and more options than ever before.
+
+As a result, curating, filtering, and refining are more important skills than ever before. Those who edit best will find the signal in the noise.”
+
+“It’s remarkable what you can build if you just don’t stop.
+
+It’s remarkable the business you can build if you don’t stop working.
+
+It’s remarkable the body you can build if you don’t stop training.
+
+It’s remarkable the knowledge you can build if you don’t stop learning.”
+
+[source](https://jamesclear.com/3-2-1/december-12-2019)
+
+---
+
+## 2019-12-19
+
+“The hardest part of solving a problem is accurately defining it.”
+
+“Before you dream about the view from the summit, ask yourself if you’re willing to keep your head down, focus on the path, and spend your life walking up the side of a very big hill.
+
+It takes years of walking to earn a minute at the top.”
+
+“Hard work is not always something you can see. It is not always physical effort.
+
+In fact, the most powerful form of hard work is thinking clearly. Designing a winning strategy may not look very active, but make no mistake: it is very hard work.
+
+Strategy often beats sweat.”
+
+[source](https://jamesclear.com/3-2-1/december-19-2019)
+
+---
+
+## 2019-12-26
+
+“Compliment others more.
+
+You’ll barely remember you did it, but the other person may never forget that you did.
+
+Kindness has unlimited upside.”
+
+“A little secret:
+
+You don’t need the right answer to start. You can start by asking a question. Simply asking, “How can I be a better friend?” or “How can I be a healthy person?” will call forth answers naturally.
+
+In the beginning, just repeating the question is enough.”
+
+“Real wealth is not about money.
+
+Real wealth is:
+-not having to go to meetings
+-not having to spend time with jerks
+-not being locked into status games
+-not feeling like you have to say “yes”
+-not worrying about others claiming your time and energy
+
+Real wealth is about freedom. Money can help achieve these things, but there are plenty of people who make lots of money yet aren’t free.”
+
+[source](https://jamesclear.com/3-2-1/december-26-2019)
+
+---
+
+## 2020-01-02
+
+“You do not rise to the level of your goals. You fall to the level of your systems.
+
+Your goal is your desired outcome. Your system is the collection of daily habits that will get you there.
+
+This year, spend less time focusing on outcomes and more time focusing on the habits that precede the results.”
+
+For more on this concept, read Atomic Habits.
+
+“Your identity can hold you back:
+
+-I’m terrible with directions.
+-I have a sweet tooth.
+-I’m bad at math.
+
+…or build you up:
+
+-I’m the type of person who doesn’t miss workouts.
+-I finish what I start.
+-I read every day.
+
+Build habits that reinforce your desired identity.”
+
+For my final thought, another quote from Atomic Habits:
+
+“Time magnifies the margin between success and failure. It will multiply whatever you feed it. Good habits make time your ally. Bad habits make time your enemy.”
+
+[source](https://jamesclear.com/3-2-1/january-2-2020)
+
+---
+
+## 2020-01-09
+
+“Optimize for tomorrow—as in, literally, one day from now.
+
+Save to be a little richer tomorrow. Exercise to be a little fitter tomorrow. Read to be a little smarter tomorrow.
+
+1% better every day.”
+
+“Good business advice I received early on:
+
+When someone says no to a request, they usually mean ‘not right now’ or ‘not in that way.’
+
+Most people want to help others, but there are many priorities competing for our time.
+
+Don’t take it personally. Ask again later. Ask differently.”
+
+“A principle for writing, investing, and life in general:
+
+It is much easier to notice when something is working than to predict ahead of time if it will work.
+
+Take action, make many small bets, and run lots of quick (but thoughtful) experiments. Then, double-down on the winners.”
+
+[source](https://jamesclear.com/3-2-1/january-9-2020)
+
+---
+
+## 2020-01-16
+
+“It’s never been a better time for self-motivated people.
+
+Anyone connected to the internet has the education power of a university and the distribution power of a media company at their fingertips.
+
+Curiosity, courage, and persistence are the new gatekeepers.”
+
+“The most dangerous items on your to-do list are the ones that look like opportunities, but are actually distractions.”
+
+“3 tips for getting started as a writer:
+
+1. Publish on a schedule. Consistency develops ability.
+
+2. Share your writing publicly. Writing is a magnet. It attracts like-minded people.
+
+3. Write about what fascinates you. You don’t need to be an expert. Curiosity leads to expertise.”
+
+[source](https://jamesclear.com/3-2-1/january-16-2020)
+
+---
+
+## 2020-01-23
+
+“Focus is the art of knowing what to ignore.”
+
+“On minimalism:
+
+The goal is not to have the least amount of things, but the optimal amount of things.
+
+Two important footnotes:
+
+(1) The optimal amount depends on your goals.
+(2) The optimal amount is almost always less than you think.”
+
+“Reading is like a software update for your brain.
+
+Whenever you learn a new concept or idea, the ‘software’ improves. You download new features and fix old bugs.
+
+In this way, reading a good book can give you a new way to view your life experiences. Your past is fixed, but your interpretation of it can change depending on the software you use to analyze it.”
+
+[source](https://jamesclear.com/3-2-1/january-23-2020)
+
+---
+
+## 2020-01-30
+
+“The fastest way to raise your level of performance:
+
+Cut your number of commitments in half.”
+
+“Before you ask for readers, write the article you wish you could read. Before you ask for the sale, create the product you wish you had.
+
+Before you need support, be the supportive friend. Before you need love, be the loving partner.
+
+Always give value before you ask for value.”
+
+“You are only as mentally tough as your life demands you to be.
+
+An easy life fashions a mind that can only handle ease. A challenging life builds a mind that can handle challenge. Like a muscle that atrophies without use, mental strength fades unless it is tested.
+
+When life doesn’t challenge you, challenge yourself.”
+
+[source](https://jamesclear.com/3-2-1/january-30-2020)
+
+---
+
+## 2020-02-06
+
+“Success is never due to one thing, but failure can be.
+
+Sleeping well won’t make you successful, but not sleeping enough will hold you back. Hard work is rarely enough without good strategy, but even the best strategy is useless without hard work.
+
+Many things are necessary, but not sufficient for success.”
+
+“Life is too short to not be pursuing the best opportunity you know of.”
+
+“Today might be the best chance you have to take action.
+
+The longer you wait, the more deeply embedded you get in your current lifestyle.
+
+Your habits solidify. Your beliefs harden. You get comfortable.
+
+It will never be easy, but it may also never be easier than it is right now.”
+
+[source](https://jamesclear.com/3-2-1/february-6-2020)
+
+---
+
+## 2020-02-13
+
+“Praise others. It will bring them peace of mind.
+
+Do not expect others to praise you. It will bring you peace of mind.”
+
+“Whenever you see an overnight success, your eyes deceive you.
+
+What you are witnessing is the hour of opportunity unleashing the potential energy of previous choices. It was not one decision, but the accumulated power of all that came before.
+
+The fuse was lit on a loaded cannon.”
+
+“You are richer than 93% of people.
+
+Not in money, but in time. 108 billion people have lived throughout history. 93% of them are dead.
+
+You have what every king and queen, every pharaoh and ruler, every CEO and celebrity of the past would give all their wealth for:
+
+Today.”
+
+[source](https://jamesclear.com/3-2-1/february-13-2020)
+
+---
+
+## 2020-02-20
+
+“When failure is expensive, plan carefully.
+
+When failure is cheap, act quickly.”
+
+“The person who learns the most in any classroom is the teacher.
+
+If you really want to learn a topic, then “teach” it. Write a book. Teach a class. Build a product. Start a company.
+
+The act of making something will force you to learn more deeply than reading ever will.”
+
+“Do not wait. If there is something you wish to do, go do it.
+
+Death comes for busy people too. It will not pause and return at a more convenient time.”
+
+[source](https://jamesclear.com/3-2-1/february-20-2020)
+
+---
+
+## 2020-02-27
+
+“Aim to be great in 10 years.
+
+Build health habits today that lead to a great body in 10 years.
+
+Build social habits today that lead to great relationships in 10 years.
+
+Build learning habits today that lead to great knowledge in 10 years.
+
+Long-term thinking is a secret weapon.”
+
+“If you…
+
+1) develop a bias for moving fast
+
+2) consistently ask, “What’s the real goal here and is there a better way to accomplish it?”
+
+… you can accomplish a lot in one life.”
+
+“You can create a lot of meaning in your own life by helping someone else do something that is meaningful to them.”
+
+[source](https://jamesclear.com/3-2-1/february-27-2020)
+
+---
+
+## 2020-03-05
+
+“Every action is a vote for the type of person you wish to become.”
+
+Note: For more on this concept, read Chapter Two of Atomic Habits.
+
+“Your success depends on the risks you take.
+
+Your survival depends on the risks you avoid.”
+
+“The way to attract good luck is to be reliable in a valuable area.
+
+The more you repeatedly deliver value, the more people seek you out for that value.
+
+Your reputation is a magnet. Once you become known for something, relevant opportunities come to you with no extra work.”
+
+[source](https://jamesclear.com/3-2-1/march-5-2020)
+
+---
+
+## 2020-03-12
+
+“Your actions are a consequence of your thoughts.
+
+Your thoughts are a consequence of what you consume.
+
+And in the modern age, what you consume is largely a consequence of how you select and refine your social media feed.
+
+Choose better inputs. Get better outputs.”
+
+“Your current habits are perfectly designed to deliver your current results.”
+
+“Needless commitments are more wasteful than needless possessions. Possessions can be ignored, but commitments are a recurring debt that must be paid for with your time and attention.”
+
+[source](https://jamesclear.com/3-2-1/march-12-2020)
+
+---
+
+## 2020-03-19
+
+“In a world where information is abundant and easy to access, the real advantage is knowing where to focus.”
+
+“The most useful form of patience is persistence.
+
+Patience implies waiting for things to improve on their own.
+
+Persistence implies keeping your head down and continuing to work when things take longer than you expect.”
+
+“Win the moment in front of you right now.”
+
+[source](https://jamesclear.com/3-2-1/march-19-2020)
+
+---
+
+## 2020-03-26
+
+“Whenever there is a gap between your habits and your goals, your habits will always win.”
+
+“Anticipate, but don’t expect.
+
+Anticipation: You’re excited for what the future holds, but you don’t try to control it.
+
+Expectation: You try to predict the future and restrict your happiness to one outcome.
+
+Always be excited about the possibilities. Never be entitled to them.”
+
+“Study as if you know nothing.
+
+Work as if you can solve anything.”
+
+[source](https://jamesclear.com/3-2-1/march-26-2020)
+
+---
+
+## 2020-04-02
+
+“Before you ask for readers, write the article you wish you could read.
+
+Before you ask for the sale, create the product you wish you had.
+
+Before you need support, be the supportive friend. Before you need love, be the loving partner.
+
+Always give value before you ask for value.”
+
+“Each day is a new battle to say yes to what matters and say no to what doesn’t. Focus is a practice.”
+
+“What can you do with 5 good minutes?
+
+5 good minutes of:
+
+-pushups is a solid workout
+-sprints will leave you winded
+-conversation can rekindle a relationship
+-reading can finish an insightful article
+-meditation can reset your mood
+
+You don’t need more time—just a little focused action.”
+
+(Hat tip to Max Shank. A conversation with him inspired this thought.)
+
+[source](https://jamesclear.com/3-2-1/april-2-2020)
+
+---
+
+## 2020-04-09
+
+“Ultimately, the only way to truly be in control of your life is to be in control of your thoughts.”
+
+“Slow and steady often wins because it keeps you motivated.
+
+Take on manageable challenges and you’ll get frequent signals of progress. Bite off more than you can chew and progress stalls.
+
+When you make progress, you want to keep going. When you break progress, you want to stop.”
+
+“When you say no, you are only saying no to one option. When you say yes, you are saying no to every other option.
+
+No is a choice. Yes is a responsibility.”
+
+[source](https://jamesclear.com/3-2-1/april-9-2020)
+
+---
+
+## 2020-04-16
+
+“Correct your mistakes before they become your habits.”
+
+“Balance is timing, not intensity.
+
+It is not doing multiple tasks at 80%, but developing the skill of turning it on and turning it off.
+
+Sleep fully, then work intensely. Focus deeply, then relax completely. Give each phase your full attention.
+
+Balance is ‘when to’ not ‘how to.'”
+
+“Concentration produces wealth.
+
+Diversification protects wealth.”
+
+[source](https://jamesclear.com/3-2-1/april-16-2020)
+
+---
+
+## 2020-04-23
+
+“The best way to get the attention and respect of exceptional people is to do exceptional work.
+
+Like attracts like.”
+
+“The paradox of risk:
+
+(1) Don’t put all your eggs in one basket. If you lose the basket, you lose it all.
+
+(2) Don’t put your eggs in too many baskets. The more baskets you manage, the less energy you can put into each one. It’s risky to do things halfway.
+
+Diversified, but focused.”
+
+“You choose the future with your actions each day.”
+
+[source](https://jamesclear.com/3-2-1/april-23-2020)
+
+---
+
+## 2020-04-30
+
+“Not taking things personally is a superpower.”
+
+“How to 80/20 your work:
+
+(1) Make a list of the 10 things you spend the most time on.
+
+(2) Circle the two that truly drive your results. Do more of those.
+
+(3) Look at the others. Eliminate ruthlessly. Automate or outsource what you can. Press pause on the rest.
+
+(4) Repeat.”
+
+“The first mistake is never the one that ruins you. It’s the spiral of repeated mistakes that follows.
+
+The problem is not slipping up; the problem is thinking that if you cannot do something perfectly, then you shouldn’t do it at all…”
+
+For more on this idea, see Chapter 16 of Atomic Habits.
+
+[source](https://jamesclear.com/3-2-1/april-30-2020)
+
+---
+
+## 2020-05-07
+
+“Never be so busy comparing what you have that you forget how fortunate you are to have it.”
+
+“Wealth is the power to choose.
+
+Financial wealth is the power to choose how to spend money.
+
+Social wealth is the power to choose who to hang out with.
+
+Time wealth is the power to choose how to spend your day.
+
+Mental wealth is the power to choose how to spend your attention.”
+
+“Creative ideas happen when you stop thinking about what others will think.”
+
+[source](https://jamesclear.com/3-2-1/may-7-2020)
+
+---
+
+## 2020-05-14
+
+Entrepreneurship is a personal growth engine disguised as a business pursuit.
+
+The 3 Levels of Employees:
+
+Level 1 — You do what you are asked to do.
+
+Level 2 — Level 1 + You think ahead and solve problems before they happen.
+
+Level 3 — Level 2 + You proactively look for areas of opportunity and growth in the business, and figure out how to tap into them.
+
+The more control you have over your attention, the more control you have over your future.
+
+[source](https://jamesclear.com/3-2-1/may-14-2020)
+
+---
+
+## 2020-05-21
+
+“Knowledge is the compound interest of curiosity.”
+
+“A practical definition of opportunity cost:
+
+If you spend too much time working on good things, then you don’t have much time left to work on great things.
+
+Understanding opportunity cost means eliminating good uses of time. And that’s what makes it hard.”
+
+“There are 3 primary drivers of results in life:
+
+1) Your luck (randomness).
+2) Your strategy (choices).
+3) Your actions (habits).
+
+Only 2 of the 3 are under your control. But if you master those 2, you can improve the odds that luck will work for you rather than against you.”
+
+[source](https://jamesclear.com/3-2-1/may-21-2020)
+
+---
+
+## 2020-05-28
+
+If you have good habits, time becomes your ally. All you need is patience.
+
+How to see opportunities others miss:
+
+1) Study a totally different field, then return to the original problem. Apply insights from other domains.
+
+2) Invert the problem. Try to achieve the opposite.
+
+3) Talk to hyper-creative people. Their thinking will rub off.
+
+One form of originality is creation. Another form is synthesis.
+
+People often focus so much on creating new ideas that they overlook the value of synthesizing ideas from different sources.
+
+Innovation usually mean connecting previously unconnected concepts.
+
+[source](https://jamesclear.com/3-2-1/may-28-2020)
+
+---
+
+## 2020-06-04
+
+“Motion does not equal action. Busyness does not equal effectiveness.”
+
+“When people say they don’t want to change what they really mean is they don’t have an incentive to change.
+
+Change the incentives and the behavior follows suit.”
+
+“Every action you take is a vote for the type of person you wish to become.
+
+No single instance will transform your beliefs, but as the votes build up, so does the evidence of your identity.
+
+This is why habits are crucial. They cast repeated votes for being a certain type of person.”
+
+Note: For more on this idea, see Chapter 2 of Atomic Habits.
+
+[source](https://jamesclear.com/3-2-1/june-4-2020)
+
+---
+
+## 2020-06-11
+
+“In times of uncertainty, your habits can ground you.
+
+When you feel overwhelmed, practice 1 minute of mindfulness.
+
+When you feel restless, do a 1-minute workout.
+
+When the world seems uncontrollable, focus on what you can control.”
+
+“The two skills of modern business: Storytelling and spreadsheets.
+
+Know the numbers. Craft the narrative.”
+
+“People keep reading self-help and revisiting the same ideas because that’s precisely what we need: to be reminded.
+
+The problem is not that information is unhelpful, but that attention is fleeting.
+
+Nobody focuses on one idea every minute of the day. Good books refocus the mind.”
+
+[source](https://jamesclear.com/3-2-1/june-11-2020)
+
+---
+
+## 2020-06-18
+
+“The Paradox of Freedom:
+
+The way to expand your freedom is to narrow your focus.
+
+Stay focused on saving to achieve financial freedom.
+
+Stay focused on training to achieve physical freedom.
+
+Stay focused on learning to achieve intellectual freedom.”
+
+“Mental toughness is persistence not intensity.”
+
+“The Cycle of Improvement:
+
+1. Awareness – identify what you need to improve.
+
+2. Deliberate practice – focus your conscious effort on the specific area you want to improve.
+
+3. Habit – with practice, the effortful becomes automatic.
+
+4. Repeat – begin again.”
+
+[source](https://jamesclear.com/3-2-1/june-18-2020)
+
+---
+
+## 2020-06-25
+
+“Where you spend your attention is where you spend your life.”
+
+“You always hold the rights to your effort, but never to your results.
+
+Results are entitled to no one. At best, they are on loan and must be renewed each day.
+
+All you own is the right to try.”
+
+“Some of the major drivers of human behavior…
+
+- Safety: Does it provide peace of mind or reduce risk?
+- Sex: Does it help them find love or make love?
+- Convenience: Does it save time or energy?
+- Social norms: Does it help them get along with others?
+- Status: Does it improve their standing or help them gain approval?
+
+…which all fit into the larger category of self-interest: How does it serve the person?”
+
+[source](https://jamesclear.com/3-2-1/june-25-2020)
+
+---
+
+## 2020-07-02
+
+“Stop worrying about how long it will take and get started. Time will pass either way.”
+
+“What is the real goal?
+
+The real goal is not to “beat the market.” The goal is to build wealth.
+
+The real goal is not to read more books. The goal is to understand what you read.
+
+Don’t let a proxy become the target. Don’t optimize for the wrong outcome.”
+
+“Without hard work, a great strategy remains a dream.
+
+Without a great strategy, hard work becomes a nightmare.”
+
+[source](https://jamesclear.com/3-2-1/july-2-2020)
+
+---
+
+## 2020-07-09
+
+“Time spent working hard is often better spent identifying where the bottleneck is located.
+
+Working hard on the wrong thing leads to frustration, not progress.”
+
+“3 things that help habits stick:
+
+1) Repetition. Habits form based on frequency, not time.
+
+2) Stable context. If the context is always changing, so is the behavior. You need a reliable environment.
+
+3) Positive emotions. If it feels good, you’ll want to repeat it.”
+
+“When you lose track of time, you are either living your best life or wasting it.”
+
+[source](https://jamesclear.com/3-2-1/july-9-2020)
+
+---
+
+## 2020-07-16
+
+“It is better to start as a fool and learn from your mistakes than to fake being a genius and ignore your errors.”
+
+“Be forgiving with your past self.
+
+Be strict with your present self.
+
+Be flexible with your future self.”
+
+“Action forces prioritization.
+
+If you’re stuck deciding between options, force yourself to act. You can only act on one thing at a time, which means you will have to make something the top priority.
+
+Even if you pick wrong, you’ll learn something.”
+
+[source](https://jamesclear.com/3-2-1/july-16-2020)
+
+---
+
+## 2020-07-23
+
+“Progress requires unlearning.”
+
+“Live with a bias toward action.
+
+Ironically, this will teach you patience. When you take action each day, you learn the value of accumulating small improvements over time. You understand how daily habits compound.
+
+Be impatient with your actions. Be patient with your results.”
+
+“If a decision is reversible, the biggest risk is moving too slow.
+
+If a decision is irreversible, the biggest risk is moving too fast.”
+
+[source](https://jamesclear.com/3-2-1/july-23-2020)
+
+---
+
+## 2020-07-30
+
+“Take a simple idea and take it seriously.”
+—Charlie Munger
+
+Doing a few sets of pushups each day is a simple idea.
+
+Saving at least 10% of your income is a simple idea.
+
+Sending Thank You notes is a simple idea.
+
+…but most people don’t take simple ideas seriously.
+
+“What looks like a talent gap is often a focus gap.
+
+The ‘all star’ is often an average to above average performer who spends more time working on what is important and less time on distractions.
+
+The talent is staying focused.”
+
+“Procrastinating on something important is choosing to delay a better future.”
+
+[source](https://jamesclear.com/3-2-1/july-30-2020)
+
+---
+
+## 2020-08-06
+
+“A difficult lesson to learn: Your most persistent distractions will seem justified to you.”
+
+“When feedback is immediate, clear, and concrete, people learn quickly.
+
+When feedback is delayed, abstract, and opaque, people rarely learn.”
+
+“Step 1: Know exactly what you want. Have a big vision that is crystal clear.
+
+Step 2: Know exactly what is true. See reality for what it is and accept the honest facts of the situation.
+
+Step 3: Be flexible in the way you close the gap between 1 and 2.
+
+Bold. Rational. Adaptable.”
+
+[source](https://jamesclear.com/3-2-1/august-6-2020)
+
+---
+
+## 2020-08-13
+
+“A few things you need to achieve exceptional results:
+
+Quantity: You take lots of shots.
+
+Quality: You take thoughtful shots.
+
+Consistency: You keep shooting for a long time.
+
+Feedback: You take better shots over time.
+
+Luck: You get a few favorable bounces.”
+
+“Most topics are not worth having an opinion about.”
+
+“If you work, inspiration will come.
+
+If you wait, inspiration will too.”
+
+[source](https://jamesclear.com/3-2-1/august-13-2020)
+
+---
+
+## 2020-08-20
+
+“If the only reason you’re not pursuing a dream is because of the length of time it will take to achieve it, you should start right now. Think long-term.”
+
+“Don’t write to sound smart. Write to be useful.
+
+If you’re useful over a long time period, you will end up looking smart anyway.”
+
+“The difference between motion and action.
+
+Motion:
+
+-talk to a personal trainer
+-research your book idea
+-explore different types of meditation
+
+Action:
+
+-do 10 squats
+-write 1 sentence
+-meditate for 1 minute
+
+Motion feels like progress. Action is progress.”
+
+[source](https://jamesclear.com/3-2-1/august-20-2020)
+
+---
+
+## 2020-08-27
+
+“It’s better to do less than you hoped than nothing at all. No zero days.”
+
+An idea from Atomic Habits:
+
+“The key—if you want to build habits that last—is to join a group where the desired behavior is the normal behavior.”
+
+“In the long-run, the people who succeed are the ones who want to live the lifestyle that precedes the results.
+
+Stop asking, “What results do I want to have?”
+
+Start asking, “What lifestyle do I want to live?”
+
+It’s common to want results. It’s rare to want the lifestyle.”
+
+[source](https://jamesclear.com/3-2-1/august-27-2020)
+
+---
+
+## 2020-09-03
+
+“The most overlooked and underappreciated growth strategy is patience.
+
+(More specifically, consistently producing great work over a long time horizon.)”
+
+“Build before you have to.
+
+– Build knowledge before you have to.
+– Build strength before you have to.
+– Build an emergency fund before you have to.
+
+Let internal pressure drive you today, so you can handle external pressure tomorrow.”
+
+“Vision is the bottleneck of talent.
+
+Most talent is wasted because people do not clearly know what they want. It’s not a lack of effort, but a lack of direction.
+
+There are many capable people in the world, but relatively few that focus on what matters.”
+
+[source](https://jamesclear.com/3-2-1/september-3-2020)
+
+---
+
+## 2020-09-10
+
+“It costs nothing to ask a successful person how they succeeded, but it may deliver more value than 1,000 hours of hard work.
+
+Others are under no obligation to tell you their secrets, but it is surprising how much you can learn from sincere, direct, and thoughtful questions.”
+
+“Don’t spend what you haven’t earned.
+
+Avoid financial debt. Don’t spend money you haven’t earned.
+
+Avoid social debt. Don’t spend goodwill you haven’t earned.
+
+Avoid calendar debt. Don’t spend (free) time you haven’t earned.
+
+The disciplined earner can be a guilt-free spender.”
+
+“It’s crazy how 1,000 people can compliment you and you’ll spend all day thinking about the one person who criticized you.”
+
+[source](https://jamesclear.com/3-2-1/september-10-2020)
+
+---
+
+## 2020-09-17
+
+“Most people think they lack motivation when they really lack clarity.”
+
+For more on this idea, see Chapter 5 of Atomic Habits.
+
+“What looks like talent is often careful preparation.
+
+What looks like skill is often persistent revision.”
+
+“The 4 qualities of a great career:
+
+1) I enjoy it
+2) I’m good at it
+3) I make good money
+4) I’m around fascinating people
+
+Answer in reverse order:
+
+1) Where are fascinating people?
+2) In what ways can I make money with them?
+3) Which ones am I good at?
+4) Which ones do I enjoy?”
+
+[source](https://jamesclear.com/3-2-1/september-17-2020)
+
+---
+
+## 2020-09-24
+
+“Feel compliments as deeply as you feel insults.”
+
+“Working on a problem reduces the fear of it.
+
+It’s hard to fear a problem when you are making progress on it—even if progress is imperfect and slow.
+
+Action relieves anxiety.”
+
+“Success is largely the failures you avoid.
+
+Health is the injuries you don’t sustain.
+
+Wealth is the purchases you don’t make.
+
+Happiness is the objects you don’t desire.
+
+Peace of mind is the arguments you don’t engage.
+
+Avoid the bad to protect the good.”
+
+Hat tip to Morgan Housel for sparking this idea.
+
+[source](https://jamesclear.com/3-2-1/september-24-2020)
+
+---
+
+## 2020-10-01
+
+“When talent is lacking, habit will often suffice.”
+
+“Go smaller.
+
+Can’t learn an exercise? Reduce the range of motion.
+
+Struggling to grasp a new concept? Break it down.
+
+Failing to stick with a habit? Make it easy.
+
+Master stage one, then advance.”
+
+“‘You’re probably right’ has become one of my favorite phrases.
+
+Whenever someone disagrees with you on a small matter (read: most things), you can shrug, say ‘you’re probably right’ and move on.
+
+Not caring about winning trivial arguments saves so much time and energy.”
+
+[source](https://jamesclear.com/3-2-1/october-1-2020)
+
+---
+
+## 2020-10-08
+
+“Do the most important thing first each day and you’ll never have an unproductive day.”
+
+“Lack of confidence kills more dreams than lack of ability.
+
+Talent matters—especially at elite levels—but people talk themselves out of giving their best effort long before talent becomes the limiting factor.
+
+You’re capable of more than you know. Don’t be your own bottleneck.”
+
+“Entrepreneur’s mind.
+Athlete’s body.
+Artist’s soul.”
+
+[source](https://jamesclear.com/3-2-1/october-8-2020)
+
+---
+
+## 2020-10-15
+
+“I’d estimate at least half of my frustrations with others are actually frustrations with myself for failing to set clear boundaries and stand by them.”
+
+“Read books that are relevant to what you want to achieve and reading will never seem boring.”
+
+“The fastest way to improve is to learn from others.
+
+- Read good books
+- Talk to people who have done it
+- Soak up the lessons of the past
+
+Learn from the experiments history has already run and you can start the race halfway finished.”
+
+[source](https://jamesclear.com/3-2-1/october-15-2020)
+
+---
+
+## 2020-10-22
+
+“Be radically proactive about any behavior that pays off in 10 years.”
+
+“To simplify before you understand the details is ignorance.
+
+To simplify after you understand the details is genius.”
+
+“A 5-step process for nearly anything:
+
+1) Explore widely. Find out what is possible.
+
+2) Test cheaply. Run small, quick experiments. Sample things.
+
+3) Edit ruthlessly. Focus on the best. Cut everything else.
+
+4) Repeat what works. Don’t quit on a good idea.
+
+5) Return to 1.”
+
+[source](https://jamesclear.com/3-2-1/october-22-2020)
+
+---
+
+## 2020-10-29
+
+“Be “selectively ignorant.”
+
+Ignore topics that drain your attention.
+
+Unfollow people that drain your energy.
+
+Abandon projects that drain your time.
+
+Do not keep up with it all. The more selectively ignorant you become, the more broadly knowledgeable you can be.”
+
+“Reading can teach you the best of what others already know.
+
+Reflection can teach you the best of what only you can know.”
+
+“The math of success…
+
+Results = (Hard Work*Time)^Strategy
+
+Working hard is important, but working on the right thing is more important. A great strategy can deliver exponential results.
+
+Of course, the best strategy is worth nothing if you never get to work. Zero to the millionth power is still zero.”
+
+[source](https://jamesclear.com/3-2-1/october-29-2020)
+
+---
+
+## 2020-11-05
+
+“You can borrow knowledge, but not action.”
+
+“The trick to writing well is to…
+
+– take long sentences and make them short
+
+– take confusing ideas and make them clear
+
+– take unrelated concepts and make them related
+
+…without losing the main idea in the process.”
+
+“Successful outcomes are never the result of a single choice. They are built up through good choices over time.
+
+A profitable business is never a choice, it is a series of choices.
+
+A fit body is never a choice, it is a series of choices.
+
+A strong relationship is never a choice, it is a series of choices.”
+
+[source](https://jamesclear.com/3-2-1/november-5-2020)
+
+---
+
+## 2020-11-12
+
+“Writing is the antidote to confusion.”
+
+“When reading books or listening to podcasts or taking advice, remember that everyone is biased to their personal history.
+
+The world is complex and there is no single path to a success. Look for patterns that are repeated across many successful people, not single stories.”
+
+“Beginner = ignorant simplicity
+
+Intermediate = functional complexity
+
+Advanced = profound simplicity”
+
+[source](https://jamesclear.com/3-2-1/november-12-2020)
+
+---
+
+## 2020-11-19
+
+“The feeling of progress is one of the best feelings of all. This is true even when progress is small.”
+
+“Many people work hard, but few people work on the highest and best thing.
+
+Usually, it takes no more effort to work on high leverage tasks than it does to work on low leverage ones.
+
+It’s just a matter of directing your energy.”
+
+“Not enough is said about the power of thinking about one topic for a long period of time.
+
+If you revisit a topic continually for a few years, most problems (and many solutions) will occur to you at some point.
+
+Expertise can be the gradual accumulation of many modest insights.”
+
+[source](https://jamesclear.com/3-2-1/november-19-2020)
+
+---
+
+## 2020-11-26
+
+“If you genuinely care about the goal, you’ll focus on the system.”
+
+“Successes are revised mistakes.”
+
+“Amazing social skills are a superpower.
+
+The ability to deliver bad news in a good way is a superpower.
+
+The ability to de-escalate a tense situation into a calm one is a superpower.
+
+The ability to transform a lose/win situation into a win/win situation is a superpower.”
+
+[source](https://jamesclear.com/3-2-1/november-26-2020)
+
+---
+
+## 2020-12-03
+
+“Every skill you have today was once unknown to you.
+
+The human brain is a learning machine. Stick with it.”
+
+“The best exercise for gaining strength is not missing workouts.”
+
+“The secret to winning is learning how to lose.
+
+That is, learning to bounce back from failure and disappointment—undeterred—and continuing to steadily march toward your potential.
+
+Your response to failure determines your capacity for success.”
+
+[source](https://jamesclear.com/3-2-1/december-3-2020)
+
+---
+
+## 2020-12-10
+
+“The more disciplined your environment is, the less disciplined you need to be. Don’t swim upstream.”
+
+“Many people delay taking action because they hope to avoid suffering. They keep searching for a path that won’t involve tradeoffs.
+
+But some form of suffering is always inevitable. The process of taking action is the process of choosing your pain.”
+
+“Before you begin, think as if you are a lazy person. Imagine the competition will work harder. Your only chance is a better strategy.
+
+After you begin, work as if you are a dumb person. Imagine the competition is smarter and more talented. Your only chance is to outwork them.”
+
+[source](https://jamesclear.com/3-2-1/december-10-2020)
+
+---
+
+## 2020-12-17
+
+“Life instantly improves when you don’t blame other people and focus on what you can control.”
+
+“Broad ideas influence more people.
+
+Specific ideas influence people more.”
+
+“When an online course tells you how to make money in real estate remember they are making money by selling online courses.
+
+When a conference covers how to build an online business remember they are building an event business.
+
+Learn from what people do as much as what they say.”
+
+[source](https://jamesclear.com/3-2-1/december-17-2020)
+
+---
+
+## 2020-12-24
+
+“Modeling a behavior is stronger than telling someone to act differently.
+
+Kids imitate the habits of their parents. Teammates match the competitive energy of one another. Employees learn to manage like their supervisor.
+
+Be the standard and others will raise their standards.”
+
+“The most important conversation is the conversation you have with yourself each day.”
+
+“Your favorite athlete’s first workout was just as bad as yours.
+
+Your favorite chef’s first meal was just as bad as yours.
+
+Your favorite artist’s first work was just as bad as yours.
+
+Keep going.”
+
+[source](https://jamesclear.com/3-2-1/december-24-2020)
+
+---
+
+## 2020-12-31
+
+“If you genuinely care about the goal, you’ll focus on the system.”
+
+“We often avoid taking action because we think “I need to learn more,” but the best way to learn is often by taking action.”
+
+A final thought from Atomic Habits as we start the new year:
+
+“Improvements are only temporary until they become part of who you are.
+
+-The goal is not to read a book, the goal is to become a reader.
+
+-The goal is not to run a marathon, the goal is to become a runner.
+
+-The goal is not to learn an instrument, the goal is to become a musician.
+
+This year, focus on the identity you want to build.”
+
+[source](https://jamesclear.com/3-2-1/december-31-2020)
+
+---
+
+## 2021-01-07
+
+“Maturity is learning how to start when you feel like procrastinating and learning how to listen when you feel like talking.”
+
+“Solve big problems early.
+
+Rebound after one missed workout, not a decade of inactivity.
+
+Repair a strained relationship the next day, not years later.
+
+Fix overspending before it becomes a lifestyle.
+
+Problems with simple solutions at first become difficult to unwind over time.”
+
+“There are nearly endless opportunities to improve each day and finding them largely boils down to being curious.
+
+People who are better in the end are usually curious in the beginning.”
+
+[source](https://jamesclear.com/3-2-1/january-7-2021)
+
+---
+
+## 2021-01-14
+
+“In the long run, the way you treat your time is the way others treat it too.”
+
+“A brief guide to leadership:
+
+- Always know the answer to, “What are we optimizing for?”
+- Recruit. Recruit. Recruit.
+- Never ask someone to do something you aren’t willing to do yourself.
+- Give away the credit. Take the blame.”
+
+“The trajectory of your life bends in the direction of your habits.”
+
+[source](https://jamesclear.com/3-2-1/january-14-2021)
+
+---
+
+## 2021-01-21
+
+“Just have one good day. Then repeat.”
+
+“Things that keep talented people from fulfilling their potential:
+
+– Trying to please everyone
+– Imitating the desires of others
+– Chasing status without questioning why
+– Playing superhero and trying to do it all alone
+– Dividing your attention between too many projects”
+
+“When I notice myself worrying about “what other people will think” I find I’m usually not worried about any single person’s opinion.
+
+If I pick a specific person, I‘m rarely concerned about what they will think.
+
+What I fear is the collective opinion in my head. It’s imaginary.”
+
+[source](https://jamesclear.com/3-2-1/january-21-2021)
+
+---
+
+## 2021-01-28
+
+“Instead of working toward retirement, work toward your ideal lifestyle. There is usually a path to get there in a few years instead of a few decades.”
+
+“It’s usually more important to be in the right room than to be the smartest person in the room.
+
+A person with great judgment and average intelligence will usually beat someone with great intelligence and average judgment.
+
+Judgment is knowing what room to be in.”
+
+“Improvement is a battle that must be fought anew each day.
+
+Your next workout doesn’t care how strong your last one was.
+
+Your next essay doesn’t care how popular your last one was.
+
+Your next investment doesn’t care how smart your last one was.
+
+Your best effort, again.”
+
+[source](https://jamesclear.com/3-2-1/january-28-2021)
+
+---
+
+## 2021-02-04
+
+“It took me…
+
+200+ articles before I got a book deal.
+250+ articles before I got major media coverage.
+100+ interviews before my book hit the bestseller list.
+
+You need a lot of shots on goal. Not everything will work, but some of it will.
+
+Keep shooting.”
+
+“The challenge for anyone interested in making progress is to simultaneously have (1) the confidence to go after what you want and (2) the humility to accept who you are right now and (3) the willingness to build skills that bridge the gap between 1 and 2.”
+
+“Where to focus:
+
+For the beginner, execution.
+
+For the intermediate, strategy.
+
+For the expert, mindset.”
+
+[source](https://jamesclear.com/3-2-1/february-4-2021)
+
+---
+
+## 2021-02-11
+
+“If you never copy best practices, you’ll have to repeat all the mistakes yourself.
+
+If you only copy best practices, you’ll always be one step behind the leaders.”
+
+“A brief guide to improvement:
+
+1) Lots of research. Explore widely and see what is possible.
+
+2) Lots of iterations. Focus on one thing, but do it in different ways. Refine your method.
+
+3) Lots of repetitions. Stick with your method until it stops working.
+
+Research. Iterate. Repeat.”
+
+“Being underestimated is a gift. You don’t have to find motivation.”
+
+[source](https://jamesclear.com/3-2-1/february-11-2021)
+
+---
+
+## 2021-02-18
+
+“I rarely have good ideas.
+
+To overcome this limitation, I think about one topic (like habits) for an unreasonable amount of time. Then, I revise, revise, revise until only the best stuff remains. It’s slow, but it works.
+
+You can either be a genius or you can be patient.”
+
+“You can attract luck simply by sharing your work publicly.”
+
+“For a few weeks, I started each morning by writing “What do I actually want?” at the top of a blank page.
+
+It’s surprising how useful it is to keep asking the same question. Each time, my answer became more precise.
+
+Once I knew what I wanted, I turned it into action steps.”
+
+[source](https://jamesclear.com/3-2-1/february-18-2021)
+
+---
+
+## 2021-02-25
+
+“Rome wasn’t built in a day, but they were laying bricks every hour.
+
+You don’t have to do it all today. Just lay a brick.”
+
+“School requires you to learn about things after the answer has already been decided.
+
+Life requires you to learn about things while the answer is in the process of being decided.”
+
+“Clarity is the elimination of mental clutter.
+
+Agility is the elimination of physical clutter.
+
+Tranquility is the elimination of spiritual clutter.”
+
+[source](https://jamesclear.com/3-2-1/february-25-2021)
+
+---
+
+## 2021-03-04
+
+“Greatness is consistency.
+
+Meditating once is common. Meditating daily is rare.
+
+Exercising today is simple. Training every week is simply remarkable.
+
+Writing one essay rarely matters. Write every day and you’re practically a hero.
+
+Unheroic days can make for heroic decades.”
+
+“An approach that has worked well for me: Friendly, but persistent.”
+
+“People generally have more control over their actions than their feelings.
+
+But we can influence our feelings by taking action.
+
+Take one small step. Move the body first and the mind will follow.”
+
+[source](https://jamesclear.com/3-2-1/march-4-2021)
+
+---
+
+## 2021-03-11
+
+“Repetition unlocks value.
+
+The value of your first workout increases the more you exercise.
+
+The value of your first article increases the more you write.
+
+The value of your first conversation increases the longer you stay in the relationship.
+
+Day One continues to compound.”
+
+“The sooner you make a choice, the sooner you can make an adjustment.”
+
+“Books are more likely to change minds than conversations.
+
+There is too much happening internally during conversation:
+
+Did that sound stupid?
+What do they think of me?
+Will I lose the friendship over this opinion?
+
+Books can let you chew on an idea without social risk.”
+
+[source](https://jamesclear.com/3-2-1/march-11-2021)
+
+---
+
+## 2021-03-18
+
+“New goals don’t deliver new results. New lifestyles do.
+
+And a lifestyle is a process, not an outcome.
+
+For this reason, your energy should go into building better habits, not chasing better results.”
+
+“Some things are better off ignored than attacked.
+
+Attention is the oxygen of conflict. When you fight a problem, you breathe life into it. When you starve a problem of your attention, you suffocate it.
+
+In a surprising number of cases, the way to solve a problem is to ignore it.”
+
+“The events of your past are fixed. The meaning of your past is not.
+
+The influence of every experience in your life is determined by the meaning you assign to it.
+
+Assign a more useful meaning to your past and it becomes easier to take a more useful action in the present.”
+
+[source](https://jamesclear.com/3-2-1/march-18-2021)
+
+---
+
+## 2021-03-25
+
+“Italy is known for tomatoes. Thailand for chilies. Germany for sauerkraut.
+
+But tomatoes originated in Peru. Thailand imported chilies from Central America. Sauerkraut started in China.
+
+Everything is a remix—and the world is better for it. Share what you know. Learn from others.”
+
+A reminder from Atomic Habits:
+
+“Habits are the compound interest of self-improvement.
+
+A small habit—when repeated consistently—grows into something significant.”
+
+“People who excel tend to obsess over the details.
+
+People who struggle also tend to obsess over the details.
+
+The difference is what details they focus on. Minutiae vs polish.
+
+Most things don’t matter—but when it does, you want to get the details right.”
+
+[source](https://jamesclear.com/3-2-1/march-25-2021)
+
+---
+
+## 2021-04-01
+
+“Fear of failure is higher when you’re not working on the problem.
+
+If you are taking action, you are less worried about failure because you realize you can influence the outcome.”
+
+“You can often learn more from peers who are 2 years ahead of you than mentors who are 20 years ahead of you.
+
+Life evolves and most insights get outdated.”
+
+“Maintain a margin of safety—even when it’s going well.
+
+Rich people go bankrupt chasing even more wealth.
+
+Fit people get injured chasing personal records.
+
+Productive people become ineffective taking on too many projects.
+
+Don’t let your ambition ruin your position.”
+
+[source](https://jamesclear.com/3-2-1/april-1-2021)
+
+---
+
+## 2021-04-08
+
+“A simple rule for life and work:
+
+Don’t rush, but don’t wait.
+
+Thoughtful action.”
+
+“Your life is purchased by where you spend your attention.”
+
+“The Process:
+
+1) Decide what you want to achieve. 
+2) Try different ways of achieving it until you find one that works for you. 
+3) Do more of what works. Do less of what doesn’t. 
+4) Don’t stop doing it until it stops working. 
+5) Repeat.”
+
+[source](https://jamesclear.com/3-2-1/april-8-2021)
+
+---
+
+## 2021-04-15
+
+“Whenever you are stuck searching for the optimal plan, remember:
+
+Getting started changes everything.”
+
+“The desire to improve does not have to come from a place of self-loathing.”
+
+“The teacher learns more than the student.
+
+The author learns more than the reader.
+
+The speaker learns more than the attendee.
+
+The way to learn is by doing.”
+
+[source](https://jamesclear.com/3-2-1/april-15-2021)
+
+---
+
+## 2021-04-22
+
+“The more you move, the easier it is to keep moving. Maintain the momentum.”
+
+“The best properties are rarely for sale.
+
+The best employees are rarely job hunting.
+
+The best clients are rarely shopping.
+
+The best option is usually off the market. Most people think this means you can’t have it. What it really means is you have to go find it and sell yourself.”
+
+“The Paradox of Focus:
+
+Make the most of one opportunity and more opportunities will come your way.
+
+Moving boldly in one direction causes more paths to unfold before you.
+
+To get more, focus on less.”
+
+[source](https://jamesclear.com/3-2-1/april-22-2021)
+
+---
+
+## 2021-04-29
+
+“How did you accomplish that?”
+
+“Same as everything else. Gradually, then all at once.”
+
+“Books for mindset.
+
+Quiet time to think for strategy.
+
+Conversations with successful peers for tactics.”
+
+“In many cases, the bottleneck to achieving results is simply making the time to do the work.
+
+You’re capable of exercising, but are you making the time?
+
+You’re capable of writing, but are you making the time?
+
+You’re capable of reading, but are you making the time?”
+
+[source](https://jamesclear.com/3-2-1/april-29-2021)
+
+---
+
+## 2021-05-06
+
+“More effort is wasted doing things that don’t matter than is wasted doing things inefficiently.
+
+Elimination is the highest form of optimization.”
+
+“We cannot predict the value our work will provide to the world. That’s fine. It is not our job to judge our own work. It is our job to create it, to pour ourselves into it, and to master our craft as best we can.”
+
+“You can increase your surface area for good luck by taking action.
+
+The forager who explores widely will find lots of useless terrain, but is also more likely to stumble across a bountiful berry patch than the person who stays home.
+
+Similarly, the person who works hard, pursues opportunity, and tries more things is more likely to stumble across a lucky break than the person who waits.”
+
+[source](https://jamesclear.com/3-2-1/may-6-2021)
+
+---
+
+## 2021-05-13
+
+“The way someone else perceives what you do is a result of their own experiences (which you can’t control), their own preferences (which you can’t predict), and their own expectations (which you don’t set).
+
+If your choices don’t match their expectations that is their concern, not yours.”
+
+“A recipe for getting more out of what you read:
+
+Start more books. Quit most of them. Read the great ones twice.”
+
+“The most reliable way to change your life is by not changing your entire life.
+
+If you try to change everything all at once, you will quickly find yourself pulled back into the same patterns as before. But if you merely focus on changing one specific habit and work on it until it becomes part of your normal day, you will find your life changes naturally as a side effect.
+
+Improve the whole by mastering one thing.”
+
+[source](https://jamesclear.com/3-2-1/may-13-2021)
+
+---
+
+## 2021-05-20
+
+“Saying no saves you time in the future. Saying yes costs you time in the future.
+
+No is like a time credit. You can spend that block of time in the future.
+
+Yes is like a time debt. You have to repay that commitment at some point.
+
+No is a decision. Yes is a responsibility.”
+
+“Most of the excuses I made…
+
+– not enough time 
+– not enough money 
+– not enough knowledge 
+– not the right connections
+
+…were just ways to avoid the real bottleneck: Not enough courage.
+
+There was always a small step I could have taken—if I had the guts to take it.”
+
+“You can either be judged because you created something or ignored because you left your greatness inside of you. Your call.”
+
+[source](https://jamesclear.com/3-2-1/may-20-2021)
+
+---
+
+## 2021-05-27
+
+“Convincing someone to change their mind is really the process of convincing someone to change their tribe. If they abandon their beliefs, they run the risk of losing social ties. You can’t expect someone to change their mind if you take away their community too. You have to give them somewhere to go.
+
+Nobody wants their worldview torn apart if loneliness is the outcome.”
+
+“If you think you can learn a lot from reading books, try writing one.”
+
+“The list of mistakes you can never recover from is very short.
+
+But you likely realize your life will not be destroyed if your book doesn’t sell or if a potential date turns you down or if your startup goes bust. It’s not the failed outcome that paralyzes us. It’s the possibility of looking stupid, feeling humiliated, or dealing with embarrassment that prevents us from getting started at all.
+
+The first step to being courageous is being willing to look foolish.”
+
+[source](https://jamesclear.com/3-2-1/may-27-2021)
+
+---
+
+## 2021-06-03
+
+“There will never be a perfect time to do something that stretches you.
+
+That’s true whether you are starting a business, having a child, changing careers, or wrestling with any number of challenges. That’s not a license to be reckless and never think things through, but at some point you have to embrace the uncertainty because it is the only path forward.
+
+If you were ready for it, it wouldn’t be growth.”
+
+“Planning and preparation are useful until they become a form of procrastination.
+
+Is this task enhancing my actions or substituting for them?”
+
+“Too often, we fall into an all-or-nothing cycle with our habits.
+
+The problem is not slipping up; the problem is thinking that if you can’t do something perfectly, then you shouldn’t do it at all.”
+
+[source](https://jamesclear.com/3-2-1/june-3-2021)
+
+---
+
+## 2021-06-10
+
+“Patience is a competitive advantage.
+
+In a surprising number of fields, you can find success if you are simply willing to do the reasonable thing longer than most people.”
+
+“Most people don’t want accurate information, they want validating information.
+
+Growth requires you to be open to unlearning ideas that previously served you.”
+
+“Your mind is a suggestion engine. Every thought you have is a suggestion, not an order.
+
+Sometimes your mind suggests that you are tired, that you should give up, or that you should take an easier path.
+
+But if you pause, you can discover new suggestions. For example, that you will feel good once the work is done or that you have the ability to finish things even when you don’t feel like it.
+
+Your thoughts are not orders. Merely suggestions. You have the power to choose which option to follow.”
+
+[source](https://jamesclear.com/3-2-1/june-10-2021)
+
+---
+
+## 2021-06-17
+
+“Motivation often comes after starting, not before.
+
+Action produces momentum.”
+
+“Almost anything in life can be learned faster.
+
+Most people learn passively. They wait for insights to come to them.
+
+But you can speed things up by actively searching for useful ideas.
+
+One strategy is to ask the top people what they do. Make their best practices your baseline.”
+
+“We spend a lot of time talking about everything we have to do.
+
+You have to finish 10 things at work. You have to exercise today. You have to cook dinner for your family.
+
+Now, change one word in each sentence. You don’t “have” to. You “get” to.
+
+You get to finish 10 things at work. You get to exercise today. You get to cook dinner for your family.
+
+The right perspective transforms your burdens into opportunities.”
+
+[source](https://jamesclear.com/3-2-1/june-17-2021)
+
+---
+
+## 2021-06-24
+
+“Starting from zero can be a gift.
+
+If you don’t have much to begin with, you don’t have much to lose.
+
+You can be bold when you aren’t trying to protect something.”
+
+“In many cases, the outcome you want will continue to elude you—even if you try harder.
+
+But it may be possible if you try differently.
+
+Can your current choices carry you to your desired future? If not, something has to change. You can’t get there from here. You have to get on a different trajectory.”
+
+“You don’t need a better computer to become a writer.
+
+You don’t need a better guitar to become a musician.
+
+You don’t need a better camera to become a photographer.
+
+What you need is to get to work.”
+
+[source](https://jamesclear.com/3-2-1/june-24-2021)
+
+---
+
+## 2021-07-01
+
+“Choosing the priority is as important as working on it.”
+
+“A surprisingly effective way to get what you want is to not settle for less than what you want.
+
+It doesn’t always work—you can’t force the world to be a certain way—and you may need healthy doses of patience and doggedness, but your life bends toward what you accept.”
+
+“We need to redefine “hard work” to include “hard thinking.”
+
+The person who outsmarts you is out working you. The person who finds shortcuts is out working you. The person with a better strategy is out working you.
+
+Usually, the hardest work is thinking of a better way to do it.”
+
+[source](https://jamesclear.com/3-2-1/july-1-2021)
+
+---
+
+## 2021-07-08
+
+“You don’t need to predict how everything will play out.
+
+Just master the next step and continue moving in the right direction.”
+
+“Prediction depends on events outside your control.
+
+Creation depends on events within your control.
+
+Don’t guess about the future. Shape it.”
+
+“Three steps to exceptional results:
+
+1) Do less. Stop dividing your attention.
+
+2) Do it right now. Once you have identified the essential, go fast. Maintain a bias toward action.
+
+3) Do it the right way. Acting quickly doesn’t mean acting carelessly. Get to work right away, but keep working on it until it’s right.”
+
+[source](https://jamesclear.com/3-2-1/july-8-2021)
+
+---
+
+## 2021-07-15
+
+“Strangely, life gets harder when you try to make it easy.
+
+Exercising might be hard, but never moving makes life harder. Uncomfortable conversations are hard, but avoiding every conflict is harder. Mastering your craft is hard, but having no skills is harder.
+
+Easy has a cost.”
+
+“Unfinished projects can’t compound.”
+
+“When choosing a new habit many people seem to ask themselves, “What can I do on my best days?”
+
+The trick is to ask, “What can I stick to even on my worst days?”
+
+Start small. Master the art of showing up. Scale up when you have the time, energy, and interest.”
+
+[source](https://jamesclear.com/3-2-1/july-15-2021)
+
+---
+
+## 2021-07-22
+
+“Not being busy is a competitive advantage.
+
+Most people are so strapped for time they can’t take advantage of lucky opportunities or quickly resolve unexpected problems.
+
+Maintain a bias toward action, but leave room for the unexpected.”
+
+“Finishing projects is part of what it means to deliver high quality work. It’s not high quality if your perfectionism prevents you from finishing.”
+
+“I can’t tell you how many times I don’t feel like training and tell myself, “I’ll just do one set and see how I feel.”
+
+You would think it would stop working at some point, but I almost always end up doing the whole workout.
+
+Just start. Do a little and see what happens.”
+
+[source](https://jamesclear.com/3-2-1/july-22-2021)
+
+---
+
+## 2021-07-29
+
+“The Cardinal Rule of Behavior Change:
+
+What gets rewarded, gets repeated. What gets punished, gets avoided.
+
+Don’t reward behavior you don’t want to see repeated.”
+
+“The bad days are more important than the good days.
+
+If you write or exercise or meditate or cook when you don’t feel like it, then you maintain the habit.
+
+And if you maintain the habit, then all you need is time.”
+
+“You can usually accomplish more by giving something your full effort for a few years rather than giving it a lukewarm effort for fifty years.
+
+Pick a priority for this season of your life and do it to the best of your ability.”
+
+[source](https://jamesclear.com/3-2-1/july-29-2021)
+
+---
+
+## 2021-08-05
+
+“A quick and easy tip for building habits that last:
+
+Pick a standard time and place to do it.
+
+It’s easier to wake up knowing “I exercise at 4pm” than to decide each time when to fit a habit into your day.
+
+If it’s already decided, all you need to do is show up.”
+
+“Spend more time searching for better information sources.
+
+A body filled with junk food struggles to move well.
+
+A mind filled with junk thoughts struggles to think well.”
+
+“Different meanings can be assigned to the same events.
+
+Look for evidence of how the world is encouraging you, and you will find it.
+
+Look for evidence of how the world is burdening you, and you will find it.
+
+Choose an explanation that empowers you.”
+
+[source](https://jamesclear.com/3-2-1/august-5-2021)
+
+---
+
+## 2021-08-12
+
+“If you want a significant change in your results, then you probably need a significant change to your strategy. Working harder on your current strategy is unlikely to move the needle.
+
+Before you work harder, work on the right thing.
+
+Play better games. Win better prizes.”
+
+“The things you take pride in are the same things you are likely to be biased about.
+
+How might the things you take pride in be misleading you?
+
+The tighter you cling to your current identity, the harder it becomes to grow beyond it.”
+
+“Know what you want.
+
+Follow a trajectory where what you want is a possible outcome.
+
+Build a system to incrementally improve your ability to follow that trajectory.
+
+Trust yourself.
+
+Enjoy the outcomes.
+
+Repeat.”
+
+[source](https://jamesclear.com/3-2-1/august-12-2021)
+
+---
+
+## 2021-08-19
+
+“Never expect to fail, but always plan for it.
+
+The fastest way to get back on track is to have a plan for when you’re off it.”
+
+“In many cases, improvement is not about doing more things right, but about doing less things wrong.
+
+Don’t look for things to add. Look for things to eliminate.”
+
+“We cannot control our luck—good or bad—but we can control our effort and preparation.
+
+Luck smiles on us all from time to time. And when it does, the way to honor your good luck is to work hard and make the most of it.”
+
+[source](https://jamesclear.com/3-2-1/august-19-2021)
+
+---
+
+## 2021-08-26
+
+“Always be prepared to absorb a big hit.
+
+Always be focused enough to create a big win.
+
+Diversified enough to survive, concentrated enough to matter.”
+
+“Being yourself is a continuous effort.
+
+There is always another expectation placed upon you, another person pulling you toward their preferences, another nudge from society to act a certain way.
+
+It’s a daily battle to be yourself, not merely what the world wants you to be.”
+
+“Don’t feel qualified? Nobody does.
+
+You can only be qualified to do that which you have already accomplished or trained for.
+
+Anything new is accomplished by unqualified people.”
+
+[source](https://jamesclear.com/3-2-1/august-26-2021)
+
+---
+
+## 2021-09-02
+
+“Many people wish they started sooner. Almost nobody wishes they started later.”
+
+“Failure is most useful when you give your best effort.
+
+If you fail with a lackluster effort, you haven’t learned much. Perhaps you could have succeeded with a proper focus.
+
+But if your best effort fails, you have learned something valuable: this way doesn’t work.”
+
+“Nobody is rooting for you to fail.
+
+You may succeed. You may fail. But, for the most part, nobody cares one way or the other.
+
+This is good. The world is big and you are small, which means you can chase your dreams with little worry for what people think.”
+
+[source](https://jamesclear.com/3-2-1/september-2-2021)
+
+---
+
+## 2021-09-09
+
+“Big things start small, but not every small thing can become big.
+
+You need to be on the right trajectory. Choose the right playing field and success comes more easily.”
+
+“When failure is reversible, act quickly.
+
+When failure is irreversible, think carefully.”
+
+“Friendship happens on the way to something else.
+
+If you “try to meet new people” it feels weird and forced. The more you aim for friendship, the more it eludes you.
+
+But if you aim to learn or achieve something with others, friendship happens naturally during the shared pursuit.”
+
+[source](https://jamesclear.com/3-2-1/september-9-2021)
+
+---
+
+## 2021-09-16
+
+“Double down on your best relationship.
+
+It’s the investment with the highest return.”
+
+“People who jump from project to project are always dividing their effort, and producing high quality work becomes difficult without intense effort.
+
+Meanwhile, your average work day can be leisurely, yet also productive, if you return to the same project each day.
+
+Do one thing well and watch it compound.”
+
+“Life is easier when you know what you want—but most people don’t take the time to figure out what they want.
+
+It’s not that we are completely lost, but our efforts are often slightly misdirected. People will work for years and ultimately achieve a lifestyle that isn’t quite what they were hoping for—often, simply, because they never clearly defined what they wanted.
+
+An hour of thinking can save you a decade of work.”
+
+[source](https://jamesclear.com/3-2-1/september-16-2021)
+
+---
+
+## 2021-09-23
+
+“The world rewards you for value provided, not time spent.”
+
+“The important thing is not to keep winning, but to keep reaching.”
+
+“Always leave room for the unexpected. A buffer of time, a little extra money, a reserve of goodwill.
+
+You won’t be maximizing every opportunity or squeezing out every last dollar, but what you lose in reward, you gain in safety.
+
+Survival is the highest return of all.”
+
+[source](https://jamesclear.com/3-2-1/september-23-2021)
+
+---
+
+## 2021-09-30
+
+“You only need to know the direction, not the destination.
+
+The direction is enough to make the next choice.”
+
+“If you want to find a better path, you have to be willing to explore a different path.
+
+That sounds simple, but how often do you try something different?”
+
+“How to build a career in 7 steps:
+
+1. Do great work.
+
+2. Share it publicly.
+
+3. Cold email people 2 steps ahead of you.
+
+4. Talk about your work and trade ideas.
+
+5. Host events and meet in-person.
+
+6. Become friends.
+
+7. Rise together.”
+
+[source](https://jamesclear.com/3-2-1/september-30-2021)
+
+---
+
+## 2021-10-07
+
+“There is a difference between moving fast and rushing.
+
+You can move fast and be thoughtful. When you rush, you sacrifice thoughtfulness.
+
+Conversely, when you are thoughtful but not moving fast, you are overthinking it. Procrastination in disguise.
+
+Don’t rush, but don’t wait.”
+
+“The more you create, the more powerful you become.
+
+The more you consume, the more powerful others become.”
+
+“The antidote to a bad day is a good workout.”
+
+[source](https://jamesclear.com/3-2-1/october-7-2021)
+
+---
+
+## 2021-10-14
+
+“The secret to being productive is to work on the right thing—even if it’s at a slow pace.”
+
+“The best business ideas have yet to be tried. The best books have yet to be written. The best relationships have yet to be formed.
+
+It’s not too late. The space of possibilities is endless. The most interesting terrain remains unexplored.”
+
+“Do less. Keep returning to one thing and continue to refine it.”
+
+[source](https://jamesclear.com/3-2-1/october-14-2021)
+
+---
+
+## 2021-10-21
+
+“One of the only true shortcuts in life is finding an expert and apprenticing under them.”
+
+“Nearly everything in life is unfavorable once it grows to a certain size.
+
+It is entirely possible to have too many clients, too much work, too much fame, too much free time, and so on.
+
+Pay attention to when the thing you’re chasing exceeds its usefulness.”
+
+“The strategies that made you successful in the past will, at some point, reach their limit.
+
+Don’t let your previous choices set your future ceiling. The willingness to try new ideas allows you to keep advancing.”
+
+[source](https://jamesclear.com/3-2-1/october-21-2021)
+
+---
+
+## 2021-10-28
+
+“Your time is better spent championing good ideas than tearing down bad ones.
+
+The best thing that can happen to a bad idea is that it is forgotten. The best thing that can happen to a good idea is that it is shared.
+
+Feed the good ideas and let bad ideas die of starvation.”
+
+“Everything is an oversimplification. Reality is messy and complex.
+
+The question is whether it is a useful simplification.
+
+Know the limitations of an idea and you can apply it to great effect—despite the messiness of reality.”
+
+“We often make choices based on immediate outcomes. What can I do to experience a little joy in the next 30 minutes? What can I accomplish in the next hour?
+
+But if you always expect to get a little bit of reward for a little bit of effort, then you often overlook actions that lead to greater payoffs down the road. The relationship between input and output is rarely linear.
+
+The course of action that could provide greater happiness, meaning, or satisfaction in the long run may not make you happy in the next 30 minutes.”
+
+[source](https://jamesclear.com/3-2-1/october-28-2021)
+
+---
+
+## 2021-11-04
+
+“Most people optimize for the day ahead. A few people optimize for 1-2 years ahead. Almost nobody optimizes for 3-4 years ahead (or longer).
+
+The person who is willing to delay gratification longer than most reduces competition and gains a decisive advantage.
+
+Patience is power.”
+
+“The biggest risk to productivity is always the same: working on the wrong thing.”
+
+“Being pleasant and having a good attitude is a simple way to become luckier.
+
+Opportunities come through people, and people are more likely to bring opportunities to people they like.
+
+It’s hard to win if your attitude adds friction to every interpersonal experience.”
+
+[source](https://jamesclear.com/3-2-1/november-4-2021)
+
+---
+
+## 2021-11-11
+
+“It’s better to be alone than to spend time with toxic people.
+
+It’s better to do nothing than to work on something that doesn’t matter.
+
+It’s better to rest than to climb the wrong mountain.”
+
+“Mental toughness immediately increases when you find the right subject. You’re more likely to stick with things when you’re genuinely interested.”
+
+“Every great opportunity has many reasons why it could fail. You have to trust your ability to solve problems along the way.
+
+People who look for reasons why things won’t work, struggle to take action.
+
+People who look for reasons why things will work—and solve problems as they arise—make things happen.”
+
+[source](https://jamesclear.com/3-2-1/november-11-2021)
+
+---
+
+## 2021-11-18
+
+“Most lucky events in life are opportunities, not outcomes.
+
+The value of an opportunity changes depending on how it is treated. Without effort, good luck becomes a missed opportunity. With effort, good luck can become a life-changing event.
+
+You need luck and hard work. It’s not either/or. It’s both/and. The result will not walk through the door on its own.‬‬‬‬‬‬‬‬‬”
+
+“When in doubt, just say thank you. There is no downside. Are you honestly worried about showing too much gratitude to the people in your life?”
+
+“How much could I lose?” is not merely a financial question.
+
+If I make this choice:
+
+– How much time could I lose?
+
+– How much sanity could I lose?
+
+– How much reputation could I lose?
+
+– How much happiness could I lose?
+
+Opportunity cost is about a lot more than money.”
+
+[source](https://jamesclear.com/3-2-1/november-18-2021)
+
+---
+
+## 2021-11-25
+
+“Doing it right is hard. Doing it over is harder.”
+
+“Three simple ways to get more of what you want in life:
+
+1) Be kind and pleasant to others.
+
+2) Ask for what you want.
+
+3) Follow up.”
+
+“In the gym, if you experience no stimulus your muscles won’t grow. If you step under 10,000 pounds your body will break.
+
+Life is similar.
+
+Too much challenge makes life hard, but so does too little.”
+
+[source](https://jamesclear.com/3-2-1/november-25-2021)
+
+---
+
+## 2021-12-02
+
+“When considering a new project or opportunity, one of the first questions to ask is, “How do I want to spend my days?”
+
+Make as few choices as possible that violate your answer.
+
+Many opportunities seem exciting but actually give you less of the life you want.”
+
+“Train hard and focus on what you can control.”
+
+“Be kind. You should do it simply to be decent, but do it even if you’re a ruthless mercenary because you have no idea where people will end up in 10 years. The balance of power is always shifting. People will surprise you.”
+
+[source](https://jamesclear.com/3-2-1/december-2-2021)
+
+---
+
+## 2021-12-09
+
+“Think about what you want today and you’ll spend your time.
+
+Think about what you want in 5 years and you’ll invest your time.”
+
+“Someone else living a good life does not prevent you from living a good life.
+
+There are many ways to win and plenty of space.”
+
+“You don’t need to catch every break if you’re willing to keep trying.
+
+Every winner has an archive of losses, but each attempt creates the chance for a victory.
+
+You need to be patient, but not passive. Active patience.”
+
+[source](https://jamesclear.com/3-2-1/december-9-2021)
+
+---
+
+## 2021-12-16
+
+“The difference between good and great is often an extra round of revision.
+
+The person who looks things over a second time will appear smarter or more talented, but actually is just polishing things a bit more.
+
+Take the time to get it right. Revise it one extra time.”
+
+“One of the best strategies for learning something quickly: corner a nerd.
+
+Find someone who totally geeks out about that topic and ask them every question you can think of.”
+
+“A brief guide to compounding:
+
+If you don’t enjoy something, you won’t stick with it.
+
+If you don’t stick with it, it won’t compound.
+
+Being interested precedes the results.”
+
+[source](https://jamesclear.com/3-2-1/december-16-2021)
+
+---
+
+## 2021-12-23
+
+“If you’re not working hard, ideas don’t matter. The best idea is worthless without execution.
+
+If you’re already working hard, ideas are crucial. Most effort is wasted on mediocre ideas.”
+
+“Don’t over-improve your weaknesses. If you’re not good at something, work on it until it no longer prevents your progress, but the bulk of your time is better spent maximizing your strengths.”
+
+“Life rarely changes in a positive way without an increase in responsibility.
+
+That can mean taking ownership of your health or committing to a relationship or starting a business.
+
+Whatever it is, if you want the trajectory to change, the amount of responsibility usually has to change.”
+
+[source](https://jamesclear.com/3-2-1/december-23-2021)
+
+---
+
+## 2021-12-30
+
+“An expert is someone who, over many years, manages to remain confident enough to keep trying and humble enough to keep learning.”
+
+“You have no responsibility to live up to someone else’s expectation of you.
+
+Spend as little time as possible chasing other people’s preferences instead of your own.”
+
+“Slowing down enables you to act in a high quality way.
+
+Kind rather than curt. Polished rather than sloppy.
+
+It’s hard to be thoughtful when you’re in a rush.”
+
+[source](https://jamesclear.com/3-2-1/december-30-2021)
+
+---
+
+## 2022-01-06
+
+“It doesn’t matter if you’re a beginner or an expert as long as you’re on the path.
+
+If a beginner is on the path, all they need is time.
+
+If an expert is off the path, they won’t be an expert for long.”
+
+“Good advice at the wrong time is bad advice.
+
+Life is full of seasons and each season has different requirements.
+
+Know what season you are in, and you can better identify which ideas to utilize.”
+
+“The longer you’re a teacher, the less you remember what it is like to be a student.
+
+The longer you’re a doctor, the less you remember what it is like to be a patient.
+
+The longer you’re a coach, the less you remember what it is like to be a player.
+
+Change positions. A new perspective can improve your old methods.”
+
+[source](https://jamesclear.com/3-2-1/january-6-2022)
+
+---
+
+## 2022-01-13
+
+“Are you willing to be uncomfortable for 5 minutes?
+
+Exercising is easier once you’ve started the workout.
+
+Conversation is easier once you’re already talking.
+
+Writing is easier once you’re in the middle of it.
+
+But many rewards in life will elude you if you’re not willing to be a little uncomfortable at first.”
+
+“The world contains far more information than any single person can learn in their lifetime.
+
+The question is not whether you are ignorant, but what you choose to be ignorant about.
+
+Few topics are worth your precious time. Choose what you pay attention to with great care.”
+
+“Sometimes in life, you will make mistakes. And when you think back on those mistakes, you may feel embarrassed. That’s a normal feeling. Nobody is perfect and we all make our fair share of mistakes in life.
+
+However, if you do not take responsibility for the mistake and do your best to correct it, then you are committing a second mistake. Do the right thing, even though you may feel embarrassed by your previous actions. Don’t compound the error.”
+
+[source](https://jamesclear.com/3-2-1/january-13-2022)
+
+---
+
+## 2022-01-20
+
+3 simple questions to improve your day.
+
+At the beginning of the day:
+“What am I optimizing for?”
+
+During the day:
+“What’s the best small thing I can do right now?”
+
+At the end of the day:
+“Did I do my best?”
+
+“The person who gets 1 shot needs everything to go right.
+
+The person who gets 1000 shots is going to score at some point.
+
+Find a way to play the game that ensures you get a lot of shots.”
+
+A relevant section from Atomic Habits for anyone building a new habit this year:
+
+“People often think it’s weird to get hyped about reading one page or meditating for one minute or making one sales call. But the point is not to do one thing. The point is to master the habit of showing up. The truth is, a habit must be established before it can be improved. If you can’t learn the basic skill of showing up, then you have little hope of mastering the finer details. Instead of trying to engineer a perfect habit from the start, do the easy thing on a more consistent basis. You have to standardize before you can optimize.”
+
+[source](https://jamesclear.com/3-2-1/january-20-2022)
+
+---
+
+## 2022-01-27
+
+“Competence over credentials.”
+
+“When working with people, assume good intentions.
+
+When listening to people, interpret their words in a generous way.
+
+You will occasionally get burned and mistreated by always assuming the best in others, but it is a far better way to live than the opposite.”
+
+“When rain falls, it flows downhill. If desired, you can collect the rain in a bucket and carry it uphill, but the natural tendency of water is to flow toward the lowest point.
+
+Most situations in life have a tendency—a direction in which things want to flow. You can choose to go against the flow (just as you can choose to carry water uphill), but your results tend to be better when you find a way to work with the gradient of the situation.
+
+Position yourself to benefit from the external forces at hand and you will get more from the same unit of effort. Energy is conserved and results are multiplied.”
+
+(Hat tip to Tom Morgan for inspiring.)
+
+[source](https://jamesclear.com/3-2-1/january-27-2022)
+
+---
+
+## 2022-02-03
+
+“If you added up all the time wasted searching for shortcuts and trying to cheat the process, the hard work could have already been done by now.”
+
+“Have no single point of failure.
+
+Have no single path to success.”
+
+“In the middle, it feels slow.
+
+In hindsight, it feels fast.”
+
+[source](https://jamesclear.com/3-2-1/february-3-2022)
+
+---
+
+## 2022-02-10
+
+“Success unlocks both opportunities and distractions.”
+
+“Most things are not as difficult as they seem—if you focus each day.
+
+However, giving one topic your full attention for an extended period of time is even harder than it seems.
+
+Over a long timeline, the bottleneck is usually attention not ability.”
+
+“The greatest rewards in life are often delayed. The financial benefits of work and investing. The emotional benefits of marriage and friendship. The psychological benefits of creating something that matters. Meaningful outcomes take a long time to grow and compound.
+
+Furthermore, most pursuits involve other people: coworkers, spouses, children, peers. If you want your results to continue to grow, then you need relationships that last.
+
+One of the essential ingredients for success is being pleasant and trustworthy because it allows whatever you are building—a business, a relationship, a project—to continue. Many relationships disintegrate before the rewards accumulate.”
+
+[source](https://jamesclear.com/3-2-1/february-10-2022)
+
+---
+
+## 2022-02-17
+
+“Simple is nearly always better. But if it’s going to be complicated, then make sure the problem is worth the complexity. A great deal of time is wasted creating complex solutions to relatively unimportant problems.”
+
+“Many situations in life are similar to going on a hike: the view changes once you start walking.
+
+You don’t need all the answers right now. New paths will reveal themselves if you have the courage to get started.”
+
+A simple reminder from Atomic Habits:
+
+“Time will multiply whatever you feed it. Good habits make time your ally. Bad habits make time your enemy.”
+
+[source](https://jamesclear.com/3-2-1/february-17-2022)
+
+---
+
+## 2022-02-24
+
+“If you’d like to do something bold with your life, you will have to choose to do something bold on a specific day.
+
+There is no perfect day. There is no right time. For the trajectory to change, there has to be one day when you simply make the choice.”
+
+“If someone has the courage to admit they were wrong, you should have the grace to give them credit for admitting it. Rubbing it in encourages them to never admit being wrong again.”
+
+“The more precisely you define the problem, the more easily you can find a solution.
+
+“I feel bad” can have a million causes.
+
+“I didn’t sleep much last night and I haven’t exercised in a week” has a very straightforward answer.”
+
+[source](https://jamesclear.com/3-2-1/february-24-2022)
+
+---
+
+## 2022-03-03
+
+“Prime your environment to make the next action easy.”
+
+“You can’t double your intelligence in one hour, but you can use one hour to write something twice as clear. And ideas that are easy to read and easy to understand will make you seem smarter. The better you communicate, the more intelligent you appear.”
+
+“Your entire life happens inside your body. It’s the one home you will always occupy and can never sell.
+
+But you can renovate it.
+
+If you can only pick one habit to build, exercise might be the one. Everything is downstream from how your body is functioning.”
+
+[source](https://jamesclear.com/3-2-1/march-3-2022)
+
+---
+
+## 2022-03-10
+
+“What starts as an excuse can easily become a habit.
+
+Don’t let a bad day become a lifestyle.”
+
+“Life is a series of seasons, and what works in one season may not work in the next.
+
+What season are you in right now? What habits does that season require?”
+
+“Awareness is often enough to motivate change.
+
+Simply tracking your food intake will motivate you to alter it. Merely writing down your problems may spark ideas for possible solutions.
+
+The process starts with seeing reality clearly.”
+
+[source](https://jamesclear.com/3-2-1/march-10-2022)
+
+---
+
+## 2022-03-17
+
+“Define yourself by your effort, not your suffering.”
+
+“Marrying well makes everything easier.”
+
+“Charity can be a lifestyle, not merely a gift.
+
+Read charitably. Give the author your most favorable interpretation.
+
+Listen charitably. Donate your undivided attention.
+
+Work charitably. Be generous with your expertise.
+
+In this way, you make charity a daily habit.”
+
+[source](https://jamesclear.com/3-2-1/march-17-2022)
+
+---
+
+## 2022-03-24
+
+“The climb is the fun part.”
+
+“Good marketing can sell once, but only a good product can sell twice.
+
+In the long run, your performance reverts to the value you provide.”
+
+“Motivation comes and goes. If you want to do something consistently, then don’t pick a level of difficulty that requires great motivation.
+
+Make it easy enough and simple enough that you’ll do it even when you don’t feel very motivated.”
+
+[source](https://jamesclear.com/3-2-1/march-24-2022)
+
+---
+
+## 2022-03-31
+
+“You cannot remove struggle from life, but you can improve your ability to handle challenge.”
+
+“Revising a book before it is published is incredibly useful. The extra polish improves the first impression.
+
+Publishing a second edition a few years after publishing, even if it involves the same revisions, is less useful. The brand has already been established.
+
+Refine at the right time.”
+
+“Two truths that can be at odds:
+
+1) There are no bonus points in life for doing it the hard way.
+2) There is a lot to be gained in life by acting fast and giving your best effort.
+
+Don’t let the excuse of searching for a better way prevent you from taking action.”
+
+[source](https://jamesclear.com/3-2-1/march-31-2022)
+
+---
+
+## 2022-04-07
+
+A simple reminder from Atomic Habits:
+
+“Walk slowly, but never backward.”
+
+“Look around your environment.
+
+Rather than seeing items as objects, see them as magnets for your attention. Each object gently pulls a certain amount of your attention toward it.
+
+Whenever you discard something, the tug of that object is released. You get some attention back.”
+
+“Powerful combination = Hate being bad at stuff + Willing to look like a beginner.
+
+People who hate being bad at stuff are driven to improve. However, if they are unwilling to look like a beginner from time to time, they will avoid new challenges and struggle to reinvent themselves.
+
+Meanwhile, people who are willing to try new things, but lack a thirst to improve will settle for mediocre results.
+
+It’s the willingness to look foolish for a short time—but not for a long time—that leads to jumps in performance.”
+
+[source](https://jamesclear.com/3-2-1/april-7-2022)
+
+---
+
+## 2022-04-14
+
+“For those who expect everything, there are many curses.
+
+For those who appreciate everything, there are many blessings.”
+
+“Money is not the only way to improve life. Instead of widening your margin of profit, widen your margin of leisure. Instead of optimizing for money, optimize for time. Instead of seeking efficiency, seek recovery.”
+
+“Many good opportunities are ruined for the dream of slightly better ones.
+
+Would you have a more successful career if you had taken that other job or moved cities? Possibly. But your actual career will definitely suffer if you don’t commit to doing it to the best of your ability.
+
+Would you be 10% happier in a different relationship? Maybe. Maybe not. But you’ll definitely be unhappy in the one you have if you spend all day thinking about what else is out there.
+
+The surefire way to end up worse off is to agonize over unchosen options and fail to make the most of the one you selected. Every minute spent yearning for your unlived lives is a moment you can’t invest in the one you actually have.
+
+Choices matter, but so does your level of commitment.”
+
+[source](https://jamesclear.com/3-2-1/april-14-2022)
+
+---
+
+## 2022-04-21
+
+“In school, you are graded on every test—even if it’s your weakest subject.
+
+In life, you can choose the tests you take—even if they always play to your strengths.
+
+Maintain a baseline so your weak areas don’t hold you back, but design your life so you are graded on your strengths.”
+
+“One roadblock almost never ruins you.
+
+There might not be 1000 ways to accomplish something, but there is almost always more than one way.
+
+Know what you want. Be flexible about how to get there.”
+
+“The gift of a beginner is fresh eyes.
+
+The longer you’re in a field, the harder it is to perceive new truths. Your mind is biased toward refining what you’re already doing instead of exploring fresh terrain.
+
+Take your expertise and apply it to something new.”
+
+[source](https://jamesclear.com/3-2-1/april-21-2022)
+
+---
+
+## 2022-04-28
+
+“Just because it didn’t work doesn’t mean it was the wrong choice.
+
+The world is full of probabilities, not certainties.
+
+Find a game where the probabilities favor you and keep taking shots.”
+
+“If you know where you want to go in life, people tend to help or get out of the way.
+
+Both of those are useful.”
+
+“People follow incentives, not advice.”
+
+[source](https://jamesclear.com/3-2-1/april-28-2022)
+
+---
+
+## 2022-05-05
+
+“The most important battles must be fought anew each day.
+
+Exercising today does not render tomorrow’s workout unnecessary.
+
+Supporting your spouse today does not mean you can mail it in tomorrow.
+
+Learn to love the endless nature of things and life gets easier.”
+
+“As far as life philosophies go, “The right time is right now” isn’t a bad one. Most of us would benefit from a greater bias toward action.
+
+If you move fast, you can try more things. And if you try more things, you’re likely to find something that works for you.”
+
+“Remove the branches of a thorn bush today and you’ll avoid a scrape this year. But next year, you’ll face the same problem again.
+
+Remove the root of the bush today, and the entire plant will die.
+
+Are you solving problems at the branch level or the root level?”
+
+[source](https://jamesclear.com/3-2-1/may-5-2022)
+
+---
+
+## 2022-05-12
+
+“In the long-run, prioritization beats efficiency.”
+
+“When researching strategies, emphasize patterns over stories. One person succeeding means nothing. 100 people succeeding is a signal.
+
+When explaining strategies, emphasize stories over patterns. People forget numbers and charts. Everyone remembers a great story.”
+
+“When determining the size or complexity of a new habit ask yourself, “What can I stick to—even on my worst day?”
+
+Start there. Master the art of showing up. Then advance.”
+
+[source](https://jamesclear.com/3-2-1/may-12-2022)
+
+---
+
+## 2022-05-19
+
+“If an idea is true, criticism will not destroy it, but strengthen it.”
+
+“You need focus to become exceptional at anything.
+
+Massive amounts of time and energy are wasted optimizing things that should be left undone.
+
+You have to be great at saying no.”
+
+“A gift you can give yourself right now:
+
+Stop what you’re doing. Close your eyes.
+
+For the next 60 seconds, just breathe.”
+
+[source](https://jamesclear.com/3-2-1/may-19-2022)
+
+---
+
+## 2022-05-26
+
+“Before you try to increase your willpower, try to decrease the friction in your environment.”
+
+“Your habits are how you embody a particular identity.
+
+When you make your bed, you embody the identity of someone who is clean and organized. When you study, you embody the identity of someone who is studious.
+
+What identity are you embodying today? Who are your habits helping you become?”
+
+“Most big, deeply satisfying accomplishments in life take at least five years to achieve. This can include building a business, cultivating a loving relationship, writing a book, getting in the best shape of your life, raising a family, and more.
+
+Five years is a long time. It is much slower than most of us would like. If you accept the reality of slow progress, you have every reason to take action today. If you resist the reality of slow progress, five years from now you’ll simply be five years older and still looking for a shortcut.”
+
+[source](https://jamesclear.com/3-2-1/may-26-2022)
+
+---
+
+## 2022-06-02
+
+“It’s only work if you would rather be doing something else.
+
+Find a way to carve a career out of what you already want to do.”
+
+“Build small habits. Make big plans.
+
+1) Keep your daily actions small. Strive to get 1% better every day.
+
+2) Keep your daily mindset big. Think about how you can play a bigger game.
+
+Start small, but never dream small.”
+
+“Great work resists compression.
+
+Great explanations are short, but potent.
+
+Great software delivers the same outcome in fewer clicks.
+
+Great manufacturing processes create products in less time and with less waste.
+
+The shape of genius is simplicity.”
+
+[source](https://jamesclear.com/3-2-1/june-2-2022)
+
+---
+
+## 2022-06-09
+
+“Usually, the better someone does their job, the easier it looks. You rarely realize how hard it is until you try it yourself.”
+
+“Two of the key questions in life: How do I grow? How do I manage risk?
+
+You need to do both if you wish to survive and excel.”
+
+“Speed is important. Work fast and iterate. People rarely remember the first draft, but everyone remembers the final draft.
+
+Speed is unimportant. People rarely remember how long it took you to do the job, but everyone remembers how well you did the job.”
+
+[source](https://jamesclear.com/3-2-1/june-9-2022)
+
+---
+
+## 2022-06-16
+
+“On the ground, a rock is just a rock. But when moving at high speed through the atmosphere, a rock becomes a meteor—alive with fire and burning bright.
+
+People are not so different. Without activity, we are lifeless and dull. When moving fast and taking action, we come alive.”
+
+“Life is a series of tradeoffs, and greater results usually require greater tradeoffs.
+
+The question is not, “Do you want to be great at this?”
+
+The question is, “What are you willing to give up in order to be great at this?”
+
+“A surefire way to make a bad situation worse is to continue replaying it in your mind.
+
+The damage is done. The only thing that matters now is making the best choice given your current position.
+
+Next play mentality.”
+
+[source](https://jamesclear.com/3-2-1/june-16-2022)
+
+---
+
+## 2022-06-23
+
+“Nearly everything awesome takes longer than you think.
+
+Get started and don’t worry about the clock.”
+
+“Formal education is not nearly as important as an unquenchable thirst to learn.”
+
+“Mental toughness is often portrayed as determination and persistence, but it can also be flexibility and adaptability.
+
+– I can be happy anywhere.
+
+– I can work with what I have.
+
+– I can have a good day with anyone.
+
+You are tough when your mood is not dependent on your conditions.”
+
+[source](https://jamesclear.com/3-2-1/june-23-2022)
+
+---
+
+## 2022-06-30
+
+“Is your reading and research supplementing your actions or substituting for them? Research is useful until it becomes a form of procrastination.”
+
+“Life rewards courage.
+
+The person who is brave enough to bet on something or someone—as long as they avoid irreversible mistakes like running out of cash or going to jail—is in a position to win.”
+
+“Whether or not something is deemed a “failure” is dependent on when performance is measured.
+
+I signed the book deal for Atomic Habits in November 2015 and it was published in October 2018. If you were to measure the performance of the book at any point during those three years, the project would have been deemed a failure. In January 2016? It was incomplete. A failure. In August 2017? Still unfinished. A failure. In February 2018? Again, a failure.
+
+But after October 2018, it looked like a success. Same project. Different time when the outcome was measured.
+
+This idea applies in many areas of life. You’re not failing. You’re just in the middle of succeeding.”
+
+[source](https://jamesclear.com/3-2-1/june-30-2022)
+
+---
+
+## 2022-07-07
+
+“If you’re always right, you’re not learning.
+
+If you’re never failing, you’re not reaching.
+
+The objective is to be right. The objective is to succeed.
+
+But if you’re always winning, you’re undershooting your potential.”
+
+“Many people are not ready for their lucky break when it comes to them.
+
+Develop your skills. Study your craft. Save some money. Build a network before you need it. Lay the ground work.
+
+The prepared person is positioned to benefit from unexpected opportunities.”
+
+“Commitment makes good things better and bad things worse.
+
+The more “all-in” you are on a good relationship, the better it becomes. The more you commit to a toxic relationship, the deeper you get trapped.
+
+The more you invest yourself in fulfilling work, the more your effort fuels you. The harder you work on a bad project or in an unsatisfying role, the more of a grind it becomes.”
+
+[source](https://jamesclear.com/3-2-1/july-7-2022)
+
+---
+
+## 2022-07-14
+
+“Knowledge is making the right choice with all the information.
+
+Wisdom is making the right choice without all the information.”
+
+“Treat every opportunity like a great opportunity, and you may find a few of them to be just that.”
+
+“Most of the embarrassing moments of my life happened when I wanted to say no, but ended up saying yes (or saying nothing at all).
+
+Most of the missed opportunities in my life happened when I wanted to say yes, but ended up saying no (or saying nothing at all).”
+
+[source](https://jamesclear.com/3-2-1/july-14-2022)
+
+---
+
+## 2022-07-21
+
+“It is not necessary to change a person in order to change their behavior.
+
+Just change their environment.”
+
+“Many problems are minor when you solve them right away, but grow into an enormous conflict when you let them linger.
+
+As a rule of thumb, fix it now.”
+
+“Raise your ambitions. Lower your expectations.
+
+The higher your ambitions, the bolder your actions.
+
+The lower your expectations, the greater your satisfaction.
+
+Achieve more and be happy along the way.”
+
+[source](https://jamesclear.com/3-2-1/july-21-2022)
+
+---
+
+## 2022-07-28
+
+“What are my top risks? How can I mitigate them?
+
+What are my unique strengths? How can I leverage them?
+
+The objective is to survive long enough to see the rewards of your advantage accumulate.”
+
+“Sure, at some level, every experience in life boils down to your interpretation of it. And if you can shift your mindset, then perhaps you can turn a negative experience into a positive one.
+
+But life is not a hallucination. You still have to deal with things. A healthy perspective can lessen the burden, but so can taking action. A problem that is solved is one that you don’t need to mentally reframe.”
+
+“Sometimes the most productive thing you can do is eliminate the task.
+
+Downsize. The rooms you don’t have, don’t need to be cleaned.
+
+Donate. The items you don’t own, don’t need to be organized.
+
+Delete. The projects you don’t take on, don’t need to be finished.
+
+Is this a problem that needs to be solved? Or is it a problem that can be eliminated all together?”
+
+[source](https://jamesclear.com/3-2-1/july-28-2022)
+
+---
+
+## 2022-08-04
+
+“Do not confuse things that are hard with things that are valuable.
+
+Many things in life are hard. Just because you are giving a great effort does not mean you are working toward a great result.
+
+Make sure that mountain is worth climbing.”
+
+“Keeping the habit alive is a powerful act. It’s easier to stay in shape than to get in shape. It’s easier to keep a house clean than to get it clean.
+
+Many days it may feel like you are treading water, but maintaining your progress saves your future self a great deal of work.”
+
+“There are many situations in life you do not control, but you often contribute to them.
+
+I cannot control the rain, but I can control my clothing.
+
+I cannot control your feelings, but I can control my kindness.
+
+I cannot control my opponent, but I can control my response.
+
+You cannot control most outcomes in life, but you can usually influence them. Releasing your attachment to the results does not mean releasing your responsibility to the situation.”
+
+[source](https://jamesclear.com/3-2-1/august-4-2022)
+
+---
+
+## 2022-08-11
+
+“Deconstruction creates knowledge. Recombination creates value.”
+
+“Children are joyful and treat each day as a miracle—in part because they are continually surprised.
+
+Each day, they hear a new word or listen to a new song or learn about a new animal. It’s their first time visiting that restaurant or jumping in that pool or riding that rollercoaster. The world is continually unfolding before them.
+
+How can you introduce more surprise into your life as an adult? How can you renew your sense of childlike wonder?”
+
+“In the beginning, your skills are raw, your knowledge is sparse, and you lack experience. At best, you will be able to produce work that is “just okay.” And even then, you’ll only manage to reach “just okay” by giving your best effort.
+
+Nobody wants to produce something that is “just okay.” You’ll feel like it’s beneath your standards. You’ll worry about what others think of you. You’ll wonder whether you would be better off taking a different path. But it is impossible to reach that stage unless you are willing to work through your current stage.
+
+And so, one of the main obstacles between who you are and who you could be is courage. The courage to keep trying even if you’re not yet as good as you hope. The courage to keep trying despite your fears of what others may think. The courage to keep trying without knowing how the future will unfold.
+
+Your great work is on the other side of your early work. The only way to be exceptional later on is to have the courage to be “just okay” right now. This is how it is for everyone.”
+
+[source](https://jamesclear.com/3-2-1/august-11-2022)
+
+---
+
+## 2022-08-18
+
+“Make mistakes, just don’t make them permanent.”
+
+“The ideal form of work feels like play, but still accomplishes something useful and valuable.
+
+Joyful for you. Helpful to others.”
+
+“If you’re unwilling to adapt to the future, you’ll justify the past.”
+
+[source](https://jamesclear.com/3-2-1/august-18-2022)
+
+---
+
+## 2022-08-25
+
+Let’s start with a short reminder from Atomic Habits:
+
+“Building habits in the present helps you to do more of what you want in the future.”
+
+“It can be a great advantage to (1) be somewhat restless and (2) have very high standards.
+
+Holding yourself to a high standard prevents you from jumping into whatever new thing comes your way. It encourages you to be thoughtful and ensures you remain patient for the right opportunity.
+
+However—because you are somewhat restless—you are always digging around and watching for opportunities. When most people stop searching, you continue to explore. And when an opportunity comes your way that meets your standard, you’ll be more likely to notice it and more likely to act upon it immediately.”
+
+“Life presents an endless series of interruptions and distractions.
+
+You will continually be pulled off course or asked to put out a fire created by someone else. People will disrespect your time and steal your attention—usually with no intention of malice, but simply because different people have different priorities.
+
+When your day is interrupted or your progress stalls, it’s easy for your mindset to collapse as well. You may feel guilty for not following through on what you intended to do. But you are not guilty, you are human.
+
+Everyone gets distracted. In many ways, the real divide is between those who get back on track quickly and those who let interruptions expand into longer periods of inactivity.
+
+Top performers get back on track faster than most. This is the skill to develop. You will be interrupted, but you can choose to keep it brief.”
+
+[source](https://jamesclear.com/3-2-1/august-25-2022)
+
+---
+
+## 2022-09-01
+
+“The will to win is wasted if it is directed towards trivial affairs.”
+
+“Be great in small ways.
+
+Writing 100 words today doesn’t seem worthwhile when you see people publishing bestsellers.
+
+Exercising for 10 minutes doesn’t seem valuable when you see world records posted on Instagram.
+
+But winning the next 10 minutes is its own form of greatness.
+
+People are so busy wishing for more time and better resources that they fail to make the most of the time and resources they have. Be great in small ways and you may be surprised by what you’ve achieved within a year or two.”
+
+“Most good material is forgotten.
+
+Write down the funniest or most interesting thing that happens to you each day. Most days will be boring, but if you write something each day, then you’ll have 5 to 10 entertaining stories within a year or two. People are sitting on more funny stories than they realize because they do not have a habit of capturing humorous things as they happen.
+
+Write down one idea each day. Most ideas will be simple and uninteresting, but within a year you’ll have a handful that are compelling and useful. Little bits of genius are bubbling up all the time, but you need a habit of recording your ideas in order to capture the good ones.
+
+It’s a myth that great storytellers only think of great stories or that insightful people only have brilliant ideas. But they do have a habit of capturing their experiences and insights, and the patience to filter the majority until the best remain.”
+
+[source](https://jamesclear.com/3-2-1/september-1-2022)
+
+---
+
+## 2022-09-08
+
+“Each day is a small lifetime. Live a good life today.”
+
+“The hard way is rarely harder in terms of daily effort, but it is often harder psychologically.
+
+It requires:
+
+– thinking long-term 
+– removing limiting beliefs 
+– avoiding the lure of status and approval 
+– trusting that small things will lead to big things
+
+It’s a mental battle.”
+
+“3 things that help luck:
+
+1. Deconstructing your craft, so you know what good opportunities look like. 
+2. Remaining vigilant, so you notice when lucky breaks come your way. 
+3. Acting quickly, so you are more likely to seize luck when it arrives.”
+
+[source](https://jamesclear.com/3-2-1/september-8-2022)
+
+---
+
+## 2022-09-15
+
+“Research widely, select carefully.
+
+Broad funnel, tight filter.”
+
+“Odds are, the latest office debate or family squabble isn’t worth winning. Most arguments are only tangentially related to your end goal.
+
+What outcomes are you actually trying to create? What type of life are you actually trying to cultivate? Stay focused.”
+
+“The first step—perhaps the most enormous step—is to find what you are genuinely interested in.
+
+If you are genuinely interested, you will discover endless opportunities for improvement. But if you are disinterested, even obvious improvements will feel like a chore.
+
+And, if you can maintain your genuine interest and curiosity as the years accumulate, you will become hard to compete with because you will have skill to go with your passion. If you’re interested, you’re dangerous.”
+
+[source](https://jamesclear.com/3-2-1/september-15-2022)
+
+---
+
+## 2022-09-22
+
+“Lucky opportunities tend to be stumbled upon, not handed out.
+
+If you’re waiting for someone to hand deliver an excellent opportunity to you, it’s unlikely to happen. But if you are exploring and moving—if you’re in the mix and engaged—then you’ll stumble upon many opportunities.
+
+The active mind comes across a lot. Keep tilling the soil and you will occasionally unearth something wonderful.”
+
+“Many times in life the decision is not whether to do one thing or another, but when to emphasize one aspect over another.
+
+Rest or train? Research or write? Diversify or concentrate?
+
+Opposite answers can both be right. The question is: which one is the right answer for right now.”
+
+“Whatever age you are today, your future self would love to be it.
+
+Most people do not consider 65 to be a young age, but when you’re 75 you’d love to rewind to 65 and regain those years. Few people would describe 35 as your youth, but in your mid-50s your mid-30s will seem like the “young you.”
+
+Today is a great opportunity, no matter your age. Looking back in a few years, today will seem like the time when you were young and full of potential or the moment when you could have started early or the turning point when you made a choice that benefited your future.
+
+The moment in front of you right now is a good one. Make the most of it.”
+
+[source](https://jamesclear.com/3-2-1/september-22-2022)
+
+---
+
+## 2022-09-29
+
+“Keep ignoring feedback and life will keep teaching you the same lesson.”
+
+“In sports, one of the primary sources of advantage is choosing how to play the game.
+
+In life, one of the primary sources of advantage is choosing which game to play.”
+
+“The brilliance of the stars would be invisible without the vast darkness of space behind them.
+
+Do not wish away the difficult portions of life. They provide the contrast needed to appreciate the joyful moments.”
+
+[source](https://jamesclear.com/3-2-1/september-29-2022)
+
+---
+
+## 2022-10-06
+
+“Simple mindset shifts:
+
+– I’m not hurt, I’m healing.
+
+– I’m not losing, I’m learning.
+
+– I was not rejected, I was redirected.
+
+Negative things happen. Negative mindsets make them harder.”
+
+“Over long time frames, simply staying in the game is impressive.
+
+– Health and fitness: Can you stay injury free and not miss workouts?
+
+– Wealth and finance: Can you avoid debt and continue to save?
+
+– Business: Can you maintain cash flow and stay in business?
+
+Longevity is its own form of greatness.”
+
+“Balancing success and failure is a tricky thing.
+
+I’d say 8 or 9 times out of 10, you should be succeeding. Build momentum. Accumulate advantages. Feast on the feeling of success and let it feed your desire to do more.
+
+But 1 or 2 times out of 10, you should be failing. Push yourself and reach beyond your current grasp. Force yourself to try uncomfortable things. Occasionally you will surprise yourself and the rest of the time you will learn.
+
+Win enough to keep progressing. Lose enough to keep learning.”
+
+[source](https://jamesclear.com/3-2-1/october-6-2022)
+
+---
+
+## 2022-10-13
+
+“Two competing truths:
+
+– The more prepared person usually wins.
+
+– You get credit for action, not preparation.”
+
+“What appears to be a rapid shift is often preceded by a gradual process. Our results gradually explode or vanish thanks to the small habits we repeat each day.
+
+What radical change are you slowly marching toward? An incremental explosion or an incremental vanishing?”
+
+“One type of person approaches a situation with the mindset of, “How can I make this work?”
+
+Another type seems to approach each circumstance with the mindset of, “What are all the reasons this wouldn’t work?”
+
+Both people will be forced to deal with reality, but the first person will only have to solve problems that actually occur while the second person will often avoid taking action entirely because of the potential problems they have dreamt up before starting.
+
+There will always be reasons to not do something. Be a problem solver, not a problem adder.”
+
+[source](https://jamesclear.com/3-2-1/october-13-2022)
+
+---
+
+## 2022-10-20
+
+“Stop learning, die young.
+
+Keep learning, stay young.”
+
+“One of the great gifts of sports is learning how to fail in public.
+
+People never go to the gym because they’re scared of looking stupid, never share their writing because they’re scared of judgment, never open their heart because they’re scared of rejection.
+
+Sports train you to face your fear.”
+
+“The mind is alive when it is flexible and adaptable. It can be updated, take new form, endure change.
+
+The mind is dead when it is fixed and immovable. It cannot absorb new ideas or thoughts. It is stiff and brittle.
+
+When we lose our ability to adapt, to move with the environment, to tolerate new beliefs and reshape our old ones, our mind is at risk of becoming outdated. The fixed mind becomes a relic.”
+
+[source](https://jamesclear.com/3-2-1/october-20-2022)
+
+---
+
+## 2022-10-27
+
+“The observant person finds many teachers.”
+
+“Criticize to uplift, not to destroy.”
+
+“Every transaction is paid for at least three times. First, with the money you pay. Second, with the time you spend. Third, with the reputation you create through your behavior.
+
+Being pleasant, reliable, and easy to work with might cost you a little more time. Perhaps even a bit of extra money. But the long-term returns from a great reputation usually outweigh the cost of a single transaction.
+
+Most of the value in life and in business arises out of good relationships.”
+
+[source](https://jamesclear.com/3-2-1/october-27-2022)
+
+---
+
+## 2022-11-03
+
+“The ultimate form of preparation is not planning for a specific scenario, but a mindset that can handle uncertainty.”
+
+“In some areas of life, value is unlocked by starting. Even a five-minute workout or a short walk can reset your mood and benefit your body.
+
+In other areas, value is unlocked by finishing. It does you no good to build a bridge halfway across the river. You need to complete the project to realize the value.
+
+Do you need to optimize for starting or finishing? Are you building a body or building a bridge?”
+
+“Your net productivity is the balance of the productive and unproductive forces in your life.
+
+A great deal of time and energy is spent thinking about how to increase effort, but there is a lot to be gained by reducing friction.
+
+A car will travel faster not only if you press the accelerator, but also if you remove the speed bumps.”
+
+[source](https://jamesclear.com/3-2-1/november-3-2022)
+
+---
+
+## 2022-11-10
+
+“One good day does not mean you can coast tomorrow. You never have it fully licked. Making good choices is an endless process. Many areas of life that we value most—our relationships, our fitness, our craft—require a continual commitment.”
+
+“One of the simplest ways to win is to always connect the small things you do to the larger thing you hope to accomplish.
+
+Five minutes can be spent working on something trivial or working on something life-changing. A brief session of work oriented toward a great cause is always time well spent.
+
+Most daily actions evaporate. Some accumulate.”
+
+“One of the common trappings of success is overproducing.
+
+Companies make money and rapidly expand their product line. Authors become popular and churn out books at a faster clip.
+
+Scale can empower, but it can also dilute. Something is lost when quantity is valued over quality.
+
+You have to maintain your standards even when all the forces around you seem to be calling for growth. Push back against more, more, more and remain committed to better, better, better.”
+
+[source](https://jamesclear.com/3-2-1/november-10-2022)
+
+---
+
+## 2022-11-17
+
+“Power is influence over external events.
+
+Peace is influence over internal events.”
+
+“Persistence and variety. These are the two primary ways to develop great ideas or to solve important problems.
+
+Keep leaning your head against a topic for a long time. Certainly for weeks, possibly for years. And along the way, try many lines of attack. Continue to generate options, explore paths, and propose silly ideas. Copy and paste concepts from widely different disciplines and see if it gets you anywhere. All the while, continue to refine the best solution you’ve found thus far.
+
+What looks like genius may simply be the byproduct of persistence and variety.”
+
+An idea from Atomic Habits:
+
+“When you fall in love with the process rather than the product, you don’t have to wait to give yourself permission to be happy. You can be satisfied anytime your system is running.”
+
+[source](https://jamesclear.com/3-2-1/november-17-2022)
+
+---
+
+## 2022-11-24
+
+“Good choices create opportunities. Good habits make the most of them.”
+
+“Consistency before intensity.
+
+Start small and become the kind of person who shows up every day. Build a new identity.
+
+Then increase the intensity.”
+
+“Asking what makes someone successful is like asking which ingredient makes a recipe taste good. It’s not any single ingredient. It is the combination of many ingredients in the right proportions and in the right order—and the absence of anything that would ruin the mixture.”
+
+[source](https://jamesclear.com/3-2-1/november-24-2022)
+
+---
+
+## 2022-12-01
+
+“Some things are a job, others are a craft. The primary difference is not the task, but the enthusiasm and curiosity put into the task. The more engaged and interested you are, the more it becomes a craft.”
+
+“It only takes five minutes to break the cycle.
+
+Five minutes of exercise and you are back on the path. Five minutes of writing and the manuscript is moving forward again. Five minutes of conversation and the relationship is restored.
+
+It doesn’t take much to feel good again.”
+
+“Nobody accomplishes anything significant alone.
+
+But nobody accomplishes anything significant by accident either. Just because you need others doesn’t mean you can wait for others to make it happen.
+
+You have to act as if you are a force of nature and try to bend the universe in your desired direction—while remaining pleasant and open to help along the way.”
+
+[source](https://jamesclear.com/3-2-1/december-1-2022)
+
+---
+
+## 2022-12-08
+
+“A mindset that can take you far in life:
+
+What I want doesn’t exist, so I’ll create it.”
+
+“You don’t always get to choose the load, but you can choose how to carry it.”
+
+“Look for situations where the energy is already flowing downhill. Invest in relationships where there is already mutual respect. Create products that tap into a desire people already have. Work on projects that play to your strengths.
+
+And then, once the potential of the situation is already working for you, add fuel to the fire. Pour yourself into the craft. Act as if you have to outwork everyone else—even though the wind is at your back.
+
+The idea is to sprint downhill, not grind uphill.”
+
+[source](https://jamesclear.com/3-2-1/december-8-2022)
+
+---
+
+## 2022-12-15
+
+“Your calendar is a better measure of success than your bank account.”
+
+“If you want to create something but feel it has already been done 1000 times, remember: There is always room for quality.”
+
+“Deconstruct the cool things you see.
+
+If you’d like to become a better musician and you see an amazing performance, start paying attention to how they do it. How did they promote the event? What happens in the first ten seconds of each song? How frequently are they engaging directly with the audience? Is there a progression of energy throughout the show?
+
+When something fascinates you, pay attention to the details. The person who thinks, “That was cool” is a consumer. The person who thinks, “How did they make something that cool?” is on the path to being a creator.
+
+Don’t just taste the recipe, look for the ingredients.”
+
+[source](https://jamesclear.com/3-2-1/december-15-2022)
+
+---
+
+## 2022-12-22
+
+I was reviewing some old notes to myself recently and I found this one:
+
+“You just need to have the courage to eliminate everything that doesn’t directly feed what you really want.”
+
+“It is nearly impossible to have your best idea the first time you think about something.
+
+The most likely way to uncover important insights is to frequently revisit a problem. The longer you’re in the game, the more ideas bubble up to the surface.
+
+Time unlocks insights.”
+
+An idea from Atomic Habits:
+
+“Happiness is simply the absence of desire… Happiness is not about the achievement of pleasure (which is joy or satisfaction), but about the lack of desire. It arrives when you have no urge to feel differently. Happiness is the state you enter when you no longer want to change your state.”
+
+[source](https://jamesclear.com/3-2-1/december-22-2022)
+
+---
+
+## 2022-12-29
+
+“10-year dreams. 5-minute actions.
+
+Where do I want to be in 10 years?
+
+What can I do in the next 5 minutes to contribute to that outcome?”
+
+“Anyone can listen. All you have to do is stop talking.
+
+But to be a good listener, you have to stop talking and be interested.
+
+Genuine curiosity is the precursor to understanding, and a good listener helps the other person feel understood.”
+
+“You can graduate with the finest degrees. You can read the most useful books. You can enjoy the loving support of family and friends.
+
+But your degrees can’t take action for you. Your books can’t make the decision for you. Your family can’t live your life for you.
+
+There is no substitute for courage. At some point, you have to make the choice.”
+
+[source](https://jamesclear.com/3-2-1/december-29-2022)
+
+---
+
+## 2023-01-05
+
+“You have to show up before inspiration will.”
+
+“Just start.
+
+Start slow if you have to. Start small if you have to. Start privately if you have to.
+
+Just start.”
+
+A reminder from Atomic Habits as we start the new year:
+
+“Every action you take is a vote for the type of person you wish to become. No single instance will transform your beliefs, but as the votes build up, so does the evidence of your new identity.”
+
+[source](https://jamesclear.com/3-2-1/january-5-2023)
+
+---
+
+## 2023-01-12
+
+“The hard way is the fast way.
+
+Do it right the first time and you won’t have to do it over the next time.”
+
+“The responsibility of any creator is to do the work, not judge it.
+
+Your job is to fall in love with the process, not grade the outcome.”
+
+“Leadership begins with your behavior.
+
+What’s more powerful? A manager or coach or teacher who tells you the right thing to do? Or one who shows you how to live and work by example?
+
+People gravitate toward the standard you set, not the standard you request.”
+
+[source](https://jamesclear.com/3-2-1/january-12-2023)
+
+---
+
+## 2023-01-19
+
+“The more time you spend complaining about what you deserve, the less time you have to focus on what you can create. Focus on what you can control.”
+
+“If you never question things, your life ends up being limited by other people’s imaginations.
+
+Take the time to think and dream, to question and reconsider. It is better to be limited by what you can dream for yourself than by where you fit in someone else’s dream.”
+
+“The edge is in the inputs.
+
+The person who consumes from better sources, gets better thoughts. The person who asks better questions, gets better answers. The person who builds better habits, gets better results.
+
+It’s not the outcomes. It’s the inputs.”
+
+[source](https://jamesclear.com/3-2-1/january-19-2023)
+
+---
+
+## 2023-01-26
+
+“You’ll feel better once you get started.”
+
+“Do one thing per day that compounds.”
+
+“The ability to love yourself improves your ability to be loved.
+
+We are unlikely to accept a relationship that is worse than the one we have with ourselves, and thus the person who is happy and comfortable with themselves is in a great position.
+
+The person with healthy self-esteem doesn’t have to jump into any relationship because they already have a great one wherever they go.”
+
+[source](https://jamesclear.com/3-2-1/january-26-2023)
+
+---
+
+## 2023-02-02
+
+“The trick to viewing feedback as a gift is to be more worried about having blind spots than hearing about them.”
+
+“The world seems to be accustomed to delaying gratification less and less, which means the rewards of delaying gratification grow more and more.”
+
+“The more an idea is tied to your identity, the more you will ignore evidence it is false. To continue to grow and learn, you must be willing to update, expand, and edit your identity.”
+
+[source](https://jamesclear.com/3-2-1/february-2-2023)
+
+---
+
+## 2023-02-09
+
+“Double down on what is working best.”
+
+“It doesn’t make sense to continue wanting something if you’re not willing to do what it takes to get it.
+
+If you don’t want to live the lifestyle, then release yourself from the desire. To crave the result but not the process, is to guarantee disappointment.”
+
+“Finish something. Anything. Stop researching, planning, and preparing to do the work and just do the work. It doesn’t matter how good or how bad it is. You don’t need to set the world on fire with your first try. You just need to prove to yourself that you have what it takes to produce something. There are no artists, athletes, entrepreneurs, or scientists who became great by half-finishing their work. Stop debating what you should make and just make something.”
+
+[source](https://jamesclear.com/3-2-1/february-9-2023)
+
+---
+
+## 2023-02-16
+
+“Before you throw more time at the problem, throw more focused action at the problem. You don’t need more time, you need fewer distractions.”
+
+“Patience only works if you do.
+
+Doing the work + patience = results.
+
+Planning to work + patience = you’re just waiting.”
+
+“Momentum goes both ways.
+
+Don’t move, feel sluggish. Start moving, feel like moving a little more.
+
+Don’t talk, feel timid. Start chatting, conversation gets a little easier.
+
+Don’t ship, feel stuck. Start creating, ideas begin to flow.”
+
+[source](https://jamesclear.com/3-2-1/february-16-2023)
+
+---
+
+## 2023-02-23
+
+“The 2-step process for exceptional results:
+
+(1) Spend a little time each day thinking about the highest leverage activity available to you.
+
+(2) Spend a little time each day working on it.”
+
+“With the creative process, the key is to create a lot and edit a lot.
+
+Make more than you need, then remove everything that isn’t exceptional.”
+
+“What you do on your ordinary days determines what you can achieve on your extraordinary days.”
+
+[source](https://jamesclear.com/3-2-1/february-23-2023)
+
+---
+
+## 2023-03-02
+
+“When you need to learn quickly, learn from others.
+
+When you need to learn deeply, learn from experience.”
+
+“If two people have the same goal, you know nothing about the similarity of their results. But if two people have the same daily habits, you can infer quite a bit about the similarity of their results. Your results are largely a byproduct of your habits.”
+
+“A paradox of life is that the greatest returns come in the long-term, but the opportunity cost of moving slowly is huge.
+
+Long-term thinking is not slow acting.
+
+Act fast on things that compound. Never let a day pass without doing something that will benefit you in a decade.”
+
+[source](https://jamesclear.com/3-2-1/march-2-2023)
+
+---
+
+## 2023-03-09
+
+“It’s rarely doing the work that is hard, it’s starting the work. Once you begin, it’s often less painful to continue working. This is why—in the beginning—it is often more important to build the habit of getting started than it is to worry about whether or not you are doing enough.”
+
+“Imagine the outcome you want to create.
+
+Envision where you are headed in great detail. Don’t talk yourself out of it. Don’t encourage yourself to be realistic. You will have to wrestle with reality soon enough. Don’t be your own bottleneck at this stage.
+
+What would the magical outcome be?”
+
+“Don’t rush, but don’t wait.
+
+Act with urgency, but release yourself from the need to achieve it on a particular timeline. When you think longer term than most, you can think bigger than most.
+
+If it takes years, start now.”
+
+[source](https://jamesclear.com/3-2-1/march-9-2023)
+
+---
+
+## 2023-03-16
+
+“Focus starts with elimination, improves with concentration, and compounds with continuation.”
+
+“Self care takes effort. It doesn’t just happen.
+
+The body and mind need to be maintained. Similar to a garden, without effort, weeds will pop up and overtake everything.
+
+With a bit of consistent pruning, the results can be beautiful.”
+
+“The connective tissue between your failures and your successes is the lessons you learn along the way.
+
+It is only by going through your early attempts (usually failures in some form) that you accumulate the insights, skills, and understanding required for success.
+
+Everything is a lesson. Learn enough lessons and the failures become useful.”
+
+[source](https://jamesclear.com/3-2-1/march-16-2023)
+
+---
+
+## 2023-03-23
+
+“Your problems adjust to their true level of importance after a hard workout and a good night of sleep.”
+
+“If you want to be rich, then be kind.
+
+It’s hard to create wealth unless you work well with others, and it’s hard to work well with others if you are unlikable.
+
+Even if you can build wealth without kindness, rich jerks end up poor in friendship. You can buy friends, but not good ones.”
+
+“A phrase I heard recently and found useful: I agree with the idea, but I disagree with the tone.
+
+Many ideas get dismissed because they are delivered in a cocky or hostile or dismissive tone—or because of who delivers them.
+
+Separate substance from style.”
+
+[source](https://jamesclear.com/3-2-1/march-23-2023)
+
+---
+
+## 2023-03-30
+
+“The most important habit is choosing the right habit to work on.”
+
+“Ambition is when you expect yourself to close the gap between what you have and what you want.
+
+Entitlement is when you expect others to close the gap between what you have and what you want.”
+
+“It’s generally better to over-communicate.
+
+If you wait to reply because you don’t have an answer yet (or because you don’t want to share bad news), the other party often ends up making assumptions about what the delayed reply might mean.
+
+Silence frustrates and confuses people. Better to communicate early and often.”
+
+[source](https://jamesclear.com/3-2-1/march-30-2023)
+
+---
+
+## 2023-04-06
+
+“Create your life rather than live it.”
+
+“One of the most critical skills in life—and yet never taught in school—is choosing where to direct your attention.
+
+After graduation, the valedictorian will often get lapped by “average” people who better invest their time.”
+
+“Money plays an important role in life, but it can’t be the only filter for how you decide to spend your time. Nobody will ever pay you to go on a date with your spouse or take your kids to the park or grab coffee with your parents.”
+
+[source](https://jamesclear.com/3-2-1/april-6-2023)
+
+---
+
+## 2023-04-13
+
+“You are the average of the 5 habits you repeat most.”
+
+“Speed is perpetually undervalued.
+
+Asking that person out today means you get to live more of your life with them and less of your life waiting.
+
+Starting your business today means you begin learning immediately and have more time to figure out what works.
+
+Go fast. The future is never guaranteed and the right time may never come.”
+
+“Many people won’t attempt something unless they can find an example of someone else who is already doing it. Rely on this type of thinking too much and you’ll never do anything interesting.
+
+Your path through life is unique. It is important to extract lessons from the experiences of others, but you can’t wait for a perfect example to take action. You are the example.”
+
+[source](https://jamesclear.com/3-2-1/april-13-2023)
+
+---
+
+## 2023-04-20
+
+“It’s hard to build momentum if you’re dividing your attention.”
+
+“Many people assume they are bad at writing because it is hard. This is like assuming you are bad at weightlifting because the weight is heavy.
+
+Writing is useful because it is hard. It’s the effort that goes into writing a clear sentence that leads to better thinking.”
+
+An idea from Atomic Habits:
+
+“On any given day, you may struggle with your habits because you’re too busy or too tired or too overwhelmed or hundreds of other reasons. Over the long run, the real reason you fail to stick with habits is that your self-image gets in the way. This is why you can’t get too attached to one version of your identity.
+
+Progress requires unlearning. Becoming the best version of yourself requires you to continuously edit your beliefs, and to upgrade and expand your identity.”
+
+For more on this idea, see Chapter 2 of Atomic Habits.
+
+[source](https://jamesclear.com/3-2-1/april-20-2023)
+
+---
+
+## 2023-04-27
+
+Something I heard recently and I’ve tried to adopt whenever possible:
+
+“Whoever has the most fun, wins.”
+
+“Water never complains, but always pushes back. Always.
+
+Drop a boulder in front of a stream and the water will simply flow around it, taking whatever opening the landscape will give or—when nothing is offered—patiently building up its resources until it rises to a height where a new gap is found.
+
+Persist like water. When an obstacle is placed in front of you, find your way around or gather your resources until a new opportunity reveals itself.”
+
+“Time assets vs. Time debts.
+
+Time assets are choices that save you time in the future. Think: saying no to a meeting, automating a task, working on something that persists and compounds.
+
+Time debts are choices that must be repaid and cost you time in the future. Think: saying yes to a meeting, doing sloppy work that will need to be revised, etc.
+
+Time assets are an investment. Time debts are an expense.”
+
+[source](https://jamesclear.com/3-2-1/april-27-2023)
+
+---
+
+## 2023-05-04
+
+“It’s hard to grow beyond something if you won’t let go of it.”
+
+“Broaden your interests. It’s nice to have at least one surprising hobby or passion. People find it interesting. In many ways, the part of you that is least expected is more respected.”
+
+“Talent is rarely enough to assure victory and bad luck is rarely enough to guarantee defeat.
+
+Do they influence the outcome? Of course. But your response will always sway the final tally.”
+
+[source](https://jamesclear.com/3-2-1/may-4-2023)
+
+---
+
+## 2023-05-11
+
+“Sometimes all you need for exceptional results is average effort repeated for an above-average amount of time.”
+
+“Make your habits fun.
+
+This doesn’t mean each habit will be the most fun thing in your life, but nearly any habit can be made more fun than it is currently. Ask yourself, “What would it look like if this was fun? What would it look like if meditation or exercise or writing—or whatever—was fun?
+
+Find the most enjoyable version of each habit you do.”
+
+“10 years or 1 hour. Those are the two time frames worth prioritizing.
+
+10 years is shorthand for thinking longer-term than nearly everyone else and doing things that are really ambitious or meaningful. Most of the deeply meaningful things in life require long time horizons: building a business, cultivating a happy marriage, growing a family, getting in the best shape of your life, etc.
+
+How do you work toward the 10-year things? In 1 hour increments. 1 hour is shorthand for doing things that can be accomplished from start to finish in a single session like a good workout, a good writing session, reading a chapter of a book, going on a fun date, etc. The key is that you finish with something accomplished, not with half-work still waiting to be completed.
+
+If you spend 1 hour working toward a 10-year project—and you repeat this day after day—you’re going to end up living a lovely life.”
+
+[source](https://jamesclear.com/3-2-1/may-11-2023)
+
+---
+
+## 2023-05-18
+
+“Buying your kids the best will never replace giving your kids your best.”
+
+“The best way to change the world is in concentric circles: start with yourself and work your way out from there.”
+
+“Be excited for people when they succeed.
+
+When a friend or family member reaches an important milestone like getting a promotion or making their first sale or scoring acceptance into their desired program, celebrate it. Buy them a drink. Send them a card. Tell them you’re proud to know them.
+
+Being thrilled on someone’s behalf is a lovely way to be. Winning is better when shared.”
+
+[source](https://jamesclear.com/3-2-1/may-18-2023)
+
+---
+
+## 2023-05-25
+
+“Just because improvements aren’t visible doesn’t mean they aren’t happening.
+
+You’re not going to see the number change each time you step on the scale. You’re not going to finish a chapter each time you sit down to write.
+
+Early wins come easy. Lasting wins require a lifestyle.”
+
+“One of the most valuable skills in life is being able to see another person’s perspective.
+
+If you’re going to someone’s house, think about how it might feel to be the host. If you’re creating a product, spend as much time as possible thinking like the customer. If you’re calling customer service, think about how it might feel to be on the other end of the conversation.
+
+The more clearly you understand the viewpoint of your spouse or customer or coworker, the better positioned you are to find a solution.”
+
+“Live the Pareto Principle lifestyle:
+
+Relationships. Who are the few people that have the most positive impact on my life? Spend more time with them.
+
+Priorities. What are the few actions that have the most positive impact on my day? Prioritize them.
+
+Learning. What are the few information sources I learn the most from? Focus on them.
+
+Stress. What are the few sources that cause most of the stress and friction in my life? Eliminate them.”
+
+[source](https://jamesclear.com/3-2-1/may-25-2023)
+
+---
+
+## 2023-06-01
+
+“The most invisible form of wasted time is doing a good job on an unimportant task.”
+
+“It generally feels better to run toward something than to run away from something. Focus on what is pulling you in, not what you’re trying to avoid.”
+
+“It’s easier to notice when you lose money than when you lose time. Be sure you’re making the trade you want.”
+
+[source](https://jamesclear.com/3-2-1/june-1-2023)
+
+---
+
+## 2023-06-08
+
+“The myth is that there isn’t enough time. There is plenty of time. There isn’t enough focus with the time you have. You win by directing your attention toward better things.”
+
+“The difference between how I feel before my first set in the gym and how I feel after my first set is enormous.
+
+You don’t even need a full workout (or work session, etc.) to feel good again. You are 5 minutes away from putting your day on a completely different trajectory.”
+
+“The person who focuses on one task and sees it through to completion—even if they work in a somewhat slow or outdated manner—beats the endless optimizer who jumps from tool to tool and always hopes a new piece of technology will help them finish what they start.”
+
+[source](https://jamesclear.com/3-2-1/june-8-2023)
+
+---
+
+## 2023-06-15
+
+*In honor of Father’s Day coming up this weekend, here are three ideas I was taught by my dad (and the first was taught to him by my grandpa)…*
+
+“You help people when they need help, not when you are ready to help them.”
+
+“Many people care more about being right than being happy.”
+
+“You can be relaxed and dedicated. Just because you worry more, doesn’t mean you care more.”
+
+[source](https://jamesclear.com/3-2-1/june-15-2023)
+
+---
+
+## 2023-06-22
+
+“People usually judge you based on where you are at currently, not what you could become eventually. Don’t let one comment stop you from trying. File it away or use it as fuel. Focus on getting better. Someone else’s analysis of your current position doesn’t tell you anything about your current potential.”
+
+“If you’re stuck in a negotiation, figure out the 1 thing that is truly non-negotiable for you and then compromise on everything else.”
+
+“One of the great balancing acts in life is to be cautious and daring at the same time.
+
+Cautious enough to avoid stupid mistakes, prevent burnout, and maintain a margin of safety.
+
+Daring enough to bet on yourself, to do the things you would regret leaving undone, and to be willing to be uncomfortable in the short term so you can learn and grow in the long term.”
+
+[source](https://jamesclear.com/3-2-1/june-22-2023)
+
+---
+
+## 2023-06-29
+
+“Small things matter when they accumulate. This is one of the main lessons of my work—and one of the principles I try to follow in my life. The details, when finely polished and carefully combined, add up to something remarkable.”
+
+“Life rewards action, not intelligence.
+
+Many brilliant people talk themselves out of getting started, and being smart doesn’t help very much without the courage to act.
+
+You can’t win if you’re not in the game.”
+
+“Start with the thing you are most motivated to do.
+
+Start with a small habit you think is fun and do it consistently. This will not only feel satisfying, but also open your eyes to the type of person you can become.
+
+After the first domino falls, you can use the momentum to do a little more.”
+
+[source](https://jamesclear.com/3-2-1/june-29-2023)
+
+---
+
+## 2023-07-06
+
+“Curiosity is the beginning of knowledge. Action is the beginning of change.”
+
+“Passion is a feeling that follows action. It tends to be created or discovered, not predicted or planned. You don’t find your passion. It finds you as you get in the mix and try things.”
+
+“Highly focused people do not leave their options open. They select their priorities and are comfortable ignoring the rest. If you commit to nothing, you’ll be distracted by everything.”
+
+[source](https://jamesclear.com/3-2-1/july-6-2023)
+
+---
+
+## 2023-07-13
+
+“Excitement is a better motivator than discipline. The people who appear to have an exceptional work ethic or remarkable discipline are often those with a genuine curiosity or interest in that area. The person who smiles is more likely to keep working than the person gritting their teeth.”
+
+“Writing is one of the only ways to outlive yourself. People still read books from hundreds or even thousands of years ago. The author’s physical life ended long ago, but their mental life remains alive and meaningful even today.”
+
+“The question is not: will today be a good day?
+
+Every day is a good day.
+
+The question is: how much good will you get out of today?”
+
+[source](https://jamesclear.com/3-2-1/july-13-2023)
+
+---
+
+## 2023-07-20
+
+“Most of the time you don’t need more information, you need more courage.”
+
+“Avoiding mistakes is an underrated way to improve. It’s easier to fend off a bad day than achieve a perfect day. Rather than do your best, avoid your worst.”
+
+“Being good at what you do is partially about competence, but not exclusively.
+
+Two other things that matter:
+
+Reliability. You do what you say you’re going to do—on time and as expected.
+
+Enthusiasm. You’re excited to be here and eager to work on this problem.
+
+Skills matter, but in many cases it’s your reliability or attitude that separates you from the pack.”
+
+[source](https://jamesclear.com/3-2-1/july-20-2023)
+
+---
+
+## 2023-07-27
+
+“Anxiety is thought without control.
+
+Flow is control without thought.”
+
+“One sign you haven’t done enough reading is if you find yourself agreeing with whatever book you read last. At first, it’s easy to be swayed by any reasonable argument. Once you’ve read a lot, you can see that even the best arguments have limitations.”
+
+“We want solutions, but what we really need are attitudes.
+
+You don’t need abs, but rather an attitude of training. You don’t need the answer, but rather an attitude of curiosity. You don’t need an easier life, but rather an attitude of perseverance.
+
+Attitude precedes outcome.”
+
+[source](https://jamesclear.com/3-2-1/july-27-2023)
+
+---
+
+## 2023-08-03
+
+“Goals are for people who care about winning once.
+
+Systems are for people who care about winning repeatedly.”
+
+“Work hard.
+
+If results depend on effort, then you will carry yourself far.
+
+If results depend on effort and luck, then you will have done what you can to influence the outcome.
+
+And if results depend on luck alone, then the outcome is random, but you will have won the battle with yourself.”
+
+“One version of confidence is: I’ve got this figured out.
+
+Another version is: I can figure this out.
+
+The first is arrogant and close-minded. The second is humble and open-minded.
+
+Be humble about what you know, but confident about what you can learn.”
+
+[source](https://jamesclear.com/3-2-1/august-3-2023)
+
+---
+
+## 2023-08-10
+
+“I recently found a box filled with notes I wrote to myself years ago. I like this one:
+
+1. Know what you want.
+
+2. Go after it relentlessly.”
+
+“You’re more likely to unlock a big leap in performance by trying differently than by trying harder. You might be able to work 10% harder, but a different approach might work 10x better. Remain focused on the core problem, but explore a new line of attack. Persistence is not just about effort, but also strategy. Don’t merely try harder, try differently.”
+
+“First or last?
+
+Sometimes the first move is the most important. The first set in the gym. Now you’re working out. The first sentence. Now you’re writing. The first call. Now you’re in the game.
+
+Other times, the last move is the most important. The last brick. Now the building is built. The last line of code. Now the app works. The last round of revisions. Now you can ship it.
+
+What do you need to focus on right now? First or last? Do you need to start or finish?”
+
+[source](https://jamesclear.com/3-2-1/august-10-2023)
+
+---
+
+## 2023-08-17
+
+“Some things work and some things don’t. There is almost always another way to get where you want to go. Don’t keep trying to open a locked door.”
+
+“When nothing is working, explore and make a lot of small bets.
+
+After something starts working, double down on what works best.
+
+When that stops working, explore and make a lot of small bets again.”
+
+“It’s not that hard on any given day, but the trick is you can’t skip days. Your workouts can be reasonable and still deliver results—if you don’t skip days. Your writing sessions can be short and the work will still accumulate—if you don’t skip days. As long as you’re working, you’ll get there.”
+
+[source](https://jamesclear.com/3-2-1/august-17-2023)
+
+---
+
+## 2023-08-24
+
+“People often think that something “far off” will make them happy. That moving to a new place or getting a different job or meeting someone new will change how they feel. But happiness will always be withheld if you believe it is somewhere else. The secret is to find happiness in the people and places that are close to you. See the beauty in the things that are nearby.”
+
+“Who does the work? Who bears the consequences? Who reaps the rewards? When the incentives are aligned, it’s the same person.”
+
+One way I think about my writing:
+
+“My approach is to empower, not to prescribe. I’m not interested in telling you which habits you should build or which choices you should make. You know what works for your life and circumstances better than I ever could. Instead, I want to equip and empower you with ideas and strategies so you can make your own choices and do the things you want to do. I’ll give you the hammer, you decide where to drive the nail.”
+
+[source](https://jamesclear.com/3-2-1/august-24-2023)
+
+---
+
+## 2023-08-31
+
+“Some lessons have to be experienced to be learned.”
+
+“A valuable skill in life is to be larger than the situation.
+
+When you’re feeling stressed or rattled, the situation is consuming you. It feels bigger and more important than it needs to be. This is when your emotions are likely to get the best of you.
+
+But when you are larger than the situation, you can mentally “step outside and above it.” Yes, there are problems to be solved. Yes, you need to take action. But the chaos is happening externally and you are still in the driver’s seat internally. You’re in control of the moment, the moment is not in control of you.”
+
+“Explore life from a position of power.
+
+When you believe, “Even if I stay single, I’ll still have a great life” … then you are in a much better position to enter a relationship.
+
+When you believe, “Even if I don’t get into this school, I’ll still have a great life” … then you are in a much better position to apply.
+
+When you believe, “Even if I don’t succeed with this business, I’ll still have a great life” … then you are in a much better position to give it a try.
+
+Sure, you may want the relationship to work or the business to be a success—and you should give it your best effort—but also realize that if it doesn’t work out, you’ll be fine. There are many ways to live a great life.”
+
+[source](https://jamesclear.com/3-2-1/august-31-2023)
+
+---
+
+## 2023-09-07
+
+“Enough courage to get started + enough sense to focus on something you’re naturally suited for + enough persistence to stay in the game long enough to catch a few lucky breaks + a lot of hard work. There’s your recipe.”
+
+“People spend a lot of time talking about other people’s bodies, gossiping about other people’s relationships, critiquing other people’s business, etc.
+
+Keep your eyes on your own paper. Work on your body. Nurture your relationships. Improve your business.
+
+We all have plenty to improve.”
+
+“Many people view their habits and routines as obstacles or, at the very least, obligations to get through. Making the morning coffee, driving your kids to the next activity, preparing the next meal—we often see our routines as chores to be completed.
+
+But these are not moments to be dismissed. They are life. Making coffee can be a peaceful ritual—perhaps even a fulfilling one—if done with care rather than rushed to completion. It’s about the amount of attention you devote to these simple moments, and whether you choose to appreciate them or bulldoze through them on the way to the next task.
+
+Find the beauty and joy in your daily rituals and you will find beauty and joy in your daily life. To love your habits is to love your days, and to love your days is to love your life.”
+
+[source](https://jamesclear.com/3-2-1/september-7-2023)
+
+---
+
+## 2023-09-14
+
+“The odds increase, the more you try.”
+
+“Arguably the most important skill is controlling your attention. This goes beyond merely avoiding distractions. The deeper skill is finding the highest and best use for your time, given what is important to you. More than anything else, controlling your attention is about being able to figure out what you should be working on and identifying what truly moves the needle.”
+
+“When you’re doing something hard, focus on the fun part.
+
+Many people make a subtle mistake, which is they emphasize how difficult it is to do something. They tell themselves writing is hard or running is hard or math is hard. And so on. The dominant thought in their mind is that this is hard to do.
+
+And it is true these things (and many others in life) can be challenging.
+
+Meanwhile, people who thrive in a given area are often emphasizing a completely different aspect of the experience. They are thinking about how it feels good to move their body rather than telling themselves exercise is hard. Or, perhaps, they aren’t really thinking much at all. They may slip into a trance during their run, a meditative rhythm.
+
+But what they are almost certainly not doing is repeating a mental story about how hard it is to do the thing. Their dominant thought is about some element of the experience they enjoy. They are working hard, but with the fun part in mind.”
+
+[source](https://jamesclear.com/3-2-1/september-14-2023)
+
+---
+
+## 2023-09-21
+
+“The person who tells the best story rules their corner of the world.”
+
+“Your relationships will rarely be healthier than your self-esteem.
+
+If the time you spend alone is already enjoyable to some degree—that is, if you have a healthy internal monologue and generally feel good about yourself—then you will have a fairly high bar for the type of relationships you’ll enter.
+
+But if you’re unhappy with yourself, then you are more likely to put up with bad relationships because they may occasionally make you feel better than you do alone. If you want a great relationship, the first thing you want is to be comfortable with yourself.”
+
+“Optimism early, pessimism in the middle, optimism late.
+
+Your starting position has to be somewhat optimistic or you’ll talk yourself out of getting started. Believing in what you are about to do does not guarantee success, but a lack of belief can prevent it.
+
+Once you’ve committed, pessimism becomes useful. Question things. Find holes in your plan. Hold yourself to a high standard and try to identify your mistaken beliefs before they become your misplaced actions.
+
+After you’ve spent some time troubleshooting, it’s back to optimism again. Nothing will ever be perfect, but you have to act anyway. Progress requires the courage to forge ahead despite the inevitable obstacles.”
+
+[source](https://jamesclear.com/3-2-1/september-21-2023)
+
+---
+
+## 2023-09-28
+
+“Maintain a margin of safety. If your life is designed only to handle the expected challenges, then it will fall apart as soon as something unexpected happens to you. Always be stronger than you need to be. Leave room for the unexpected.”
+
+“When you’re in the middle of the work, set your expectations high. It’s unlikely your performance will exceed the standard you set for yourself. High expectations encourage you to keep reaching and fulfill your potential.
+
+Once the work is done, release yourself from your expectations. The fastest way to ruin a good outcome is to tell yourself that it’s not good enough. Your expectations dictate your happiness more than your results.
+
+Expectations can be helpful as a motivator and unhelpful as a measuring stick. Now that the work is done you can rest easy knowing you tried your best. You’ve already won.”
+
+“Many people have a hard time making decisions because they don’t know what is important.
+
+When you have a clear mission and you are completely sure what is important to you, most decisions become easy. Once you’re fully committed, you don’t need rules for how to spend your time. It’s obvious which decision to make. It’s clear what to prioritize.
+
+Many people don’t need productivity or time management advice. They need conviction.”
+
+(Hat tip to Jordan O’Connor.)
+
+[source](https://jamesclear.com/3-2-1/september-28-2023)
+
+---
+
+## 2023-10-05
+
+“Before you discover what you love: fewer commitments, more experiments.
+
+After you discover what you love: fewer experiments, more commitments.”
+
+“It’s hard to save poor early decisions with good late decisions.
+
+- It’s hard to write a best-selling book if you chose an unpopular topic.
+- It’s hard to build a happy marriage if you married an unhappy person.
+- It’s hard to make money in real estate if you overpaid at the beginning.
+
+Certainly, things can be improved by making good decisions along the way, but the effects of poor early decisions tend to linger.”
+
+“One filter I use for making decisions: How much can I influence the outcome after the initial choice is made?
+
+When I can do a lot to influence the outcome, I’m less worried about risk. Even if the choice appears risky on the surface, I can likely create a good outcome with effort.
+
+When I can’t do much to influence the outcome, I’m more risk averse. Even my best effort won’t move the needle. Your ability to influence the outcome after a decision is made is a crucial thing to consider.”
+
+[source](https://jamesclear.com/3-2-1/october-5-2023)
+
+---
+
+## 2023-10-12
+
+“Two of my rules for life:
+
+1. The person who has the most fun wins.
+
+2. The climb is the fun part.”
+
+“Your reputation is your most important asset. It precedes you before you walk into the room and lingers long after the work is done.”
+
+“Big wins tend to be accompanied by some combination of bigger decisions, more uncertainty, and greater risk.
+
+If you want to play at a higher level, you need to be comfortable with greater swings of highs and lows: mentally, emotionally, financially.
+
+You can avoid the swings, but you might be forced to play at a lower level.”
+
+[source](https://jamesclear.com/3-2-1/october-12-2023)
+
+---
+
+## 2023-10-19
+
+“Your relationships will rarely be healthier than your self-esteem.”
+
+“In many cases, what you want to “buy” isn’t being “sold.”
+
+- the best homes usually aren’t for sale
+- the best employees usually aren’t looking
+
+People tend to hold onto the great things in life. They are almost never easily available. If you want to get them, you need enough courage to ask and enough salesmanship to convince them.”
+
+“If you’re stuck on a problem, try solving it at a different level.
+
+If you ask, “What can we do to create a more unified country?” then you end up with vague answers that are difficult to implement. The problem is mostly unmanageable at that level.
+
+But if you ask, “What can I do to create a more unified neighborhood?” then you can likely think of many small things you can do to connect your friends and neighbors.
+
+Zoom in or zoom out. Problems that seem impossible at one level are often quite accessible from a different one.”
+
+[source](https://jamesclear.com/3-2-1/october-19-2023)
+
+---
+
+## 2023-10-26
+
+“Don’t overlook the basics. Don’t ignore the foundation. How long can a tree remain standing without roots?”
+
+“Simplify. What can be done in three steps should never be done in four. Each link in the chain is a potential breaking point. Fewer links means fewer chances of failure.”
+
+“When you tolerate an error, you rob yourself of learning.
+
+When you ruminate on an error, you rob yourself of happiness.
+
+Notice it, improve it, and move on from it.”
+
+[source](https://jamesclear.com/3-2-1/october-26-2023)
+
+---
+
+## 2023-11-02
+
+“For each headache you face, ask yourself, “Is this mostly real or mostly imagined?”
+
+Solve the real problems, release the imaginary ones.”
+
+“Relax. Your rumination, analysis, worry, and need to control the future are robbing you of the current moment. Yes, there is a time for preparation, but continually thinking of the future guarantees you’ll never enjoy the present.”
+
+“Exerting more effort doesn’t help if you’re on the wrong trajectory.
+
+– Working harder on the wrong thing just wastes more time.
+
+– Learning more from a biased source will lead you further from the truth.
+
+– Doubling down on a toxic relationship only sets you up for more headaches.
+
+Before you try harder, make sure you are walking a path that leads where you want to go.”
+
+[source](https://jamesclear.com/3-2-1/november-2-2023)
+
+---
+
+## 2023-11-09
+
+“Forget about peak performance. Would your results improve if you simply focused on being reliable in the normal moments?
+
+Show up when it’s easy to skip. Do the fundamentals and do them well. And so on.
+
+Before you make it complicated, remember there are always simple improvements waiting to be made.”
+
+“You have to live with your mistakes, but you don’t have to compound them.
+
+To follow up an error with a foolish reaction is to lose twice. Given the reality of where you are right now, what is the best next action?
+
+A wise response may not erase a dumb mistake, but it can redeem it.”
+
+“At some point, you will have to learn to let go.
+
+There is an endless list of obligations and expectations, desires and ambitions, and worries and fears that will always be ready to insert themselves between you and the feeling of peace.
+
+If you never learn to let them go, there will never be enough.”
+
+[source](https://jamesclear.com/3-2-1/november-9-2023)
+
+---
+
+## 2023-11-16
+
+“The imperfect project you actually complete is worth more than the perfect project you never finish.”
+
+“You won’t always get what you strive for, but you will definitely get what you settle for. You won’t magically outperform your standards.”
+
+“Be ruthless about what you ignore. Time, energy, and resources are so precious. You have to be ferocious about cutting your priorities—more than you realize and certainly more than is comfortable.
+
+You can only deeply commit to a few things. One or two? Maybe three?
+
+Every pretty good, sorta nice, kinda fun thing you abandon is like shedding a weighted vest that lets you move at top speed. You were so busy focusing on how much you could carry, you never realized you could run this fast.”
+
+[source](https://jamesclear.com/3-2-1/november-16-2023)
+
+---
+
+## 2023-11-23
+
+“Consistency enlarges ability.”
+
+“You probably don’t want maximum effectiveness.
+
+For example, the most effective way to make money likely requires a lifestyle you don’t want to live. Instead, you want the most effective path that fits your desired lifestyle.
+
+How do you want to spend your days? Start there, then optimize.”
+
+“One of the most unexpected gifts you can receive is an early loss.
+
+- Missing out on a job you really wanted.
+- Trying a business idea that fails.
+- Suffering a heartbreak.
+
+An early setback can become the catalyst for a wonderful next chapter—if you channel the emotion effectively.
+
+Disappointment is a hot burning fuel. Let it light your fire to become better.”
+
+[source](https://jamesclear.com/3-2-1/november-23-2023)
+
+---
+
+## 2023-11-30
+
+“You are not the cause of everything that happens to you, but you are responsible for how you respond to everything that happens to you.”
+
+“It is not too late to do what you want to do—if you stop waiting for the time to be right.”
+
+“Life is harder when you expect a lot of the world and little of yourself.
+
+Life is easier when you expect a lot of yourself and little of the world.
+
+High standards, low expectations.”
+
+[source](https://jamesclear.com/3-2-1/november-30-2023)
+
+---
+
+## 2023-12-07
+
+“It’s more fun to be a fan than a critic. I’m not looking to spend my life tearing things down, when it can be so satisfying to build things up.”
+
+“Measure your success against others and you’ll be unhappy when they win—and less likely to receive help from them due to your jealousy.
+
+Measure your success against yourself and you can be happy when others win—and more likely to receive help from them thanks to your support.”
+
+“The way to live a full life is to act quickly.
+
+Particularly as you grow older, it’s alarmingly easy to let a year or two (or five) slip by without doing the big things you always felt like doing. You get into a rhythm—not necessarily one you love, but one you become comfortable repeating—and the grooves of your daily routine become deeper and more established.
+
+Speed is perpetually undervalued. That doesn’t mean you should feel frantic or rushed. In fact, it’s likely you should eliminate some of the things that make you feel so busy to make space for things you always wanted to do. But it definitely means you should stop letting the days drift by waiting for the moment to be right.
+
+Stop acting like there is infinite time. This—the way you are living right now—is your one life.”
+
+[source](https://jamesclear.com/3-2-1/december-7-2023)
+
+---
+
+## 2023-12-14
+
+“When you choose your friends today, you are choosing your habits tomorrow.”
+
+“It’s easier to optimize a modest start than to begin with a perfect start. Starting is the hard part, so start small and get in the mix. You’ll learn a lot and you’ll realize you don’t need to have it all figured out to begin.”
+
+“Don’t spend too much time around someone whose primary way of engaging with life is as a martyr. When suffering becomes your identity, you only see the hard parts of life.”
+
+[source](https://jamesclear.com/3-2-1/december-14-2023)
+
+---
+
+## 2023-12-21
+
+“The information you consume each day is the soil from which your future thoughts grow.”
+
+“Many of the best things in life grow along the way.
+
+- Start hanging out with someone and love grows along the way.
+- Start exercising and motivation grows along the way.
+- Start writing and inspiration grows along the way.
+
+Start now and let the feeling follow.”
+
+“Of all the ways you could be spending your precious time and attention, it is very unlikely that you are currently spending it in the optimal way. The only path I know for figuring out a better way to spend your life is to sit and think. You simply have to carve out some time to think carefully about what you’re doing, why you’re doing it, and what you’re really trying to achieve. Nobody stumbles into a well lived life. It has to be cultivated. Reflection and review are critical.”
+
+[source](https://jamesclear.com/3-2-1/december-21-2023)
+
+---
+
+## 2023-12-28
+
+“You will love whatever you pour your heart into. Passion follows commitment.”
+
+“The amateur does not know what to do.
+
+The master knows what not to do.”
+
+“Curiosity can empower you or impede you.
+
+Being curious and focused is a powerful combination. I define this combination as unleashing your curiosity within the domain of a particular task: asking questions about how things work, exploring different lines of attack for solving the problem, reading ideas from outside domains while always looking for ways to transfer the knowledge back to your main task, and so on. Even though you’re exploring widely, you’re generally moving the ball forward on the main thing. You start something and you keep searching until you find an effective way to finish it.
+
+Meanwhile, when your curiosity sends you off in a dozen different directions and fractures your attention, then it can prevent you from focusing on one thing long enough to see it through to completion. Curious, but unfocused. You’re jumping from one topic to the next, they aren’t necessarily related, your efforts don’t accumulate, you’re simply exploring. You start many things and finish few.
+
+How is your curiosity being directed? Is it rocket fuel or a roadblock?”
+
+(Hat tip to Matjaž Leonardis for sparking the idea.)
+
+[source](https://jamesclear.com/3-2-1/december-28-2023)
+
+---
+
+## 2024-01-04
+
+As we start the new year, a reminder from Atomic Habits:
+
+“New goals don’t deliver new results. New lifestyles do. And a lifestyle is a process, not an outcome. For this reason, all of your energy should go into building better habits, not chasing better results.”
+
+“A simple filter for managing your time: You’re not focused enough unless you’re mourning some of the things you’re saying no to.”
+
+“Don’t worry about being the most interesting person in the room, just try to be the most interested person in the room.
+
+- The interested person asks about others and leaves a good impression because people like talking about themselves.
+- The interested person is genuinely curious about someone’s craft and learns a lot about how things work.
+- The interested person engages with more people and—because opportunities come through people—is more likely to catch a lucky break.
+
+In general, the interested person learns more and tends to be well-liked. And in the long run, it’s hard to keep down someone who is well-learned and well-liked.”
+
+[source](https://jamesclear.com/3-2-1/january-04-2024)
+
+---
+
+## 2024-01-11
+
+“The pessimist criticizes, the optimist creates.”
+
+“Save more money than you think you need. Life is unexpected and your future tastes will likely be more expensive. Not worrying about money tomorrow is worth more than whatever you could buy today.”
+
+“I have learned that whenever I think “I don’t have enough time to do that” what I usually mean is “I don’t have enough energy” or “I am not actually interested in doing this.”
+
+What I need to do a better job of is not managing my time, but rather caring for myself and identifying my true interests. When I am well rested and working on something I am genuinely excited about, finding time is rarely a problem.”
+
+[source](https://jamesclear.com/3-2-1/january-11-2024)
+
+---
+
+## 2024-01-18
+
+“The days can be easy if the years are consistent. You can write a book or get in shape or code a piece of software in 30 minutes per day. But the key is you can’t miss a bunch of days.”
+
+“The wedding is an event, love is a practice.
+
+The graduation is an event, education is a practice.
+
+The race is an event, fitness is a practice.
+
+The heart, mind, and body are endless pursuits.”
+
+“The obvious way to buy back your time is to pay someone to do something for you. Pay the mechanic to change your oil or a dry cleaner to press your suit.
+
+The less obvious way to buy back your time is to say no. Passing on a promotion might “buy” you more time with family. Declining the dinner invite might “pay” for the time you need to exercise. We buy back our time not only with the money we spend, but also with the opportunities we decline.
+
+The more clearly you know how you want to spend your days, the easier it becomes to say no to the requests that steal your hours.”
+
+[source](https://jamesclear.com/3-2-1/january-18-2024)
+
+---
+
+## 2024-01-25
+
+“If you want a recipe for unhappiness, spend your time accumulating a lot of money and let your health and relationships deteriorate.”
+
+“Frankly, the most valuable items in our house might be a squat rack, a bench, and a set of weights. I thought I was purchasing gym equipment, but I was actually buying peace of mind.”
+
+“Pay attention to how readily people talk themselves out of things—and be wary of adopting the same narrative. People will often try to convince you their limiting beliefs should become your own. They do not. Find your own ceiling.”
+
+[source](https://jamesclear.com/3-2-1/january-25-2024)
+
+---
+
+## 2024-02-01
+
+“You should always be rooting for the people you know. Not only because you may need their support tomorrow, but also because it feels good to celebrate something.
+
+Celebration can rescue your day—even if it is someone else’s victory. Envy will ruin your day—even if you’re actually winning.”
+
+“When I go into a situation, I try to keep a mindset of baseline optimism.
+
+- When starting the day: It’s going to be a good day.
+- When meeting someone new: I’m going to like them.
+- When trying something challenging: It’s going to work out.
+
+Problems will inevitably arise and I’ll deal with them as the situation demands, but my preference is to assume I’m on a winning path until proven otherwise.”
+
+“I think about decisions in three ways: hats, haircuts, and tattoos.
+
+Most decisions are like hats. Try one and if you don’t like it, put it back and try another. The cost of a mistake is low, so move quickly and try a bunch of hats.
+
+Some decisions are like haircuts. You can fix a bad one, but it won’t be quick and you might feel foolish for awhile. That said, don’t be scared of a bad haircut. Trying something new is usually a risk worth taking. If it doesn’t work out, by this time next year you will have moved on and so will everyone else.
+
+A few decisions are like tattoos. Once you make them, you have to live with them. Some mistakes are irreversible. Maybe you’ll move on for a moment, but then you’ll glance in the mirror and be reminded of that choice all over again. Even years later, the decision leaves a mark. When you’re dealing with an irreversible choice, move slowly and think carefully.”
+
+Hat tip to Tim Ferriss, who once compared making decisions to choosing a sweater, which sent me down this line of thinking.
+
+[source](https://jamesclear.com/3-2-1/february-1-2024)
+
+---
+
+## 2024-02-08
+
+“The more things you have, the more things you have to manage.
+
+Simplicity isn’t merely cheaper, it’s easier.”
+
+“Always ask, but never expect.
+
+Always ask for what you want. Many people are happy to help—if the request is direct and specific. In a surprising number of cases, something remarkable is possible if you have the courage to ask.
+
+Never expect people to say yes. Everyone is busy and balancing multiple priorities. Your request is not their responsibility. When you’re told no, move on lightly and freely. The world is full of opportunity.”
+
+“Stop paying so much attention to what everyone else is doing and run your own race. How much time is spent reading other people’s posts on social media, watching other people’s exploits in the news, listening to other people’s ideas on podcasts? Go have coffee with a friend. Go make something. Go outside. All those hours spent looking at someone else’s life on a screen could be used to take action in your own life.”
+
+[source](https://jamesclear.com/3-2-1/february-8-2024)
+
+---
+
+## 2024-02-15
+
+“Who knows you is more important than who you know. Build a brand.”
+
+“It is not worth it to be greedy over a single transaction. Even if you’re not going to work with the person again. Even if you think word won’t get out. Even if you think this is your one shot to make it. Reputation follows you everywhere.”
+
+“If you want a simple formula for having a good day, then get a workout done and do your most important task before lunch. Knock out those two things by noon and you really feel like you’re ahead of the day.”
+
+[source](https://jamesclear.com/3-2-1/february-15-2024)
+
+---
+
+## 2024-02-22
+
+“Don’t sacrifice peace of mind for a piece of luxury.”
+
+“The secret is not to find the meaning of life, but to use your life to make things that are meaningful.”
+
+“Do things for your own satisfaction. Consider praise from others to be a bonus. If you don’t work for their validation in the first place, you won’t need it to feel satisfied once it’s done.”
+
+[source](https://jamesclear.com/3-2-1/february-22-2024)
+
+---
+
+## 2024-02-29
+
+“If you want to avoid criticism, create less.
+
+If you want to avoid irrelevance, create more.”
+
+“I can’t control the other person’s behavior, but I can control my response. Their actions may be rude or unacceptable, but I still want my response to be measured and thoughtful. Even if they aren’t doing what is right, I still want to make sure I’m doing what is right.”
+
+“In theory, consistency is about being disciplined, determined, and unwavering.
+
+In practice, consistency is about being adaptable. Don’t have much time? Scale it down. Don’t have much energy? Do the easy version. Find different ways to show up depending on the circumstances. Let your habits change shape to meet the demands of the day.
+
+Adaptability is the way of consistency.”
+
+[source](https://jamesclear.com/3-2-1/february-29-2024)
+
+---
+
+## 2024-03-07
+
+“You can go to hell without moving an inch, just focus on what you lack.
+
+You can taste heaven without leaving earth, just rejoice in what you have.”
+
+“The simplest way to clarify your thinking is to write a full page about whatever you are dealing with and then delete everything except the 1-2 sentences that explain it best.”
+
+“The reason people get good ideas in the shower is because it’s the only time during the day when most people are away from screens long enough to think clearly. The lesson is not to take more showers, but rather to make more time to think.”
+
+[source](https://jamesclear.com/3-2-1/march-7-2024)
+
+---
+
+## 2024-03-14
+
+“The beginner chases the right answers.
+
+The master chases the right questions.”
+
+“Flexibility alone is not a great strategy, but the lack of it can ruin one.”
+
+“How to clarify a concept you can’t articulate:
+
+1. Change mediums. Draw it. Photograph it. Sing it.
+
+2. Change levels. Explain what is one level up (bigger picture) or one level down (finer details).
+
+3. Change fields. What would this concept look like in different fields?”
+
+[source](https://jamesclear.com/3-2-1/march-14-2024)
+
+---
+
+## 2024-03-21
+
+“A truth unsaid can still be felt.
+
+What needs to be discussed, but hasn’t been said yet?
+
+Clear the air.”
+
+“My friend, who sometimes shares his writing with me, once said my feedback always falls into three categories:
+
+1. Make it shorter.
+
+2. Make it more appealing.
+
+3. How could it apply to more people?”
+
+“Some people get addicted to chain-smoking their problems. They spend all day going from sorrow to sorrow. It doesn’t have to be that way. You can live each day going from joy to joy—like a sunflower that turns to face the sun as it moves across the sky. It’s not about having a problem-free life, but about focusing on the light. Sunflowers still have shadows, but they are always behind them.”
+
+[source](https://jamesclear.com/3-2-1/march-21-2024)
+
+---
+
+## 2024-03-28
+
+“Laughter itself cannot make a great relationship, but the lack of it can spoil one.”
+
+“Holding onto anger and resentment is like scuba diving with an anchor. As long as you’re clinging to it, you’re bound to the seabed, limited in movement, unable to appreciate the coral reefs and the colorful fish that dart in and out of view.
+
+Forgiveness is letting go of the anchor. It isn’t about declaring what was done to you is okay, but about unburdening yourself so you can swim freely. Forgiveness is a gift you give yourself. It’s the gift of letting go of the anchors you’ve been carrying.”
+
+“I split problems into two groups: muddy puddles and leaky ceilings.
+
+Some problems are like muddy puddles. The way to clear a muddy puddle is to leave it alone. The more you mess with it, the muddier it becomes. Many of the problems I dream up when I’m overthinking or worrying or ruminating fall into this category. Is life really falling apart or am I just in a sour mood? Is this as hard as I’m making it or do I just need to go workout? Drink some water. Go for a walk. Get some sleep. Go do something else and give the puddle time to turn clear.
+
+Other problems are like a leaky ceiling. Ignore a small leak and it will always widen. Relationship tension that goes unaddressed. Overspending that becomes a habit. One missed workout drifting into months of inactivity. Some problems multiply when left unattended. You need to intervene now.
+
+Are you dealing with a leak or a puddle?”
+
+[source](https://jamesclear.com/3-2-1/march-28-2024)
+
+---
+
+## 2024-04-04
+
+“If you feel resistance before you begin, it’s usually procrastination and you need to get started.
+
+If you feel resistance after you begin, it’s usually feedback and you need to make adjustments.”
+
+“Focus is how you knit the hours of the day together. With focus, the day becomes a beautiful tapestry. Without focus, you end up holding a bundle of loose string.”
+
+“Anytime in my life when I have managed to go from a vision to a reality, the vision has not been a plan but a practice.
+
+In other words, what matters is not having a vision, but rather making a habit of returning to and revising the vision. For the big things in my life, I’m always coming back to them week after week—sometimes day after day. As new information arrives, the vision gets updated. The dream becomes more crystallized over time. It’s a habit of thinking about where you want to go with an ever-increasing degree of clarity.
+
+You do not need a vision, you need the practice of envisioning.”
+
+[source](https://jamesclear.com/3-2-1/april-4-2024)
+
+---
+
+## 2024-04-11
+
+“You don’t need to worry about progressing slowly. You need to worry about climbing the wrong mountain.”
+
+“If you already live a comfortable life, then choosing to make more money but live a worse daily life is a bad trade.
+
+And yet, we talk ourselves into it all the time. We take promotions that pay more, but swallow our free time. We already have a successful business, but we break ourselves trying to make it even more successful.
+
+Too much focus on wealth, not enough focus on lifestyle.”
+
+“Mastery is not only about getting better at your craft, but also about finding ways to eliminate the obstacles, distractions, and other annoyances that prevent you from working on your craft.
+
+Top performers find ways to spend as much time as possible on what matters and as little time as possible on what doesn’t. It is not someone else’s responsibility to create the conditions for success.
+
+You have to actively work to eliminate the things that don’t matter from your workload. If you haven’t figured out how to do that, you haven’t mastered your craft.”
+
+[source](https://jamesclear.com/3-2-1/april-11-2024)
+
+---
+
+## 2024-04-18
+
+“Wisdom is the echo of experience.”
+
+“Early feedback is usually better than late criticism. Delaying the conversation or stringing someone along with indirect feedback won’t make them feel better once the real issue is finally addressed. Nobody likes getting bad news, but everyone appreciates clarity.”
+
+“A simple recipe for finding opportunities:
+
+- Be pleasant
+- Ask questions
+- Engage daily
+
+It’s hard for a warm and pleasant person who is asking a lot of questions and engaging in their industry daily to not come across interesting opportunities.”
+
+[source](https://jamesclear.com/3-2-1/april-18-2024)
+
+---
+
+## 2024-04-25
+
+“Never outsource what you enjoy.”
+
+“How to connect with others:
+
+Share with someone who wants to listen or listen to someone who wants to share.”
+
+“People can help you in many ways throughout life, but there are two things nobody can give you: curiosity and drive. They must be self-supplied.
+
+If you are not interested and curious, all the information in the world can be at your fingertips, but it will be relatively useless. If you are not motivated and driven, whatever connections or opportunities are available to you will be rendered inert.
+
+Now, you won’t feel curious and driven about every area of life, and that’s fine. But it really pays to find something that lights you up. This is one of the primary quests of life: to find the thing that ignites your curiosity and drive.
+
+There are many recipes for success. There is no single way to win. But nearly all recipes include two ingredients: curiosity and drive.”
+
+[source](https://jamesclear.com/3-2-1/april-25-2024)
+
+---
+
+## 2024-05-02
+
+“Reputation is the echo of your actions.”
+
+“Greed is wanting the benefits of community without contributing to it.”
+
+“Simple ways to have a peaceful moment:
+
+- Close your eyes and just breathe for two minutes.
+- Leave your phone in another room for an hour.
+- Watch a cloud form and then dissolve.
+- Stand in the sunshine and notice how it warms your skin.
+- Light a candle and watch the flame dance.”
+
+[source](https://jamesclear.com/3-2-1/may-02-2024)
+
+---
+
+## 2024-05-09
+
+“You can ignore your weaknesses, but you can’t expect them to not impact you. The weakness of the coach shapes the players. The weakness of the teacher influences the students. The weakness of the parent molds the child.”
+
+“Don’t wait to start writing until you have something to say. Start writing so you can find out what you have to say.
+
+You first idea is rarely your best idea. It can take a lot of reps before you discover something worth keeping.”
+
+“You will never find one answer to what makes you happy. There are many answers, and they change based on your current state.
+
+People need to relax, but if all you do is sit on the beach, it gets old. People find meaning in work, but if all you do is work, it gets exhausting. People benefit from exercise, but if all you do is exercise, it gets unhealthy.
+
+Happiness will always be fleeting because your needs change over time. The question is: what do you need right now?”
+
+[source](https://jamesclear.com/3-2-1/may-9-2024)
+
+---
+
+## 2024-05-16
+
+“My personal rule is that it’s a good idea to be patient as long as I’m in the mix.
+
+If I’m taking action, putting in my reps, and trying things out, then I should remain patient and see what opportunities arise. But if I’m not taking action consistently, then I’m not practicing patience. I’m just waiting.”
+
+“You’ll probably surprise yourself with what you can accomplish—if you’re focused on one thing.
+
+You’ll probably frustrate yourself with what you fail to accomplish—if you’re doing 5 or 7 or 10 things.
+
+Nobody performs well when stretched in a half dozen directions.”
+
+“Whether you are an adult or child, your first attempts will often seem unimportant or foolish.
+
+- The open mic night at a nearly empty bar.
+- The early blog posts that get ignored.
+- The dance recital on a little stage.
+
+Early attempts are easy to dismiss because they don’t seem to amount to much. But you have to do the low stakes stuff to prepare for the high stakes stuff. They are the building blocks of confidence, and that’s an enormous thing.”
+
+[source](https://jamesclear.com/3-2-1/may-16-2024)
+
+---
+
+## 2024-05-23
+
+“Clarity isn’t about knowing what you want to do with your life, it’s about knowing what you want to do this week.
+
+You don’t need to have it all figured out. You just need to know your next step.”
+
+“Your life will not magically exceed your standards. Improve your boundaries and life improves too.”
+
+“You can cold email nearly anyone, but nearly everyone overlooks how powerful it can be.
+
+Sending one email each week that feels like a stretch can change your life. Will you get turned down? Sure, most of the time. But you only need one to pay off for something amazing to happen.
+
+Take your time, write a thoughtful message, and muster the courage to press Send.”
+
+[source](https://jamesclear.com/3-2-1/may-23-2024)
+
+---
+
+## 2024-05-30
+
+“It’s never the right time, but right now is usually the best time.”
+
+“A simple rule that makes life easier:
+
+Always strive to give value before you ask for value.”
+
+“Three ways to learn something new:
+
+- Reflect on what you have already tried.
+- Attempt something you have not tried.
+- Read about what someone else has tried.”
+
+[source](https://jamesclear.com/3-2-1/may-30-2024)
+
+---
+
+## 2024-06-06
+
+“If you’re having trouble sticking to a new habit, try a smaller version until it becomes automatic. Do less than you’re capable of, but do it more consistently than you have before.”
+
+“It’s remarkable how often the real problem is not what happened, but how it was communicated.”
+
+“There are at least 4 types of wealth:
+
+- Financial wealth (money)
+- Social wealth (status)
+- Time wealth (freedom)
+- Physical wealth (health)
+
+Be wary of jobs that lure you in with 1 and 2, but rob you of 3 and 4.”
+
+[source](https://jamesclear.com/3-2-1/june-6-2024)
+
+---
+
+## 2024-06-13
+
+“Move toward the next thing, not away from the last thing.
+
+Same direction. Completely different energy.”
+
+“Guilt lives in the past.
+
+Worry lives in the future.
+
+Peace lives in the present.”
+
+“Mastery requires lots of practice. But the more you practice something, the more boring and routine it becomes.
+
+Thus, an essential component of mastery is the ability to maintain your enthusiasm. The master continues to find the fundamentals interesting.”
+
+[source](https://jamesclear.com/3-2-1/june-13-2024)
+
+---
+
+## 2024-06-20
+
+“You can handle whatever you face.”
+
+“Do not mistake a confident explanation for an accurate prediction.
+
+An engineer can predict how much weight a steel bridge will hold and you can be quite sure reality will match their calculation. That’s an accurate prediction.
+
+Meanwhile, strongly held opinions about what will happen in markets or sports or politics have little predictive power. A lot of what you hear can be summarized as: confident, but inaccurate.”
+
+(Inspired by a recent conversation with Morgan Housel.)
+
+“One of life’s counterintuitive lessons is that you will often gain energy by spending a little bit of energy.
+
+When you feel lethargic and like you want to lay around all day, it is usually the case that getting up and moving will make you feel better than simply sitting around. Getting outside for 10 minutes or doing the first set of a workout or simply stretching on the floor for a moment — anything to get your body moving — will often leave you feeling more energized.
+
+If you want to get your day going, then get your body going. It’s harder for the mind to be sluggish when the body is moving.”
+
+[source](https://jamesclear.com/3-2-1/june-20-2024)
+
+---
+
+## 2024-06-27
+
+“Make a mistake? Release the guilt, remember the lesson.”
+
+“Surround yourself with people who have the same goals as you. Rise together.”
+
+“Productivity is most important for things you don’t want to be doing. Most people want to increase productivity so they can spend less time on the task.
+
+But before you worry about being more productive, think about being more selective. Rather than focusing on increasing productivity, it may be worth asking, “What would I be delighted to spend time on, even if it went slowly?”
+
+Direct your energy toward figuring out how to start what you want to do rather than thinking about how to shorten what you don’t want to do.”
+
+[source](https://jamesclear.com/3-2-1/june-27-2024)
+
+---
+
+## 2024-07-04
+
+“Carry an ambitious question with you each day and keep looking for answers.”
+
+“I’m not the best writer, but it is a strength. I might be a 90th percentile writer.
+
+And I’m not the best marketer, but it is a strength. Again, maybe 90th percentile? I’m better than most, but if you pass 100 people on the street it won’t be hard to find some people better than me.
+
+What I have gradually learned is that it is not your strengths, but your combination of strengths that sets you apart. It is the fact that writing and marketing are mutually reinforcing—and that I enjoy both—that leads to great results.
+
+How can you combine your strengths? That’s something I would encourage everyone to think about. You will find talented people in every area of life. It’s the combinations that are rare.”
+
+“When you choose the benefits of an action, you also choose the drawbacks.
+
+If you want to be an author, you can’t only choose the finished novel and book signings. You are also choosing months of lonely typing. If you want to be a bodybuilder, you can’t only choose the fit body and attention. You are also choosing the boring meals and calorie counting.
+
+You have to want the lifestyle, not just the outcomes. Otherwise, it doesn’t make any sense being jealous. The results of success are usually public and highly visible, but the process behind success is often private and hidden from view. It’s easy to want the public rewards, but also you have to want the hidden costs.”
+
+[source](https://jamesclear.com/3-2-1/july-4-2024)
+
+---
+
+## 2024-07-11
+
+“The first minute of action is worth more than a year of perfect planning.”
+
+“One of the great mistakes in life is suffering for years because you didn’t want to feel foolish for five minutes.
+
+- You don’t want to apologize, so you let a relationship deteriorate.
+- You’re scared of the sting of rejection, so you don’t ask for what you want.
+- You fear people will say your idea is dumb, so you never start the business.
+
+Nobody likes feeling foolish, but the feeling fades quickly. The willingness to endure five minutes of discomfort turns out to be a meaningful dividing line in life.”
+
+“In my early 20s, I wrote a list of ambitious things I wanted to do in life. Go bungee jumping. Create a movie. Start a business. That sort of thing. I did a few of them, but not most.
+
+Looking back, however, that list was incredibly valuable because it taught me the usefulness of chasing bold ideas—even if they never materialize. The dreams that didn’t happen changed shape and led me down other interesting paths.
+
+The important thing isn’t to achieve all your dreams, but to keep dreaming. Your desires change as you learn and grow. Old dreams will spawn new dreams. And eventually, one of these newer, more refined visions will find their moment and become reality.”
+
+[source](https://jamesclear.com/3-2-1/july-11-2024)
+
+---
+
+## 2024-07-18
+
+“When one worldview dominates your thinking, you’ll try to explain every problem you face through that worldview. Read widely and realize there are many answers.”
+
+“A great relationship is not only finding the person you have fun with, but also finding the person you want to be bored with. The beauty of long-term relationships is often hidden in boring, ordinary moments.”
+
+“Some projects benefit from early action. If you’re writing a book, it’s easy to spend a lot of time brainstorming titles and dreaming up an outline, but it’s better to simply write. The book discovers itself as you go. Yes, you’ll need to go back and organize things, but this is easier to do once you have material. The key is to act first and then organize your thinking.
+
+Other projects benefit from early planning. The best way to build a skyscraper is to plan carefully. If you start placing steel beams on day one, you’re guaranteed to run into problems. It is harder to make changes once you’ve begun. You’ll need to tear it down and start over again. The key is to organize your thinking and then act.
+
+Do you need early action or early planning?”
+
+[source](https://jamesclear.com/3-2-1/july-18-2024)
+
+---
+
+## 2024-07-25
+
+“In many cases, what you hope to learn by reading books or listening to podcasts can only be learned by attempting what you fear. Some knowledge is only revealed through action.”
+
+“Creativity is the focused combination of unlikely things. Your mind locks onto a certain element and then searches widely for something unexpected that fits with it. What can scuba diving teach you about agriculture? What can trees teach you about public speaking? There is always some connective tissue between disciplines. If you wish to be more creative, look for the connections between two previously unconnected things.”
+
+“The bad workouts are the most important ones. It’s easy to train when you feel good, but it’s crucial to show up when you don’t feel like it—even if you do less than you hope.
+
+Going to the gym for 15 minutes might not improve your performance, but it reaffirms your identity. It’s not always about what happens during the workout. It’s about becoming the type of person who doesn’t miss workouts.”
+
+[source](https://jamesclear.com/3-2-1/july-25-2024)
+
+---
+
+## 2024-08-01
+
+“If you’d like to get better at saying no, try this:
+
+Keep a list of things you say no to. Whenever you ignore a distraction or turn down an opportunity, add it to the list. As the list grows, you begin to feel a sense of accomplishment for your ability to say no and remain focused on what matters.
+
+Turn each no into an achievement.”
+
+“Boredom is a filter. Common ideas come before it. Uncommon ideas come after it. Sit with a project long enough to get bored with it, then sit a little more. The most useful insights bubble up after you get bored.”
+
+“When you’re younger, it’s easy to underestimate how fleeting the days can be. Each choice matters. Each day matters.
+
+When you’re older, it’s easy to underestimate how much opportunity you still have. Don’t talk yourself out of it. It’s never too late to start.”
+
+[source](https://jamesclear.com/3-2-1/august-1-2024)
+
+---
+
+## 2024-08-08
+
+“Communication is about what is received, not what is intended. If there is a gap between what you are saying and what they are hearing, you have to find a new way to say it.”
+
+“Finding your way in life is like unlocking the combination of a safe. You have to go forwards and backwards. Life is not a direct march from A to B. The twists and turns are progress, not regression. What feels like a setback in the moment is later revealed to have been part of the path all along. Each move was necessary to get to your end goal.”
+
+“The problem with smart people is they can come up with a good reason for not doing anything. They are smart enough to find the cracks, to foresee the challenges, and to talk themselves out of the idea. They are experts at justifying their lack of courage or lack of action with an intelligent excuse.
+
+But there will always be reasons to not do something, and this is particularly true of anything worth doing. We value those moments in which we overcame challenge, not those in which we avoided it. Ultimately, action is a choice. The choice to emphasize the reasons for doing it despite the reasons you have for avoiding it.”
+
+[source](https://jamesclear.com/3-2-1/august-8-2024)
+
+---
+
+## 2024-08-15
+
+“To experience time travel, read.
+
+To achieve immortality, write.”
+
+“Do bold things with a pleasant and friendly demeanor.”
+
+“When you drink water from a cup, it becomes part of you. When water falls on you like rain, it evaporates a few minutes later.
+
+Similarly, thoughts can be consumed or dismissed. Is this thought nourishing? Is this feeling something you should drink? Or is it more like getting caught in the rain?
+
+You’ll always feel the rain, but you don’t have to drink the rain. You can let the thought pass and in a few moments the sun will return. You don’t have to claim everything you feel.”
+
+[source](https://jamesclear.com/3-2-1/august-15-2024)
+
+---
+
+## 2024-08-22
+
+“Plant the seeds of greatness in your mind.”
+
+“The strategy required to find a great opportunity (lots of saying yes and exploring widely) is different from the strategy required to make the most of a great opportunity (lots of saying no and remaining focused).”
+
+“I have had periods in my career when I have been sprinting full speed and accomplished a great deal and I have had seasons when I have been fairly lazy and coasted on my previous effort.
+
+What I have learned is that I am the major obstruction to getting results. Whether external conditions are favorable or unfavorable makes less difference than whether I am fully engaged and consistent. Even in competitive fields, the competition is primarily within yourself.”
+
+[source](https://jamesclear.com/3-2-1/august-22-2024)
+
+---
+
+## 2024-08-29
+
+“Clarity is freedom. Know what is important to you and it will grant you the freedom to ignore everything else.”
+
+“When you’re on the field, play as if nothing else matters.
+
+When you’re off the field, remember that the game doesn’t matter at all.”
+
+“Dreams are fun when they are distant. The imagination loves to play with possibilities when there is no risk of failure.
+
+But when you find yourself on the verge of action, you pause. You can feel the uncertainty of what lies ahead. Thoughts swirl. Maybe this isn’t the right time? Failure is possible now.
+
+In that moment—in that short pause that arises when you stand face to face with your dream—is the entirety of life. What you do in that pause is the crucible that forges you. It is the dividing line between being the type of person who thinks about it or the type of person who goes for it.
+
+When I really think about it, I want that moment to be my legacy. Not that I won or lost. Not that I looked good or looked like a fool. But that when I had something I really wanted to do, I went for it.”
+
+[source](https://jamesclear.com/3-2-1/august-29-2024)
+
+---
+
+## 2024-09-05
+
+“You can carve out a very good career simply by being the most reliable person on the team. You would not think that always showing up on time, hitting every deadline, and responding quickly and professionally to all communication would be such a differentiator, but these traits are always in short supply.”
+
+“It’s easy to assume that getting rich in money will also mean you are rich in time, but it is often the case that when you earn more money, you end up with less time and more responsibilities.
+
+Being rich is nice, but what you really want to optimize for is (1) an income that exceeds your spending by a healthy margin and (2) a lifestyle that is free from rushing.”
+
+“It’s nice to have a little help, but we often resent when someone else tries to do it all for us. Each individual wants to make their own dreams a reality. If someone hands you the whole thing on a silver platter, they gift you the result, but rob you of the accomplishment.
+
+Remember this not only when chasing your dreams, but also when supporting others. Help along the way, but let them run their own race. Your job is to live life with them, not live their life for them.”
+
+[source](https://jamesclear.com/3-2-1/september-5-2024)
+
+---
+
+## 2024-09-12
+
+“Lucky opportunities are like grains of sand. They drift right past a limp hand, but an active palm can gather whatever is within reach and shape it into a little castle. It is the act of engaging with the material that gives it shape. You have to seize the moment.”
+
+“The rules:
+
+(1) know precisely what you want,
+
+(2) determine the cost of what it will take to get it,
+
+(3) don’t bargain over the price.”
+
+“The secret of creative work is to make a lot and publish a little.
+
+Don’t underestimate the power of giving yourself permission to create junk. Most of what you create will be mediocre or bad.
+
+But that’s okay. You only have to show people the good stuff. Make 100 things, discard 90, and share the 10 best. Create, create, create. Edit, edit, edit.”
+
+[source](https://jamesclear.com/3-2-1/september-12-2024)
+
+---
+
+## 2024-09-19
+
+“Inspiration comes on the twenty-fifth attempt, not the first. If you want to make something excellent, don’t wait for a brilliant idea to strike. Create twenty-five of what you need and one will be great. Inspiration reveals itself after you get the average ideas out of the way, not before you take the first step.”
+
+“You can’t change your past, but you can reframe it.
+
+Find the lesson in it. Find the opportunity in it. Pull the teachable moment out of it and share with others.
+
+You can’t choose your history, but you can choose the story you tell about it.”
+
+“Two years, not two months.
+
+The visible progress you’re hoping for usually comes slower than you’d like. Even with consistent effort it can take a long time before progress feels significant. It might be a year of writing and editing before the book really starts to come together. You may need two years of recovery from a major injury before you notice just how far you’ve come. It may take two years of yoga before you realize how flexible you have become.
+
+Take a deep breath, stop worrying about immediate results, and settle into a nice routine.”
+
+[source](https://jamesclear.com/3-2-1/september-19-2024)
+
+---
+
+## 2024-09-26
+
+“There are all kinds of cheat codes lying around, but they usually look boring. People will routinely ignore things that already work for the hope of a slightly easier path. The cheat code is the work you’re avoiding.”
+
+“Try to disprove your best loved ideas.”
+
+“Don’t just imagine doing things someday. Do them now.
+
+Get out of your head and take action.”
+
+[source](https://jamesclear.com/3-2-1/september-26-2024)
+
+---
+
+## 2024-10-03
+
+“Focus on your likes, not your wants.
+
+- You may not want to exercise, but you like how it makes you feel.
+- You may not want to write, but you like the feeling of accomplishment.
+- You may not want to wake up early, but you like the calm beauty of morning.
+
+Wanting is the desire you feel before doing something. Liking is the satisfaction you feel after doing something. Let your likes guide you.”
+
+“Read, but don’t just read. Read the best book you can find.
+
+Write, but don’t just write. Write the best idea you can conceive.”
+
+“There are many ways to win in business, but there is one surefire way to lose: run out of money. Entrepreneurship is a game of survival.”
+
+[source](https://jamesclear.com/3-2-1/october-3-2024)
+
+---
+
+## 2024-10-10
+
+“Compete externally and you compare.
+
+Compete internally and you improve.”
+
+“Two is twice as good as one, but one is infinitely better than zero.
+
+- One minute of making sales calls is infinitely better than zero minutes.
+- One minute of meditation is infinitely better than zero minutes.
+- One minute of writing is infinitely better than zero minutes.
+
+Sure, it might be ideal to spend an hour doing these things, but one minute gets you in the game. Now you’re learning. Now you’re improving. Now results are possible. One doesn’t seem like much, but it’s something real. At zero, you’re still dreaming.”
+
+“The secret is to do a few things for a long time.
+
+The challenge is…
+
+(1) You need to experiment and explore quite a bit to find the thing that is worth doubling down on. It may take a few years (or a decade) to find the project or relationship or cause that you want to commit to for a long time.
+
+(2) New things are always coming up. Once you find something you want to do for a long time, you need the courage and discipline to say no to the shiny, new opportunities. After years of exploring and experimenting, it can be hard to flip the switch and remain focused.
+
+You have to be willing to explore widely enough to find your thing, then willing to focus narrowly enough to make it something great.”
+
+[source](https://jamesclear.com/3-2-1/october-10-2024)
+
+---
+
+## 2024-10-17
+
+“Being kind to others is mostly about your actions.
+
+Being kind to yourself is mostly about your thoughts.”
+
+“There is no need to fear any problem you are working on. If you are working on it, then you are influencing the outcome.
+
+It’s the problems you don’t address that should concern you.”
+
+“Before you worry about how to win the game, figure out whether the game is worth winning.”
+
+[source](https://jamesclear.com/3-2-1/october-17-2024)
+
+---
+
+## 2024-10-24
+
+“Ideas that are hoarded help no one. Success follows generosity.”
+
+“In many cases, you’ll find the only thing preventing you from learning is your ego.
+
+No one enjoys feeling foolish, but attempting something new requires that you climb down from your perch and struggle as a beginner. You must ask questions that reveal your ignorance or attempt skills that make you look uncoordinated.
+
+Learning demands the willingness to live in a brief state of discomfort. You must believe that looking like a fool for an hour will not ruin your reputation for life.”
+
+“Self-talk strategies:
+
+If you need confidence, talk to yourself the way you would talk to a friend.
+
+If you need persistence, talk to yourself the way you would talk to a student.
+
+If you need patience, talk to yourself the way you would talk to a child.”
+
+[source](https://jamesclear.com/3-2-1/october-24-2024)
+
+---
+
+## 2024-10-31
+
+“Focus on what provides value to others, not what impresses others.
+
+Other people spend about as much time thinking about your lifestyle and accomplishments as you spend thinking about their lifestyle and accomplishments. Which is to say, not much time at all.
+
+The things we do to impress others rarely impress them for longer than five minutes. But the things we do to provide value for others can last a lifetime. In the long-run, one of the most impressive things you can do is provide exceptional value.”
+
+“Anger is like an oven; heat without light.
+
+Forgiveness is like the moon; light without heat.”
+
+“If you look for evidence that people are conspiring to hold you back and the world is working against you, then it will take you no time at all to find precisely that.
+
+If you expect to encounter helpful people and experience a world that is working with you, then you find plenty of evidence to support that view as well.
+
+The raw material for a sweet life or a bitter life is always there. The story you emphasize is the one you notice.”
+
+[source](https://jamesclear.com/3-2-1/october-31-2024)
+
+---
+
+## 2024-11-07
+
+“A critical quality to develop in life is the willingness to try. You simply must find enough confidence to give it a go. The human mind is fabulous at learning. You will get better at whatever you practice. But before you can develop the skill to succeed, you must find the courage to attempt.”
+
+“Grow fast, built to crash.
+
+Grow slow, built to last.”
+
+“When you think you are too old to do something new remember you will never be younger than you are right now.”
+
+[source](https://jamesclear.com/3-2-1/november-7-2024)
+
+---
+
+## 2024-11-14
+
+“Decide the type of person you want to be.
+
+Prove it to yourself with small wins.”
+
+“The more an idea is tied to your identity, the more you will ignore evidence it is false. People seem to have no trouble finding reasons to ignore the merits of ideas they dislike.
+
+To continue to grow and learn, you must be willing to update, expand, and edit your identity. In many ways, growth is unlearning.”
+
+“The creative process:
+
+- Discover – Read a lot. Observe the world. Notice.
+- Collect – Immediately record anything that strikes you.
+- Generate – Build on your notes to brainstorm lots of ideas.
+- Combine – Connect previously unconnected ideas.
+- Refine – Edit, edit, edit. Select the best.”
+
+[source](https://jamesclear.com/3-2-1/november-14-2024)
+
+---
+
+## 2024-11-21
+
+“If you’re eager to learn—even if you aren’t particularly talented—then you can make it a long way despite your shortcomings.
+
+But if you’re not eager and curious, you’ll find your natural abilities often fall short of what is required.”
+
+“I find the projects I’m most excited to work on are nearly always the projects that have really fantastic people associated with them.”
+
+”Limiting your options now will expand your opportunities in the long run because you can remain focused enough to master something.
+
+Keeping your options open now will reduce your opportunities in the long run because you divide your attention and end up doing an average job on seven different things.
+
+Are you falling into the pattern of always mastering one thing or always chasing the next thing?”
+
+[source](https://jamesclear.com/3-2-1/november-21-2024)
+
+---
+
+## 2024-11-28
+
+“You can lose yourself one small compromise at a time.
+
+You can transform yourself one small win at a time.”
+
+“You don’t have to be good at everything, you just need to double down on what you’re naturally suited for.”
+
+“Train hard and focus on what you can control.”
+
+[source](https://jamesclear.com/3-2-1/november-28-2024)
+
+---
+
+## 2024-12-05
+
+“When dreaming, imagine success.
+
+When preparing, imagine failure.
+
+When acting, imagine success.”
+
+“If you do not actively choose a better way, then society, culture, and the general inertia of life will push you into a worse way. The default is distraction, not improvement.”
+
+“You draw out of the world what you put into it.
+
+Want to attract reliable people? Be reliable. 
+Want to attract trustworthy people? Be trustworthy. 
+Want to attract welcoming people? Be welcoming. 
+Want to attract exceptional people? Be exceptional.”
+
+[source](https://jamesclear.com/3-2-1/december-5-2024)
+
+---
+
+## 2024-12-12
+
+“The key is to enjoy hanging out on the edge. That is, you find it interesting to attempt things one step beyond where you are right now. It could be the edge of your ability or the edge of your knowledge or the edge of your network.
+
+If you reach — but just a little — and you do it every week, then you’ll take on challenges that are manageable enough that you win most of the time, but meaningful enough that you improve as well.”
+
+“Your biological age is the number of days you’ve lived.
+
+Your psychological age is the number of thoughts you’ve entertained.
+
+Your sociological age is the number of contributions you’ve made.”
+
+“Two simple rules:
+
+- You get better at what you practice.
+- Everything is practice.
+
+Look around and you may be surprised by what people are “practicing” each day. If you consider each moment a repetition, what are most people training for all day long?
+
+Many people are practicing getting mad on social media. Others are practicing the fine art of noticing how they have been wronged. Still more have mastered the craft of making plans (but never following through).
+
+But, of course, it doesn’t have to be that way.
+
+What are you practicing?”
+
+[source](https://jamesclear.com/3-2-1/december-12-2024)
+
+---
+
+## 2024-12-19
+
+“To learn, wander. To achieve, focus.”
+
+“You are better equipped to deal with stress when you are moving.
+
+When you feel tense or frustrated or worried, it is difficult to think your way into feeling better. The more you think about the situation, the larger it becomes in your mind. Trying to think your way out of it often leads to a spiral of overthinking and rumination.
+
+The first step is not to think something different, but to do something different. It doesn’t matter what. Stretch on the floor, go for a walk, work on a project. Get out of your mind and move your body.”
+
+“Think about the little things you enjoy, then turn around and do them for someone else.
+
+If you feel relief when someone asks a question in class, then other students are probably relieved too. Be the one who asks.
+
+If you love it when a friend calls to check in, your friends probably love it too. Be the one who calls.
+
+If it makes your whole day when someone compliments your outfit, other people probably love it too. Give out more compliments.”
+
+[source](https://jamesclear.com/3-2-1/december-19-2024)
+
+---
+
+## 2024-12-26
+
+“You can’t make a comeback if you don’t start.”
+
+“You have to work hard to discover how to work smart. You won’t know the best solutions until you’ve made nearly all the mistakes.”
+
+“The quality of my life is significantly higher on days that I publish an article. The creative process and well-being go hand-in-hand.”
+
+[source](https://jamesclear.com/3-2-1/december-26-2024)
+
+---
+
+## 2025-01-02
+
+“Your habits are often a byproduct of convenience. Humans are wired to seek the path of least resistance, which means the most convenient option is often the one that wins. Make good choices more convenient and bad choices less so. Behavior will improve naturally.”
+
+“Use what you already know. People are so busy searching for a shortcut — or hoping an easier path will reveal itself — they let numerous moments slip by when they could get results simply by doing what is right in front of them.”
+
+“Writing is the superpower of humankind. It is our truest form of magic.
+
+Writing allows you to conjure up something of value where nothing previously existed. It costs little for you to write down the lessons of your life and yet those few minutes spent writing can be life-altering for the right reader. As I once saw it put: “there is someone out there with a wound in the exact shape of your words.”
+
+Furthermore, writing is the foundation of nearly every technology and innovation because we have to record what we know before we can build upon it. And these innovations are passed down from generation to generation, allowing our children to inherit a richer intellectual fortune than what we were born into. The world is richer because we write and nobody is made poorer in the process.”
+
+[source](https://jamesclear.com/3-2-1/january-2-2025)
+
+---
+
+## 2025-01-09
+
+“At any moment, you are one good choice away from a meaningfully better life.”
+
+“Savor the little victories as much as you criticize the little mistakes.”
+
+“If you keep showing up, you’ll almost certainly break through — but probably not in the way you expected or intended. You need enough persistence to keep working and enough flexibility to enjoy success when it comes in a different form than you imagined.”
+
+[source](https://jamesclear.com/3-2-1/january-9-2025)
+
+---
+
+## 2025-01-16
+
+“The source of healthy boundaries is self-love and self-respect. When you learn to love yourself, you are less likely to put up with people who don’t love you back.”
+
+“Caring about everything is a disaster.
+
+Caring about nothing is also a disaster.
+
+Nurture the small pocket of things that truly matter to you.”
+
+“People who rarely receive criticism often take feedback too personally and miss opportunities to learn.
+
+People who frequently receive criticism get used to ignoring what others say and also miss opportunities to learn.
+
+The thing to focus on is the pattern. If you hear something once, don’t let it wreck your mindset. There are many ways to view the world and not everyone will agree with your approach.
+
+But if you’re hearing something repeatedly, think carefully about whether the feedback is right.”
+
+[source](https://jamesclear.com/3-2-1/january-16-2025)
+
+---
+
+## 2025-01-23
+
+*In today’s issue, I’m sharing three ideas to help you stick with better habits as we head deeper into January…*
+
+“Nearly everything awesome takes longer than you think.
+
+Get started and don’t worry about the clock.”
+
+“In theory, consistency is about being disciplined, determined, and unwavering.
+
+In practice, consistency is about being adaptable. Don’t have much time? Scale it down. Don’t have much energy? Do the easy version. Find different ways to show up depending on the circumstances. Let your habits change shape to meet the demands of the day.
+
+Adaptability is the way of consistency.”
+
+“A surefire way to make a bad situation worse is to continue replaying it in your mind.
+
+The damage is done. The only thing that matters now is making the best choice given your current position.
+
+Next play mentality.”
+
+[source](https://jamesclear.com/3-2-1/january-23-2025)
+
+---
+
+## 2025-01-30
+
+“Beware the student of one teacher. A good idea spirals into dogma when it gets applied to everything and stretched beyond the areas where it is useful. Remain open and embrace a lot of teachers.”
+
+“Your best performances will come when you are working in a way that is a full expression of you. The work becomes a natural display of your personality. This is when you not only get better results, but also love the activity — because in doing the craft, you feel alive.”
+
+“People can sometimes be held hostage by their expectations. They have a dream of something they would like to achieve or a path they intend to follow, but their mindset falls apart when things don’t work out how they had hoped.
+
+The key is to reach for an extremely high bar, but to be adaptable enough to reframe the failures, disappointments, and defeats into fuel for the next thing. Give your best effort, but no matter how it works out, trust that life will be good for you. Focus on how the world is working with you, not against you.
+
+Everything you are given is material for the next move. Everything.”
+
+[source](https://jamesclear.com/3-2-1/january-30-2025)
+
+---
+
+## 2025-02-06
+
+“When accessing all information is common, paying attention to important information is rare.”
+
+“On funerals, loss, grief, friendship, and support:
+
+It’s not about knowing what to say. It’s about being there when nobody knows what to say. The only thing people need to hear is, “You are not alone.” And that doesn’t require words. It just requires your presence.”
+
+“The world is big, but industries are small.
+
+After a few years, everyone comes to know the quality of your work.
+
+Reputation matters.”
+
+[source](https://jamesclear.com/3-2-1/february-6-2025)
+
+---
+
+## 2025-02-13
+
+“People frequently get what they deserve, but it doesn’t feel like it because the unspoken rule is that you only deserve it if you have (1) the courage to attempt it, (2) the guts to ask for it, and (3) the willingness try again when it doesn’t work out the first time.”
+
+“If you do not bend, you will break.
+
+The adaptable prevail. Determined, but flexible.”
+
+“Whether a decision is good or bad can change based on how you act after the choice is made.
+
+You can’t learn all the lessons beforehand. You learn a lot about what you want in a marriage after getting married. You discover what type of career you enjoy after doing a lot of work. And so it goes in nearly every area of life. In many cases, what you wish you knew ahead of time can only be learned after the decision is made.
+
+So there is nothing left but to pay attention to what you like, continue to iterate, and commit to making the most of each opportunity. There is no perfect decision. Good decisions are made right after the fact.”
+
+[source](https://jamesclear.com/3-2-1/february-13-2025)
+
+---
+
+## 2025-02-20
+
+“Spend today interpreting whatever people do in the most generous way. See if you feel better as a result.”
+
+“Your teaching ability is constrained by your writing ability.
+
+If you can’t write it down, it will be nearly impossible to teach it well.”
+
+“Four questions that can tell you a lot:
+
+- When you wake up, do you expect today to have many joys or many frustrations?
+- When presented with an opportunity, do you have a bias toward action or do you postpone decisions?
+- When things go well for others, do you enjoy cheering them on or do you hate to hear about their success?
+- When things go wrong, do you believe it is your responsibility to improve the situation or do you blame others?”
+
+[source](https://jamesclear.com/3-2-1/february-20-2025)
+
+---
+
+## 2025-02-27
+
+“There are two ways to live a longer life:
+
+1) Biologically. Extend the timeline between your birth and your death.
+
+2) Psychologically. Fit more lives into whatever time you are given.
+
+Make each decade rich with experiences and perhaps you can live a handful of lives before you are done.”
+
+“Think about self-control less as the quality of a person and more as the quality of a place. There are some places and situations that lean toward lower self-control and others that lean toward higher self-control. Self-control is about your context as much as your character. Put yourself in good positions.”
+
+“Things that keep people from fulfilling their potential:
+
+- Lacking the courage to try
+- Trying to please everyone
+- Imitating the desires of others
+- Chasing status without questioning why
+- Playing superhero and trying to do it all alone
+- Dividing attention between too many projects”
+
+[source](https://jamesclear.com/3-2-1/february-27-2025)
+
+---
+
+## 2025-03-06
+
+“The quality of your thoughts is determined by the quality of your reading. Spend more time thinking about the inputs.”
+
+“To understand others, watch what they reward.
+
+To understand yourself, watch what you envy.”
+
+“What you push down doesn’t vanish. It festers and wields quiet power over your thoughts and actions.
+
+What needs to be addressed that isn’t currently being addressed?”
+
+[source](https://jamesclear.com/3-2-1/march-6-2025)
+
+---
+
+## 2025-03-13
+
+“The person who experiences the consequences should make the decision.”
+
+“You are as old as the risks you take. In many ways, aging is not the process of growing old, but rather the slow death of becoming overly protective, scared, and worried about losing what you have. Youth is found in the energy of going for it, taking the risk, and trusting that you’ll figure it out along the way.”
+
+“The Process:
+
+- Decide what you want to achieve.
+- Try different ways of achieving it until you find one that works for you.
+- Do more of what works. Do less of what doesn’t.
+- Don’t stop doing it until it stops working.
+- Repeat.
+
+It is both this simple and this hard.”
+
+[source](https://jamesclear.com/3-2-1/march-13-2025)
+
+---
+
+## 2025-03-20
+
+“The way to help someone is not to critique what makes them smaller, but to encourage what makes them larger.”
+
+“Even bad luck is a source of opportunity—but only if you live each day as if that is true.”
+
+“Each year, Steve Jobs would hold an annual meeting with the 100 most important people at Apple.
+
+Crucially, these were not the top 100 executives, but rather the 100 people who were most important to the company that year. Jobs personally chose attendees based on their direct contribution, creativity, vision, and impact within the company, regardless of their official titles or positions.
+
+I always loved the spirit of that practice. Competence over credentials.”
+
+[source](https://jamesclear.com/3-2-1/march-20-2025)
+
+---
+
+## 2025-03-27
+
+“Take all the energy you spend on…
+
+- worrying about the past
+- worrying about the future
+- worrying about what others think
+- worrying about if you might fail
+
+… and channel that energy into one useful action within your control.”
+
+“Stories of failure resonate more than stories of success. Few people reach the top, but everyone has failed—including those who eventually succeed. If you’re teaching people how to succeed in a given field (or talking about your own success), start with how you failed.”
+
+“Success is largely the failures you avoid.
+
+- Health is the injuries you don’t sustain.
+- Wealth is the purchases you don’t make.
+- Happiness is the objects you don’t desire.
+- Peace of mind is the arguments you don’t engage.
+
+Avoid the bad to protect the good.”
+
+[source](https://jamesclear.com/3-2-1/march-27-2025)
+
+---
+
+## 2025-04-03
+
+“Remain playful as your responsibilities increase. It’s easy to become serious when people and results depend on you, but nearly everyone’s performance improves when they proceed lightly through the world.”
+
+“Although losing is never fun, there is a certain satisfaction that can be found on the other side of losing — but only when you give your all. To lose with half effort offers no pleasure in the moment and no peace in the long run. But if your ambitions were full and your attempt was genuine, after the sting of losing wears off you’ll be left with something resembling contentment. The reward is not always in winning, but in striving.”
+
+I found this in a pile of notes to myself, and share here simply as food for thought…
+
+“You want two things:
+
+1. Simplicity, simplicity, simplicity. No wasted movement. No wasted effort.
+
+2. Compounding. Every project should have a long runway and feed the others.”
+
+[source](https://jamesclear.com/3-2-1/april-3-2025)
+
+---
+
+## 2025-04-10
+
+“The 2-step process for exceptional results:
+
+- Spend a little time each day thinking about the highest leverage activity available to you.
+- Spend a little time each day working on it.”
+
+“The feeling of progress is one of the best feelings of all. This is true even when progress is small.”
+
+“The 4 qualities of a great career:
+
+- I enjoy it
+- I’m good at it
+- I make good money
+- I’m around fascinating people
+
+Answer in reverse order:
+
+- Where are fascinating people?
+- In what ways can I make money with them?
+- Which ones am I good at?
+- Which ones do I enjoy?”
+
+[source](https://jamesclear.com/3-2-1/april-10-2025)
+
+---
+
+## 2025-04-17
+
+“Don’t let the hope of finding a better way prevent you from starting down the best path you know of right now. This day won’t come again.”
+
+“The usual story is that people with “good genes” are those with incredible athleticism or remarkable intelligence, but sometimes I wonder if the greatest genetic edge goes to the people with whatever genes encourage the desire to compete, the ability to stay focused, and the enjoyment of practice.”
+
+“Focus on the things you are for, not the things you are against.
+
+Many people spend large chunks of their day thinking about what they hate. They are always telling you about something they dislike: this food, that subject, this political party, that coworker.
+
+You are more than your frustrations. Build your identity around what you love.”
+
+[source](https://jamesclear.com/3-2-1/april-17-2025)
+
+---
+
+## 2025-04-24
+
+“You can’t make time go faster or success come sooner. The only thing you can control is the next action.”
+
+“Reminder: If someone is acting like an idiot, you can just move on and let them be wrong. You do not have a personal obligation to correct people who are committed to being stupid. Sure, sometimes you need to attempt to get on the same page, but usually you can simply reclaim your time and move on to more productive ventures.”
+
+“In some areas of life, your reputation is defined by your wins.
+
+- Creative pursuits. One bestseller or hit song can erase the memory of the ones that didn’t work.
+- Entrepreneurship. People rarely remember your failed business ideas, only your winning ones.
+
+In areas like these, your mistakes fade away and the breakthroughs last. But in other areas of life, your reputation is defined by your losses.
+
+- Crime. You can drive safely 364 days a year, but one DUI changes everything.
+- Ethics and morals. One unethical decision can ruin a reputation and destroy trust.
+
+In areas like these, your mistakes linger and consistency is rewarded.
+
+Some areas of life reward your best day. Others punish your worst day. 
+Know which situation you’re in, and you can better decide when to be risky and when to play it safe.”
+
+[source](https://jamesclear.com/3-2-1/april-24-2025)
+
+---
+
+## 2025-05-01
+
+“The more control you have over your attention, the more control you have over your future. And it starts with having enough courage to protect your time.
+
+It’s so easy to say yes. We want to be agreeable, helpful, liked. That’s how time disappears and attention becomes fragmented: not in big chunks, but in a thousand small concessions.
+
+What you trade your attention for is what your life becomes.”
+
+“Not everything blooms in spring. Your season might be autumn.
+
+Keep going.”
+
+“Someone will start with more money than you. Someone will get into a better school. Someone will inherit connections you need to build from scratch. Someone will get picked before you. In other words, you’ll have no problem finding people with a head start.
+
+That’s not the point.
+
+The point is: when you get your opportunity, you make the most of it.”
+
+[source](https://jamesclear.com/3-2-1/may-1-2025)
+
+---
+
+## 2025-05-08
+
+“The secret to winning is learning how to lose. That is, learning to bounce back from failure and disappointment—undeterred—and continuing to steadily march toward your potential. Your response to failure determines your capacity for success.”
+
+“The Paradox of Freedom: The way to expand your freedom is to narrow your focus.
+
+- Stay focused on saving to achieve financial freedom.
+- Stay focused on training to achieve physical freedom.
+- Stay focused on learning to achieve intellectual freedom.
+
+The disciplined become the free.”
+
+“The person who learns the most in any classroom is the teacher.
+
+If you really want to learn a topic, then “teach” it. Write a book. Teach a class. Build a product. Start a company.
+
+The act of making something will force you to learn more deeply than reading ever will.”
+
+[source](https://jamesclear.com/3-2-1/may-8-2025)
+
+---
+
+## 2025-05-15
+
+“Worrying about the future is like watching a leaf fall and trying to predict where it will land. Stop trying to guess where the wind will blow and get to work.”
+
+“Treat failure like a scientist.
+
+Each attempt is an experiment. Each mistake is a clue.
+
+You’re not failing. You’re refining.”
+
+“One way to stand out is to look for pockets of low competition.
+
+Wake up early—less traffic, fewer people.
+
+Go deeper or narrower in your field—less noise, more space.
+
+People are drawn to where it is crowded. Look for the quiet spaces inside your areas of interest. Excellence often hides at the edges.”
+
+[source](https://jamesclear.com/3-2-1/may-15-2025)
+
+---
+
+## 2025-05-22
+
+“Your first task is to find what feels effortless to you.
+
+Your second task is to put maximum effort into it.”
+
+A reminder from Atomic Habits:
+
+“Time will multiply whatever you feed it.
+
+Good habits make time your ally. Bad habits make time your enemy.”
+
+“Things that keep talented people from fulfilling their potential:
+
+- Trying to please everyone
+- Imitating the desires of others
+- Chasing status without questioning why
+- Playing superhero and trying to do it all alone
+- Dividing attention between too many projects
+
+Which one is most likely to pull you in?”
+
+[source](https://jamesclear.com/3-2-1/may-22-2025)
+
+---
+
+## 2025-05-29
+
+“Shortcuts tend to accelerate effort, not replace it. Supplements and cutting edge recovery methods might speed up your progress in the gym, but they don’t replace the need to do the workout. In general, the people who benefit most from shortcuts are those who continue to practice the fundamentals consistently.”
+
+“Stress and worry tend to be higher before you act.
+
+Without action, all you can do is worry.
+
+Once you begin, fear shrinks as you start to influence the outcome.”
+
+“To improve, compare little things.
+
+- marketing strategies
+- exercise technique
+- writing tactics
+
+To be miserable, compare big things.
+
+- career path
+- marriage
+- net worth
+
+Comparison is the thief of joy when applied broadly, but the teacher of skills when applied narrowly.”
+
+[source](https://jamesclear.com/3-2-1/may-29-2025)
+
+---
+
+## 2025-06-05
+
+“The beginning is mostly luck. The end is mostly choices.”
+
+“There is always more than one way to do something. Write down as many ways as you can think of to achieve your desired outcome. Then, rank them based on how much time they take, how much money they cost, and how effective you expect them to be. Choose the best.”
+
+“Today might be the best chance you have to take action.
+
+The longer you wait, the more deeply embedded you get in your current lifestyle. Your habits solidify. Your beliefs harden. You get comfortable.
+
+It will never be easy, but it may also never be easier than it is right now.”
+
+[source](https://jamesclear.com/3-2-1/june-5-2025)
+
+---
+
+## 2025-06-12
+
+“Books are the nearest thing to a time machine humans have ever made.”
+
+“Don’t let a title become a trap.
+
+- “I have to be a doctor.”
+- “I need to get into that school.”
+- “I can’t quit this job—it’s Google.”
+
+There are many ways to live an amazing life. Stop thinking about the status of this particular title and focus on the substance of what you want. You’ll often find there are many ways to get similar amounts of joy, purpose, or freedom.
+
+If you attach your happiness to a single path, you’ll become blind to other wonderful opportunities around you. And many of them might be a better fit for you or deliver a similar result with less struggle.”
+
+“Win the day and go on your way.
+
+There are always doubts:
+
+- But what if…
+- Will I be able to…
+- Should I be worried about…
+
+Leave it be. Have the best day you can today. Win the moment in front of you right now.”
+
+[source](https://jamesclear.com/3-2-1/june-12-2025)
+
+---
+
+## 2025-06-19
+
+“A simple rule for life that rarely fails:
+
+Optimize for enthusiasm. Make as many choices as you can that leave you feeling energetic and interested. Pay attention to when you have the urge to pursue or participate in something and do more of it.”
+
+“There is an enormous difference between working hard on something that is a grind and working hard on something that comes easily to you.
+
+Exceptional results almost exclusively happen when you work hard on an area where you have some natural aptitude. Play to your strengths.”
+
+“Education teaches you to analyze. Entrepreneurship teaches you to create.
+
+The educated mindset is great at dissecting and criticizing. What did Shakespeare mean here? What were the major forces of this historical period? What is the limiting reagent in this chemical reaction?
+
+The entrepreneurial mindset is great at building and improving. Design a better product. Craft a new marketing plan. Stop talking about what’s wrong and make something better.
+
+The trick is to keep learning, but to never lose your ability to build.”
+
+[source](https://jamesclear.com/3-2-1/june-19-2025)
+
+---
+
+## 2025-06-26
+
+“Start with the best opportunity available to you. If you make the most of what you have in front of you right now, better opportunities will become available as you go along.”
+
+“Relationships are usually the most important thing.
+
+If you want to achieve more, there is some relationship that can unlock better results. If you want to make a meaningful contribution, helping others is a great way to do it. If you simply want to be a little happier, life is often more fun when shared with someone.
+
+Whatever you’re trying to accomplish, relationships are probably the key to getting there. Take this idea seriously and spend a little time thinking about which relationships you need to build or invest in.”
+
+“Mental toughness is often framed as the perseverance that gets you across the finish line:
+
+- Find a way to make it happen
+- Push through the pain
+- Grind it out to the end
+
+But most days, mental toughness isn’t about crossing the finish line. It’s about getting to the starting line:
+
+- Show up when no one is watching
+- Keep your eye on the ball
+- Do a little bit every day
+
+Mental toughness is not skipping the days that are easy to skip.”
+
+[source](https://jamesclear.com/3-2-1/june-26-2025)
+
+---
+
+## 2025-07-03
+
+“The fundamentals: Something many people know, but few people practice.”
+
+“When I notice myself worrying about ‘what other people will think,’ I find I’m usually not worried about any single person’s opinion.
+
+If I pick a specific person, I’m rarely concerned about what they will think. What I fear is the collective opinion in my head. It’s imaginary.”
+
+“Three qualities that have nothing to do with talent or intelligence, but can make a dramatic impact on your results:
+
+- Cheerful. You are pleasant to work with and generally raise the level of energy in the room.
+- Accountable. You feel personally responsible for what you want to accomplish. It is not someone else’s job. It’s your job.
+- Adaptable. You can find alternate paths to success. You don’t need things to be a certain way to be happy.”
+
+[source](https://jamesclear.com/3-2-1/july-3-2025)
+
+---
+
+## 2025-07-10
+
+“Focus on the seeds, not the trees. What seeds are you planting today?”
+
+“Many of our habits and beliefs are learned from those who raised us. Which family story are you unconsciously repeating and reenacting? How can you rewrite the script to liberate yourself and the next generation?”
+
+“Practice the art of small daily discomforts. Modern life is optimized for convenience and comfort. Your food can be delivered straight to your door. Your car seats can be heated. Your favorite show is available at the press of a button.
+
+We all enjoy convenience and comfort, myself included. But our bodies and souls yearn for challenge. We want to be stretched. A deeper satisfaction awaits after pushing yourself to learn a challenging concept or complete a humbling workout or have an important but difficult conversation.
+
+Should the whole day feel difficult? No, I don’t think that’s necessary. But a good day — a meaningful and fulfilling day — requires small moments of discomfort. Growth demands discomfort. We need something to push against to learn how strong we can become.”
+
+[source](https://jamesclear.com/3-2-1/july-10-2025)
+
+---
+
+## 2025-07-17
+
+“Whenever you are stuck searching for the optimal plan, remember:
+
+Getting started changes everything.”
+
+“Strangely, life gets harder when you try to make it easy.
+
+- Exercising might be hard, but never moving makes life harder.
+- Mastering your craft is hard, but having no skills is harder.
+- Uncomfortable conversations are hard, but avoiding every conflict is harder.
+
+Easy has a cost.”
+
+“Be forgiving with your past self. What’s done is done. Take the lessons with you and release the guilt.
+
+Be strict with your present self. Win the moment in front of you right now.
+
+Be flexible with your future self. There are many paths to success. You don’t need life to be a certain way to live well.”
+
+[source](https://jamesclear.com/3-2-1/july-17-2025)
+
+---
+
+## 2025-07-24
+
+“There are many elements of living a good life, but the first and most foundational is to love yourself and enjoy spending time with yourself.
+
+Go do things on your own so you learn to trust your mind and view it as a welcome companion. If someone declared, “Tomorrow you must spend the day alone” the hope is that you would reply, “That sounds like a good day!”
+
+The person who is at ease within finds every other space larger and more enjoyable.”
+
+“As far as I can tell, every great advance — whether in an individual life or the world at large — has come from dreams and attempts.
+
+Devise more dreams. Make more attempts.”
+
+A philosophy I heard recently and have found useful:
+
+“We look for reasons to say yes and only say no when we have to.”
+
+[source](https://jamesclear.com/3-2-1/july-24-2025)
+
+---
+
+## 2025-07-31
+
+“Chase your desired lifestyle, not your desired title. People are blinded by status and labels. Once you release the need for a specific title, there is almost always an easier path to living your preferred lifestyle.”
+
+“Take great care to avoid mistakes when the decision is hard to reverse.
+
+But! If you make a mistake that is hard to reverse, there is no sense beating yourself up about it. Your responsibility is to make the best next choice given your current position. You must always make the most of the situation you are in.
+
+Next play mentality.”
+
+“Many frustrations are the result of unspoken expectations. Before you get too annoyed, make sure you are clearly expressing your thoughts.”
+
+[source](https://jamesclear.com/3-2-1/july-31-2025)
+
+---
+
+## 2025-08-07
+
+“You can attract luck simply by telling people what you are working on.”
+
+“Working on a problem reduces the fear of it.
+
+It’s hard to fear a problem when you are making progress on it—even if progress is imperfect and slow.
+
+Action relieves anxiety.”
+
+“You are richer than 93 percent of people. Not in money, but in time.
+
+Over 108 billion people have lived throughout history. 93 percent of them are dead.
+
+You have what every king and queen, every pharaoh and ruler, every CEO and celebrity of the past would give all their wealth and power for:
+
+Today.”
+
+[source](https://jamesclear.com/3-2-1/august-7-2025)
+
+---
+
+## 2025-08-14
+
+“Your success depends on the risks you take.
+
+Your survival depends on the risks you avoid.”
+
+“Hype erodes. Quality persists.”
+
+“Running one mile has more in common with running a marathon than sitting at home.
+
+Investing $100 has more in common with being a millionaire than being broke.
+
+Writing one sentence has more in common with writing a book than never writing one.
+
+It always feels small in the beginning and the big goals seem far away. It’s easy to talk yourself out of the early attempts because they feel kind of meaningless.
+
+But every race starts with one step. Every fortune starts with a small deposit. Every book begins as one sentence.
+
+The real question is not “What is my current position?” but rather, “What is my current trajectory?” Doing nothing builds nothing. Put yourself on the path to something better. Start small, but make sure you start.”*
+
+*Note: inspired by this Instagram caption from Kayla Henry.
+
+[source](https://jamesclear.com/3-2-1/august-14-2025)
+
+---
+
+## 2025-08-21
+
+“Praise others. It will bring them peace of mind.
+
+Do not expect others to praise you. It will bring you peace of mind.”
+
+“We often think that we want an open road and the ability to choose any direction for ourselves. But sometimes, what we need is a tunnel that can reduce our choices and send us in a focused direction.”
+
+“The person who learns the most in any classroom is the teacher.
+
+If you really want to learn a topic, then “teach” it. Write a book. Teach a class. Build a product. Start a company.
+
+The act of making something will force you to learn more deeply than reading ever will.”
+
+[source](https://jamesclear.com/3-2-1/august-21-2025)
+
+---
+
+## 2025-08-28
+
+Something a friend told me recently:
+
+“Never do anything in the gym today that prevents you from working out tomorrow.”
+
+Something my four-year-old told me recently:
+
+“We need to be kind to the future.”
+
+You can apply that to your own life and the world at large.
+
+Something I’m trying to practice:
+
+“Don’t just tell your spouse that you love them–tell them why you like them. Point out the qualities that make them fun to be around, the parts of their personality that shine, the little moments you genuinely enjoy together. ‘I love you’ matters, but so does ‘I like spending time with you.'”
+
+[source](https://jamesclear.com/3-2-1/august-28-2025)
+
+---
+
+## 2025-09-04
+
+“Work hard on what comes easily.”
+
+“Use the best idea you have right now. Claiming you need to ‘learn more’ or ‘get your ducks in a row’ is just a crutch that prevents you from starting. Education is a lifelong pursuit. You will always need to learn more. It’s not a reason to wait.”
+
+“One study looked at artists who started at the bottom and worked their way to successful careers. The researchers identified one factor that was consistent across the group: they performed far more shows than the average artist.
+
+The same principle holds true in many fields. If you want to rise, you need a lot of shots on goal. Keep showing up. Keep making new material. Eventually, you catch a lucky break.”
+
+[source](https://jamesclear.com/3-2-1/september-4-2025)
+
+---
+
+## 2025-09-11
+
+“Boredom is a filter. Common ideas come before it. Uncommon ideas come after it. Sit with a project long enough to get bored with it, then sit a little more. The most useful insights bubble up after you get bored.”
+
+“People often care about belonging more than they care about accuracy. We don’t always believe things because they are factually correct. In many cases, we cling to beliefs that make us look good to the people we care about.”
+
+“The only way to develop true confidence is to earn it.
+
+- The confidence that you can bounce back from failure is earned by working through previous failures.
+- The confidence that you can deliver the speech is earned by the previous speeches you have given.
+- The confidence that you can perform on game day is earned by the previous performances in practice.
+
+In the beginning, you need enough courage to practice even though it may not go very well. And over time, as your skills improve, courage transforms into confidence. Courage first, confidence later.”
+
+[source](https://jamesclear.com/3-2-1/september-11-2025)
+
+---
+
+## 2025-09-18
+
+“Consistency enlarges ability.”
+
+“If you love them more than the fight, end the fight. An apology loses its warmth if it waits too long. Do it now, before the years turn cold.”
+
+“Before you discover what you love: fewer commitments, more experiments.
+
+After you discover what you love: fewer experiments, more commitments.”
+
+[source](https://jamesclear.com/3-2-1/september-18-2025)
+
+---
+
+## 2025-09-25
+
+“It’s hard to build momentum if you keep dividing your attention.”
+
+“When determining the size or complexity of a new habit ask yourself: What can I stick to — even on my worst day?
+
+Start there. Master the art of showing up. Then advance.”
+
+“A gift you can give yourself right now:
+
+Stop what you’re doing. Close your eyes.
+
+For the next 60 seconds, just breathe.”
+
+[source](https://jamesclear.com/3-2-1/september-25-2025)
+
+---
+
+## 2025-10-02
+
+“Good habits stockpile ease. Bad habits postpone pain.”
+
+“Distance and time are the two wedges that separate relationships.
+
+When it really matters, get in the car (or on the plane) and meet them face-to-face.
+
+When you want it to last, don’t wait to talk about it. Solve it now before the gap becomes too wide.”
+
+Something I heard recently about being open-minded:
+
+“The only bad view is the one you’re stuck in.”
+
+[source](https://jamesclear.com/3-2-1/october-2-2025)
+
+---
+
+## 2025-10-09
+
+“Lessons are unlikely to stick unless they are repeated.
+
+Behaviors are unlikely to stick unless they are repeated.
+
+Love is unlikely to stick unless it is repeated.
+
+The practice solidifies.”
+
+“Many of the moments when you think, ‘I wish I had handled that better,’ or ‘I should have seen that more clearly,’ aren’t really about poor judgment. Often, the root cause is either rushing through the task or skipping basic self-care.
+
+Get an extra hour of sleep. Stop trying to do so many things at once. Go for a walk or get a little exercise. Take a breath and actually think for a minute.
+
+You can do a few things well. You can’t do everything well. If you keep scattering your attention across seven different priorities, you’ll keep making mistakes that your rested and thoughtful mind would never make.”
+
+A simple equation Brandon Webb shared with me this week:
+
+“Failure + reflection + another rep = competence.”
+
+[source](https://jamesclear.com/3-2-1/october-9-2025)
+
+---
+
+## 2025-10-16
+
+“Intelligence isn’t just about what you know. It is also the ability to avoid being your own bottleneck.
+
+- If you lack the skills, be willing to look foolish while you learn them.
+- If you lack the connections, be courageous enough to reach out and build them.
+- If you feel uncertain, be bold enough to figure it out along the way.
+
+Many people have the ability, but they talk themselves out of trying.”
+
+“Your thoughts and actions belong to you just like your possessions. Every so often, it helps to declutter—donate old clothes or clear out a crowded shelf. Maybe it’s time to let go of some unhelpful thoughts or outdated actions too?”
+
+Pause and try this simple practice from Thich Nhat Hanh:
+
+“Breathe in, and close your eyes.
+
+Breathe out, and smile.”
+
+[source](https://jamesclear.com/3-2-1/october-16-2025)
+
+---
+
+## 2025-10-23
+
+“Each day, spend some time on two things:
+
+- working toward something that will pay off years from now
+- appreciating something that is happening right now”
+
+“Do not fear what you can address. What should worry you is not the problem, but if you are resisting addressing it.”
+
+“Many of the best things in life are endless.
+
+Being in a great relationship. Staying fit and healthy. Doing work that fulfills you. Being a good parent, coach, or teacher.
+
+Stop worrying about accomplishing these things and instead focus on building a life where you continually practice them.
+
+The important stuff has no finish line.”
+
+[source](https://jamesclear.com/3-2-1/october-23-2025)
+
+---
+
+## 2025-10-30
+
+“What looks like a talent gap is often a focus gap. The “all-star” is often an average to above-average performer who spends more time working on what is important and less time on distractions. The talent is staying focused.”
+
+“Something I try to remind myself:
+
+- The strong mind finds a way to stay steady … even when plans fall apart.
+- The strong body finds a way to train … even when the day doesn’t go your way.
+- The strong relationship finds a way to reconnect … even when things get rough.
+
+In a sense, what matters most is how you respond on the bad days, not the good ones.
+
+- Anyone can smile when life goes smoothly.
+- Anyone can train when they feel great.
+- Anyone can be kind when the relationship is easy.
+
+It’s how you act when the situation isn’t optimal that makes the difference.”
+
+“Brainstorm some answers to these questions:
+
+- Which activity makes you the most money per minute?
+- Which activity delivers the most excitement per minute?
+- Which activity creates the most connection per minute?
+- Which activity provides you the most laughter per minute?
+
+And which activity is the best blend?”
+
+[source](https://jamesclear.com/3-2-1/october-30-2025)
+
+---
+
+## 2025-11-06
+
+“Results tend to accumulate to the person who enjoys the lifestyle that precedes the result.”
+
+“Earning more money increases freedom.
+
+Spending less than you earn reduces stress.”
+
+“Motivation often increases after you begin. The lesson is not to wish you had more motivation, but to make starting as easy as possible.”
+
+[source](https://jamesclear.com/3-2-1/november-6-2025)
+
+---
+
+## 2025-11-13
+
+“One way to instantly gain a competitive edge is to work on things that genuinely interest you. The person who is having fun has a better chance of winning because they are more likely to stick with it when things get challenging.
+
+If it felt like a hassle from the start, you’re likely to quit as soon as things get tough. But if you’ve been having fun the whole time, you’re better positioned to work through the hard parts.”
+
+“Stop waiting. Stop talking yourself out of it. Stop researching.
+
+Go do it.”
+
+“You have to run your own race. Problems begin the moment you start comparing your results to someone who is playing under different conditions.
+
+- The 40-year-old entrepreneur with three kids has different constraints than the single 27-year-old.
+- A painter with 20 years of practice shouldn’t be the benchmark for someone in year two.
+- Someone caring for aging parents is not in the same position as someone with no obligations outside work.
+
+Play your own game. Emphasize gradual progress and keep the comparison internal. Are you getting a little better today?”
+
+[source](https://jamesclear.com/3-2-1/november-13-2025)
+
+---
+
+## 2025-11-20
+
+“The best type of risks to take are ones where (1) the worst outcome is manageable and (2) the best outcome is life-changing.
+
+Think: Asking someone on a date. Or, investing an amount of money you can afford to lose into a business with high upside.
+
+Look for opportunities where it won’t kill you if it goes poorly, but you’d be blown away if it goes well.”
+
+“Three keys to improvement:
+
+- Do you start quickly?
+- Do you learn from your mistakes quickly?
+- Do you stay in the game and keep trying?”
+
+“If your past achievements didn’t make you meaningfully happier, don’t expect your future achievements to make you happier.
+
+Remember that thing you so badly wanted? If getting it didn’t meaningfully change your long-term happiness, then you shouldn’t expect the thing you want right now to change your long-term happiness either.
+
+You are roughly as happy as you decide to be today. And some day, years from now, after you accomplish the thing you’ve been striving for, you’ll have to decide to be happy on that day too.”
+
+[source](https://jamesclear.com/3-2-1/november-20-2025)
+
+---
+
+## 2025-11-27
+
+“One easy way to show you care about others is to ask them questions about their life.
+
+- What are they excited about?
+- What are they working on?
+- What are they hoping for?
+
+Simply asking the question and listening thoughtfully is an act of generosity. You’re giving them the gift of attention.”
+
+“Whatever you’re doing, do it well. If you’re writing a thank you note, take an extra minute to mention something beyond the typical thank you. If you’re exercising, do each set as well as you can. If you’re in conversation, really listen and don’t just wait for your turn to talk.
+
+Having high standards adds up. You can nearly always find an extra minute to do it better. And most important, you prove to yourself that you’re the type of person who does things well.”
+
+“In the long-run (and often in the short-run), your willpower will never beat your environment. The more disciplined your environment is, the less disciplined you need to be. Don’t swim upstream.”
+
+[source](https://jamesclear.com/3-2-1/november-27-2025)
+
+---
+
+## 2025-12-04
+
+“Greatness takes guts. And often, it’s the courage to eliminate the things you can do fairly well so you have the capacity to do one thing exceptionally well. Have the courage to take more off your plate.”
+
+“Many situations in life are similar to going on a hike: the view changes once you start walking.
+
+You don’t need all the answers right now. New paths will reveal themselves if you have the courage to get started.”
+
+“The grass is only greener if you’re obsessed.
+
+It’s easy to talk yourself into a new opportunity because everyone else is excited about it or the upside seems high, but the energy that comes from hype is different than the energy you need to make something part of your daily lifestyle.
+
+It might be a good opportunity on paper, but if it isn’t the type of thing you want to spend all day working on, then you probably won’t stick with it. And if you won’t stick with it, then it’s not a good opportunity for you.”
+
+[source](https://jamesclear.com/3-2-1/december-4-2025)
+
+---
+
+## 2025-12-11
+
+“When things don’t go well it’s easy to wonder, “Why me?” It’s easy to point fingers. It’s easy to wallow in frustration or defeat.
+
+But it is also easy to ask, “What is this teaching me?”
+
+You can’t remove the frustrations from life, but you can always try to come out a little wiser on the other side.”
+
+“My favorite type of mental toughness is not forcing one path, but being open to many paths: Whatever comes my way, I can handle it. Whatever resources I have, I can make it work. Whatever the day brings, I can thrive.”
+
+“Earlier this week I read a line that stood out to me, “Your goal in life should be to reduce the amount of time it takes you to get out of a bad state.”
+
+The ability to bounce back quickly is a key skill in life.
+
+My wife once told me, “When you’re five, you can be mad for a day. When you’re ten, you can be mad for an hour. By the time you’re thirty, you get ten minutes—and then you have to move on.”
+
+Life is full of moments of frustration and disappointment. Growth and maturity is learning to pull yourself out of a bad state faster.”
+
+[source](https://jamesclear.com/3-2-1/december-11-2025)
+
+---
+
+## 2025-12-18
+
+“Optimize for your desired lifestyle, not your desired title.”
+
+“Reflection requires stillness.
+
+One cost of rushing from thing to thing is that you lose the space to think. Hard work matters, but nonstop motion often hides a quiet truth: you could have used your time better.
+
+If you never pause, you confuse activity with effectiveness. Make time to think. Walk outside. Sit quietly. Create space. Then move again, but this time on purpose.”
+
+“Here’s a rule I find useful:
+
+You should attempt things that are difficult enough to guarantee some early embarrassment, but important enough that long-term regret is unlikely.
+
+Trying something difficult will usually make you look foolish or inexperienced. That’s fine. That’s the cost of learning.
+
+But if it’s important to you, then you’ll work through the early failures and — even if things ultimately change shape or don’t work out — you’ll never regret going for it.”
+
+[source](https://jamesclear.com/3-2-1/december-18-2025)
+
+---
+
+## 2025-12-25
+
+“To learn, wander. To achieve, focus.”
+
+“The amateur does not know what to do.
+
+The master knows what not to do.”
+
+“It is nearly impossible to have your best idea the first time you think about something.
+
+The most likely way to uncover important insights is to frequently revisit a problem. The longer you’re in the game, the more ideas bubble up to the surface.
+
+Time unlocks insights.”
+
+[source](https://jamesclear.com/3-2-1/december-25-2025)
+
+---
+
+## 2026-01-01
+
+*Let’s start with three little reminders from Atomic Habits…*
+
+“New goals don’t deliver new results. New lifestyles do. And a lifestyle is a process, not an outcome. For this reason, all of your energy should go into building better habits, not chasing better results.”
+
+“Improvements are only temporary until they become part of who you are.
+
+- The goal is not to read a book, the goal is to become a reader.
+- The goal is not to run a marathon, the goal is to become a runner.
+- The goal is not to learn an instrument, the goal is to become a musician.
+
+Every action you take is a vote for the type of person you wish to become. No single instance will transform your beliefs, but as the votes build up, so does the evidence of your new identity.
+
+This year, focus on the identity you want to build.”
+
+“Decide the type of person you want to be.
+
+Prove it to yourself with small wins.”
+
+[source](https://jamesclear.com/3-2-1/january-1-2026)
+
+---
+
+## 2026-01-08
+
+“You can’t make time go faster or success come sooner. The only thing you can control is the next action.”
+
+“There are two ways to grow: by adding or by shedding.
+
+Do you need to add something or do you need to shed something?”
+
+“When you drink water from a cup, it becomes part of you. When water falls on you like rain, it evaporates a few minutes later. 
+
+Similarly, thoughts can be consumed or dismissed. Is this thought nourishing? Is this feeling something you should drink? Or is it more like getting caught in the rain? 
+
+You’ll always feel the rain, but you don’t have to drink the rain. You can let the thought pass and in a few moments the sun will return. You don’t have to claim everything you feel.”
+
+[source](https://jamesclear.com/3-2-1/january-8-2026)
+
+---
+
+## 2026-01-15
+
+“Your first task is to find what feels effortless to you.
+
+Your second task is to put maximum effort into it.”
+
+“Somewhere, at this very moment, someone appears to be doing better than you. Their progress is faster. Perhaps their business grows more quickly or their career is advancing rapidly. Maybe dating is easy for them or their progress in the gym seems to come effortlessly. In any domain, there is always another life that shimmers more than your own.
+
+But comparison is a poor use of energy. You were not meant to inhabit someone else’s story. You have your own work to do. The goal is not to beat their life, the goal is to live your life. Keep your eyes on your own paper. Stay on the path and continue forward, even when progress feels slow.”
+
+“Don’t ruminate, activate.
+
+I find it is difficult to think my way into a better mood. When I sit and stew, the problem usually grows larger in my mind.
+
+But if I activate — even if it’s unrelated to the problem at hand — my mood tends to improve. Action breaks the spell. Move your body, go outside, play an instrument, work in a different room, do something.
+
+Movement changes your state. And when your state changes, your perspective changes. New solutions appear. You notice options that were invisible when your mind was stuck running the same loop.”
+
+[source](https://jamesclear.com/3-2-1/january-15-2026)
+
+---
+
+## 2026-01-22
+
+“Compete externally and you compare.
+
+Compete internally and you improve.”
+
+“The ultimate form of preparation is not planning for a specific scenario, but a mindset that can handle uncertainty.”
+
+“The more you create, the more powerful you become.
+
+The more you consume, the more powerful others become.”
+
+[source](https://jamesclear.com/3-2-1/january-22-2026)
+
+---
+
+## 2026-01-29
+
+“To simplify before you understand the details is ignorance.
+
+To simplify after you understand the details is genius.”
+
+“Success is often found by practicing the fundamentals everyone knows they should be doing, but find too boring or basic to practice routinely.”
+
+“Work is endless. Exercise is endless. Parenting is endless. Same with marriage, writing, investing, creating, and more. You get to choose the parts of your life, but many of the important things in life cannot be “finished.”
+
+Do not approach an endless game with a finite mindset. The objective is not to be done, but to settle into a daily lifestyle you can sustain and that allows you to make daily progress on the areas that matter.
+
+Embrace the fact that life is continual and look for ways to enjoy the daily practice.”
+
+[source](https://jamesclear.com/3-2-1/january-29-2026)
+
+---
+
+## 2026-02-05
+
+“Don’t ignore the problem, but keep it light. Take action with a smile. Adding tension won’t solve your troubles faster.
+
+Even when the problem is hard, it doesn’t need to harden you. Unknot yourself. Body loose, head clear, and then take the first step.
+
+Be happy in the doing.”
+
+“Use the moments of high motivation to make it easier when you have low motivation.
+
+- When you feel like you should exercise, set out your gym clothes and water bottle so it’s easier to do the next workout.
+- When you feel grateful, buy some Thank You cards so it’s easier to write the next Thank You note.
+- When you feel the urge to eat healthy, pick a recipe now so you don’t have to decide what to make for the next meal.
+
+Use the occasional burst of motivation to make the next habit easier.”
+
+“The world seems to be accustomed to delaying gratification less and less, which means the rewards of delaying gratification grow more and more.”
+
+[source](https://jamesclear.com/3-2-1/february-5-2026)
+
+---
+
+## 2026-02-12
+
+“The loser has more in common with the winner than with the person sitting on the sidelines.
+
+The winner and the loser each had the courage to try. Both risked embarrassment. Both were willing to face uncertainty. Both were stubborn enough to continue.
+
+Success is endurance in disguise. It belongs to the person who can absorb the losses without absorbing the identity of “loser.” It’s the courage to start — and to stick with it — that is the real separator. Results tend to find the person who stays in the game.
+
+The sidelines are safe, but sterile. Nothing grows there.”
+
+“In the modern world, it is easy to feel like a passenger: reacting to notifications, responding to demands, consuming whatever you happen to drive past on your screen.
+
+But joy is found in being the driver. It’s the act of looking at the raw material of your circumstances — your time, your energy, your relationships, your skills — and seeing what you can make from it.
+
+It is the act of creating the life you want (in big and small ways) that makes you feel alive and imbues life with extra meaning. The fact that you can hold a vision in your mind and then, however imperfectly, bend reality a few degrees in that direction.”
+
+“You can be authentic and hardworking and still struggle to find your footing if you’re in the wrong environment.
+
+- A fun person trapped in the wrong city.
+- A loving partner in a relationship that won’t reciprocate.
+- A great entrepreneur stuck in the wrong business.
+
+Think about your placement as much as your performance. Plant yourself where you can thrive.”
+
+[source](https://jamesclear.com/3-2-1/february-12-2026)
+
+---
+
+## 2026-02-19
+
+“Trust follows consistency.
+
+The business that delivers a quality product every time earns the customer’s trust.
+
+The person in the relationship who shows up reliably — who keeps promises, who responds with steadiness — earns the trust of the other.
+
+The pattern is the proof.”
+
+“Environment can multiply (or divide) your effort.
+
+Before you plant the garden, study the soil. After you plant the garden, tend the weeds.
+
+First, selection. Think carefully about the right person to marry or business to pursue or city to live in.
+
+Then, cultivation. Once you choose, care for it lovingly and nurture it into the best it can be.”
+
+“Speed creates opportunity. Patience compounds it.
+
+Moving fast will generate more chances. But if you quickly jump from thing to thing, growth will stall.
+
+Get moving and find what works, then do it for decades.”
+
+[source](https://jamesclear.com/3-2-1/february-19-2026)
+
+---
+
+## 2026-02-26
+
+“Learning more will increase knowledge, but only attempting more will reduce fear. The more you try it, the less you will fear it.”
+
+“If the path is crowded, differentiate.
+
+If the path is empty, validate.”
+
+“One of the best positions to be in: young, talented, and the underdog.
+
+That’s like a cocktail for making something great. You’re hungry to prove yourself. You’re young enough to not care about how it’s previously been done. And, usually, you have fewer responsibilities to pull you away from the work.”
+
+[source](https://jamesclear.com/3-2-1/february-26-2026)
+
+---
+
+## 2026-03-05
+
+“When you need clarity, subtract.”
+
+“Trust in yourself is not only built through successful repetitions, but also through failed ones.
+
+When you have worked through failures in the past, you fear them less in the future. You know you can bounce back.
+
+Successful repetitions build competence. Failed repetitions build resilience.”
+
+“The negative examples always spread farther and faster than the positive examples. In a world this big, you’ll find at least one negative example every day.
+
+Don’t let the existence of a bad example ruin your faith in the world. Good news is always quieter than bad news. Good behavior rarely stirs the pot or ignites emotion.
+
+But no matter. We need role models all the same. Continue living the best way you know how.”
+
+[source](https://jamesclear.com/3-2-1/march-5-2026)
+
+---
+
+## 2026-03-12
+
+“You are not your grand plans. You are your daily patterns.”
+
+“Questions are answered as you move, not before you move. Moving forward with an answer that is partially correct will usually fill in the gaps faster than waiting until you come up with a plan that is perfectly correct.”
+
+“The modern world is optimized for convenience, not improvement.
+
+The default path is usually the more convenient path. And I get it. Who wants their days to be a pain in the neck? I like sitting in air conditioned rooms and watching my favorite shows too.
+
+But the body and mind only grow when placed under a stimulus. If you want improvement, you have to choose something different than convenience.
+
+It can be lovely to have a day where you do not push yourself, but it rarely works out well if you have a life where you do not push yourself.”
+
+[source](https://jamesclear.com/3-2-1/march-12-2026)
+
+---
+
+## 2026-03-19
+
+“The mindset:
+
+Confident enough to start. Humble enough to keep learning.
+
+The trap:
+
+Too humble to start. Or too confident to keep learning.”
+
+“Unexpected forms of generosity:
+
+- Being early can be a form of generosity. You wait, so they don’t have to.
+- Leaving something unsaid can be a form of generosity. You don’t always need the last word.
+- Delivering your work on time can be a form of generosity. You make life easier for everyone downstream.
+- Not taking things personally can be a form of generosity. You give people the space to say things imperfectly.”
+
+“It’s rare to find your purpose for life, so instead look for your purpose for this season.
+
+What lights you up right now? What’s a good thing to dedicate this season of your life to? Perhaps more importantly, what purpose served you well in your previous season, but you have outgrown?
+
+Life is always changing. It’s okay to pick a new North Star.”
+
+[source](https://jamesclear.com/3-2-1/march-19-2026)
+
+---
+
+## 2026-03-26
+
+“Your habits will hold you back more than your enemies ever will.
+
+Which is good news because you can change your habits. You can’t change your enemies. Stay focused on what you can control.”
+
+“Trades are always happening whether you see them or not.
+
+- Yes to the early meeting = no to the quiet morning
+- Yes to the extra project = no to the free weekend
+- Yes to something that drains you = no to time that fulfills you
+
+Saying yes to one thing is always saying no to something else. The cost of a bad yes isn’t just the time it takes. It’s whatever could have grown in that space instead.
+
+The point isn’t to say no to everything, but simply to recognize the difference between a good yes and a bad yes. Then, try to improve the ratio in your life.”
+
+“Perfection is expensive. The last 5 percent of quality almost always costs a disproportionate amount of time and money.
+
+My favorite type of purchase is where you spend 80 percent of the cost, but get 95 percent of the value. The best combination of cost and quality is often one step down from perfect.”
+
+[source](https://jamesclear.com/3-2-1/march-26-2026)
+
+---
+
+## 2026-04-02
+
+“Comparison is useful as a point and destructive as a loop.
+
+When you compare for a point in time, you can identify a gap in your approach and then shift your attention back to what you can control.
+
+When you compare on a repeated loop, you can get locked into a cycle of envy and disappointment.”
+
+“A good life is one in which things do not go perfectly, but you find a way to have a good day regardless.”
+
+“One of my hopes is to age into a better mindset.
+
+The general trend seems to become less open minded, less resilient, less capable of handling change with ease and flexibility as the years roll by.
+
+I hope to grow in the opposite direction. How can my mindset be better today than it was yesterday?”
+
+[source](https://jamesclear.com/3-2-1/april-2-2026)
+
+---
+
+## 2026-04-09
+
+“Challenge yourself when life is easy, so you’ll be ready when life is hard.”
+
+An interesting phrase I overheard recently:
+
+“I work harder, but you’re busier.”
+
+“Observation is a skill, and like any skill, it can be trained and honed.
+
+Even if you’re not a negative person, you may be skilled at noticing negative things. Sometimes people are good at noticing the reason things won’t work out or have a tendency to fixate on the latest distressing story.
+
+But you can train your eye toward the opportunities each day quietly presents. You can become competent at noticing your good luck: the little moments of joy, the stranger who helped, the small things that went right, the opportunity in front of you right now.
+
+What are you competent in observing? And which types of observations seem to serve your life best?”
+
+[source](https://jamesclear.com/3-2-1/april-9-2026)
+
+---
+
+## 2026-04-16
+
+“Big outcome: Do the right thing well.
+
+Big lesson: Do the right thing poorly.
+
+Big risk: Do the wrong thing well.”
+
+“So much of what we believe is the residue of someone else’s thinking.
+
+Pause and question things for a moment. Is this really how it has to be? Is this really what you want?”
+
+“It’s not a race.
+
+You are not ahead. You are not behind. You are here.
+
+Enjoy it and make the most of it.”
+
+[source](https://jamesclear.com/3-2-1/april-16-2026)
+
+---
+
+## 2026-04-23
+
+“Exceptional people are rare. When you find someone wonderful, invest in them.
+
+- When you find a great employee, pay them well.
+- When you find a great friend, prioritize the relationship.
+- When you find a great spouse, out-love them each day.
+
+Relationships are probably the most important part of life. Take care of the great ones.”
+
+“You must be willing to let go of the last action and pour yourself fully into the next action.”
+
+“The problem with keeping your options open is that every option requires energy to hold. And a shelf full of maybes is often heavier than a hand holding one yes. Put something down.”
+
+[source](https://jamesclear.com/3-2-1/april-23-2026)
+
+---
+
+## 2026-04-30
+
+“Improvement is being better than your past self.
+
+It doesn’t have to be more complicated than that. Do not compare against others, compare against your past self.
+
+Keep the focus internal.”
+
+“You can take things seriously without taking them personally.
+
+Our tendency is to turn any criticism or complaint into a personal attack. We reply to it, defend against it, build a counter-argument, lose sleep over it.
+
+You don’t have to eat everything that is served to you. You can respond to criticism without digesting criticism. Take what’s useful, do your best to improve, and leave the rest.”
+
+“With a bow and arrow, you aim before you shoot. But in most areas of life, aiming is something you can do throughout the process.
+
+You can always adjust: your career path, your business strategy, your relationships, your workout program, your plans for next Wednesday. It’s all adjustable along the way.
+
+So, pick a direction and get moving. Once you start, you learn along the way and there are plenty of opportunities to refine your plan.”
+
+[source](https://jamesclear.com/3-2-1/april-30-2026)
+
+---
+
+## 2026-05-07
+
+“The disciplined life looks impressive, but the well-designed life lasts longer. Before you try to find more willpower, design your environment and arrange your day so you’re more likely to follow through.”
+
+“The most expensive part of a bad habit is rarely the action itself, but rather the identity it quietly reinforces underneath. The issue isn’t skipping once. It’s that you practiced being someone who skips.
+
+Now, that doesn’t mean you need to be perfect. Everyone falls off from time to time. But it is good to have a plan for getting back on track quickly. And try to find a small way to practice being the type of person you want to be today.”
+
+“Three ways to think about relationships:
+
+- Deepening. You know each other better this year than last.
+- Holding. Steady state, but mostly comfortable, familiar, and unchanged.
+- Drifting. Contact is fading and the relationship is starting to slide.
+
+The point isn’t to judge where you’re at, but to notice what you need next. Which relationship is due for a deepening period? Which one are you okay letting drift for now?”
+
+[source](https://jamesclear.com/3-2-1/may-7-2026)
+
+---
+
+## 2026-05-14
+
+“The best view of the game is probably from the stands. But that’s not where the action is. And so you have to decide, do you want a nice view or do you want to be in the thick of it and playing the game?”
+
+“Luck flows through people and travels by conversation. The people you talk to determine the opportunities you find.
+
+Keep talking to the same people, keep finding the same opportunities. Start talking to new people, start finding new opportunities.
+
+If you want different luck, start walking into different rooms.”
+
+“You will rarely outperform your self-image.”
+
+[source](https://jamesclear.com/3-2-1/may-14-2026)
+
+---
+
+## 2026-05-21
+
+“When you lose a game, the score doesn’t transfer to the next contest but your habits certainly will.
+
+Circumstances are temporary. Sometimes you’re winning, sometimes you’re losing. Hot, cold. Lucky, unlucky. But your habits travel with you. This is why you want to execute the same way whether the score is 10-0 or 0-10. Not because the score doesn’t matter, but because the score isn’t what you’re actually building.
+
+It’s not about winning or losing any given round. It’s about doing things the right way. If you have a chance to practice your craft, you want to do it as well as you can (even if you end up losing that day). Your previous reps can save you or betray you. The habits always translate to the next round.”
+
+“When you are creating something, you will usually find that once things appear 90 percent done, you are actually about halfway there. But you have to create the first 90 percent in order to see the half that needs to be revised.”
+
+I recently found this note to myself:
+
+“No sense in thinking small. Don’t water down your vision. A remarkable amount can be accomplished if you are willing to think longer term than most and work hard each day.”
+
+[source](https://jamesclear.com/3-2-1/may-21-2026)
+
+---
+
+## 2026-05-28
+
+*This week, here are three principles I try to live by:*
+
+“I’m adaptable. I don’t need the day to go perfectly to make it a good one.”
+
+“It’s not my job to tell myself no. The world will offer plenty of obstacles. I don’t need to add to them. My mind is my friend. I am my own biggest believer.”
+
+“I try to live to a standard, not the circumstances of the day. Some days it is easy. Some days it is hard. But I do it either way because that’s who I want to be, not because it is always easy to do.”
+
+[source](https://jamesclear.com/3-2-1/may-28-2026)
+
+---
+
+## 2026-06-04
+
+“Your response to a challenge defines you more than the challenge itself.”
+
+“Compete against yourself.
+
+When you look outside — your rivals, your industry, your luck — there is always something to blame.
+
+When you look inside — your process, your effort, your rate of learning — there is always something to improve.
+
+Average looks out. Elite looks in.”
+
+“A lovely blend: Always reaching. Already enough.”
+
+[source](https://jamesclear.com/3-2-1/june-4-2026)
+
+---
+
+## 2026-06-11
+
+“You don’t need to solve every problem right now, only those that stand in your way.”
+
+“If you are bummed by the state of the world, go build something.”
+
+“Be forgiving with your past self. What’s done is done. No sense in beating yourself up about it.
+
+Be strict with your present self. Win the moment in front of you right now.
+
+Be flexible with your future self. There are many paths to success. You don’t need life to be a certain way to live well.”
+
+[source](https://jamesclear.com/3-2-1/june-11-2026)
+
+---
+
+## 2026-06-18
+
+“Darkness is preparation for light.
+
+Sadness is preparation for joy.
+
+Failure is preparation for success.
+
+But only if you keep going and remain open to what comes next.”
+
+“Getting what you want out of life largely boils down to (1) the story you tell yourself and (2) where you direct your attention.
+
+What story do you tell yourself about what has happened to you, what you’re capable of, and what you hope to achieve? Is the conversation in your head each day empowering and encouraging you, or holding you back?
+
+And are you taking control and directing your attention toward what matters or merely letting inertia pull you along? Most things don’t matter and most actions won’t deliver a result. Focus.
+
+Master your internal monologue and master your daily attention. Most tips, tricks, and tactics ultimately come back to these two things.”
+
+A phrase I overheard the other day:
+
+“If you choose not to find joy in the snow, you will have less joy in your life but still the same amount of snow.”
+
+[source](https://jamesclear.com/3-2-1/june-18-2026)
+
+---
+
+## 2026-06-25
+
+“Your first attempt might not be very good, but nobody’s early work is good. There will always be a gap between where you are and where you want to be. And the bridge between that gap is courage. The courage to look foolish in the beginning. The courage to show up again when your early work is criticized. The courage to look yourself in the mirror and say, “I realize I’m not good enough yet, but the only way to get better is to keep working on it.”
+
+“One of the more effective ways to force yourself to have better ideas is to create an artificial constraint.
+
+For many years, I wrote two articles per week and it would often take me over 20 hours to complete each article. Then I said, “If I only had 2 to 4 hours per week to write my newsletter, what would I do?”
+
+That artificial constraint led to the creation of the 3-2-1 newsletter, which has become an incredibly popular format. Sometimes you can improve by cutting your options off.”
+
+“You should always be rooting for the people you know. Not only because you may need their support tomorrow, but also because it feels good to celebrate something.
+
+Celebration can rescue your day—even if it is someone else’s victory. Envy will ruin your day—even if you’re actually winning.”
+
+[source](https://jamesclear.com/3-2-1/june-25-2026)
+
+---
+
+## 2026-07-02
+
+“Talent is a gift. Reliability is a choice.
+
+But every family, team, and organization needs reliability just as much as they need talent.”
+
+“What we call luck is often not purely random, but rather the delayed byproduct of consistently putting yourself in good positions.”
+
+“Why is improvement hard?
+
+Part of the issue is everyone wants to improve, but nobody wants to destroy. Change often requires destruction. Or, at least, unlearning.
+
+Let’s call it gentle elimination. You may have to leave little habits, update current beliefs, eliminate comfortable patterns. When you want better outcomes, your daily norms may need to change. The process of improvement is not just about adding things you like.
+
+Sometimes habits and patterns belong to who you were, not who you are trying to be. If you’d like something better, then a routine you are comfortable with may have to die.”
+
+[source](https://jamesclear.com/3-2-1/july-2-2026)
+
+---
+
+## 2026-07-09
+
+“Chase your dreams. It’s unlikely they will play out exactly as you expect, but they know the way. No vision is perfect, but it points in the right direction. Let the energy of your soul lead you.”
+
+“Everyone wants better results.
+
+Skill precedes results.
+
+Practice precedes skill.
+
+Attitude precedes practice.
+
+It’s the willingness to try (and keep trying) that leads to ability.”
+
+“Learn to love the interruptions. Find the fun in the delay, the humor in the challenge, the pleasure in the daily commute.
+
+A great deal of life is spent dealing with interruptions and waiting for the conditions to turn. We think, “If I can just get past this, then things will open up.” But the interruption is not standing between you and your life. It is your life.
+
+Yes, I prefer hassle-free days too. But you’ll rarely find a situation that is all bad. There are little pockets of joy folded inside the annoyances we face. There is always fun to be had, if you go looking for it.
+
+This is one of the arts of living. It’s the art of enjoying the imperfect days. It’s the art of making all the moments count.”
+
+[source](https://jamesclear.com/3-2-1/july-9-2026)
+
+---
+
+## 2026-07-16
+
+“The recipe for frustration is taking something on that requires a whole person, but only giving it half your time.
+
+Look at what you’re trying to do. What is required? Some things can only be done well when they are pursued with full effort.”
+
+“It’s hard to learn when you feel defensive.
+
+Relax. You are capable and you can recover from whatever you face.
+
+You can accept feedback without taking it personally. What is this moment teaching you?”
+
+“When you ignore a problem that is small enough to handle, it often grows into a problem too big to manage.”
+
+[source](https://jamesclear.com/3-2-1/july-16-2026)
+
+---
+
+## 2026-07-23
+
+“Achievements are great. It is satisfying to accomplish something. It feels good to win. And many achievements make the world a better place, too.
+
+But also remember to ask, “What am I really trying to accomplish here?” You may realize the goal is not to write a best-selling book or earn that promotion or get into medical school, but rather to build a life you enjoy. And there are many versions of a life you enjoy.
+
+It is often the case that if you can release the narrative of “I have to do this” to be happy, then a different (but equally lovely) life is waiting for you.”
+
+“Plenty of growth can be found in removing your vices, but the real leaps are unlocked when you stop clinging to your comforts.”
+
+“Whether you have ten years left or a hundred years left, your life is an incredibly brief moment. We know for sure you won’t be here in a century.
+
+But today? Today you are in the Great Game. And this moment you have right now might as well be the most important moment in the universe. Your time is thin. Go out and live fully now.”
+
+[source](https://jamesclear.com/3-2-1/july-23-2026)
+
+---
+
+## 2026-07-30
+
+“If you always want more, then you’ll find the most you can have will always be too little.”
+
+“Large, sweeping changes often sound good in theory, but the faster you try to change your life, the more likely you are to backslide. Real change is inch by inch. Go out and win the next five minutes.”
+
+“Whatever can be measured grabs our attention. How much money we make. How much weight we can lift. How many bedrooms are in the house.
+
+And once we notice a number, it is natural to want to improve it. We find ourselves wondering how to make more money, lift more weight, add another bedroom. What is measurable becomes what is important. Not because it matters more, but because it is easier to see.
+
+Sometimes a new perspective is helpful. Rather than asking, “How can I get more?” Try asking, “What is an inspiring way to live?”
+
+[source](https://jamesclear.com/3-2-1/july-30-2026)
+
+---
+
+## 2026-08-06
+
+“Clarity isn’t about knowing what you want to do with your life, it’s about knowing what you want to do this week. You don’t need to have it all figured out. You just need to know your next step.”
+
+“When you’re on a good path: It’s only a failure if you stop. It’s a lesson if you keep going.
+
+When you’re on a bad path: It’s only a failure if you keep going. It’s a lesson if you stop.”
+
+“You can’t get lucky if you don’t take action. The best opportunity in the world is just a missed opportunity if you don’t grab it.”
+
+[source](https://jamesclear.com/3-2-1/august-6-2026)
+
+---
+
+## 2026-08-13
+
+“Being curious and excited can take you far, especially over the long arc of a life. The person who is a voracious lifelong learner will figure it out eventually. A strong reader with a healthy dose of curiosity and a willingness to try things is hard to stop.”
+
+“Delaying a conversation doesn’t make it easier.”
+
+“Who is initiating the items on your to-do list?
+
+When I’m most productive, I decide what I want to create and work on the task that will help build my vision.
+
+When I am less productive, I spend my day responding to what someone else sends to me — emails, texts, etc. — and often that means I end up building someone else’s vision.”
+
+[source](https://jamesclear.com/3-2-1/august-13-2026)
+
+---
+
+## 2026-08-20
+
+“The measure of a life is not what you consume, but what you contribute.
+
+Spend less time owning, consuming, taking. Spend more time giving, creating, making.”
+
+“Everyone wants to be happy now, but it might be better to optimize for being satisfied later.
+
+Perhaps the key to happiness is to not worry about being happy today, but rather to make choices that will leave your future self feeling satisfied with how you chose to live. Do you feel a sense of satisfaction with the choices you made? With the way you lived today? With the things you chose to focus on over the last year? Are you “happy” with the impact you are making?
+
+Momentary happiness is hard to predict, but deep satisfaction is easier to control. It is on the other side of good choices, good habits, and meaningful impact.”
+
+“Your life is simply your days, accumulated. Did today’s habits contribute to the life you want to build?”
+
+[source](https://jamesclear.com/3-2-1/august-20-2026)
+
+---
+
+## 2026-08-27
+
+“Long-term thinking changes short-term actions. Spend a little time today doing things that will benefit you in ten years.”
+
+“One sign of mental toughness is being larger than the situation.
+
+Do the circumstances dictate your mood and emotions? Or do you choose your mood and emotions, and the situation is simply something you respond to?
+
+The less your mood depends on your circumstances, the more mentally tough you are.”
+
+“There is no path to greatness without hard work. And the only person who feels like working hard for years is someone who is excited about the task.
+
+You only get one life and you’re going to burn the days either way, so the real question is: What excites you and interests you? What makes you feel curious and alive, perhaps even joyful? What is so “worth it” that you’re not worried about the tradeoffs, the hard work, the hassle?
+
+Follow your enthusiasm.”
+
+[source](https://jamesclear.com/3-2-1/august-27-2026)
+
+---
+
+## 2026-09-03
+
+“Opportunities shrink or expand in proportion to your enthusiasm.”
+
+“You can’t start last week, but you can start now. Stop dwelling on what you should have done or ruminating on the mistakes you made. Channel that energy into the next good choice. You have today and you can try again.”
+
+“Modern life is largely spent in three positions: sitting, standing, and lying down.
+
+Try to break the mold. Spend more time this week doing something besides sitting, standing, or lying down. Go for a walk, stretch in the grass, swim in the pool, kneel in the garden, climb a hill. Or you can sit or stand, but add something to it. Paint while you stand. Bike while you sit.
+
+Our physical abilities rarely vanish overnight. They usually fade away from disuse. The body trains for tomorrow based on what it is asked to do today.”
+
+[source](https://jamesclear.com/3-2-1/september-3-2026)
+
+---
+
+## 2026-09-10
+
+“We are all connected. The way you choose to live ripples into the future. Your decisions today can be a blessing or a curse for your descendants. Strive to live in such a way that the world will gain from your time here.”
+
+“Winning isn’t what makes you feel good. Growth makes you feel good.
+
+Sometimes they are the same thing. When you achieve something for the first time, it’s growth. You’ve reached a new level. The win feels satisfying. But when you do it for the tenth time (or the hundredth time), it can feel stale. You’re still winning, but you’re not necessarily growing.
+
+The secret is not to worry about winning, but rather to focus on growing. And the most straightforward way to grow is to learn something. If you’re ever feeling stuck, go learn something new. Read, write, think, learn, repeat.
+
+When you’re learning, you’re growing.”
+
+“The person who complains loudest will get attention, but at the expense of their reputation.
+
+And yet, following up is an important life skill. If you want something done and you’d like it done soon, then you need to follow up.
+
+The balance is in the delivery. Be pleasant and persistent when things matter to you. Always kind, but don’t let it rest until it’s done and done well.”
+
+[source](https://jamesclear.com/3-2-1/september-10-2026)
+
+---
+
+## 2026-09-17
+
+“When choosing a new habit many people seem to ask themselves, “What can I do on my best days?”
+
+The trick is to ask, “What can I stick to even on my worst days?”
+
+Start small. Master the art of showing up. Scale up when you have the time, energy, and interest.”
+
+“Concentration produces wealth.
+
+Diversification protects wealth.”
+
+“Life rarely changes in a positive way without an increase in responsibility.
+
+This is true in many areas: taking ownership of your health, committing to a relationship, starting a business, etc.
+
+Whatever it is, if you want the trajectory to change, the amount of responsibility usually has to change.”
+
+[source](https://jamesclear.com/3-2-1/september-17-2026)
+
+---
+
+## 2026-09-24
+
+“Mental toughness immediately increases when you find the right subject. You’re more likely to stick with things when you’re genuinely interested.”
+
+“How to see opportunities others miss:
+
+1) Study a totally different field, then return to the original problem. Apply insights from other domains.
+
+2) Invert the problem. Try to achieve the opposite.
+
+3) Find ways to engage with hyper-creative people. Their thinking will rub off.”
+
+“The person who gets 1 shot needs everything to go right.
+
+The person who gets 1000 shots is going to score at some point.
+
+Find a way to play the game that ensures you get a lot of shots.”
+
+[source](https://jamesclear.com/3-2-1/september-24-2026)
+
+---
+
+## 2026-10-01
+
+“If you spend too much time thinking about the past, you miss out on what you have right now.
+
+Reflecting, learning, and moving on is a fruitful cycle. But replaying old mistakes and revisiting past injustices is a fast way to lose the opportunity of today.
+
+Don’t let one bad event beat you twice.”
+
+“In the long run, the opportunities that are right for you have a way of finding you. Sometimes you wish so dearly that a new relationship or a big chance will go your way. It can feel like heartbreak when it falls through. But you have to dust yourself off and keep reaching and keep working. Water always finds its level. Stay in the game, keep your energy high, and do your best each day. You’ll find the moments that are meant for you.”
+
+“Collect ideas on all the best practices in your industry and use that list as your starting point. Then, combine, iterate, and distill the list into what works best for your situation and plays to your strengths. Let the best material be your starting material. Then, make it your own.”
+
+[source](https://jamesclear.com/3-2-1/october-1-2026)
+
+---
+
