@@ -144,7 +144,7 @@ def main():
             "intro": intro,
             "ideas": ideas,
         })
-    results.sort(key=lambda r: r["date"])
+    results.sort(key=lambda r: r["date"], reverse=True)
 
     with open(os.path.join(HERE, "ideas.json"), "w") as f:
         json.dump(results, f, indent=2, ensure_ascii=False)
