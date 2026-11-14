@@ -56,7 +56,7 @@ parser.**
 
 ### 3. `build_ui.py` — the reader
 
-Inlines `ideas.json` into a single self-contained `index.html` (~381 KB). No
+Inlines `ideas.json` into a single self-contained `index.html` (~386 KB). No
 server, no CDN, no network calls. It works from `file://`, survives being
 emailed, and will still open in ten years.
 
@@ -76,7 +76,7 @@ emailed, and will still open in ten years.
 
 ## The reader
 
-Press <kbd>/</kbd> to search — with 1,122 items, search *is* the interface.
+Press <kbd>/</kbd> to search — with 1,140 items, search *is* the interface.
 
 | Key | Action |
 |---|---|
@@ -154,6 +154,36 @@ Additional checks that were run when this pipeline was built:
 > invariant above is currently the regression check. If you add real tests, the
 > highest-value ones are: assert 1140 ideas, assert every issue has exactly 3,
 > and assert no issue text contains `ctt.ac` or `Share this on Twitter`.
+
+---
+
+## Automation
+
+The repo is also refreshed and deployed by GitHub Actions. The workflow lives in
+`.github/workflows/pages.yml` and runs on:
+
+- **Schedule:** every Saturday at 06:00 AEDT (Friday 19:00 UTC — GitHub Actions
+  cron is UTC).
+- **Manual:** `workflow_dispatch` from the Actions tab, or
+  `gh workflow run pages.yml`.
+
+Each run does the full pipeline — `fetch.sh`, `extract.py`, `build_ui.py` — then:
+
+1. Commits the refreshed `raw/`, `ideas.{json,md,csv}`, and `index.html` as
+   `github-actions[bot]`, skipping the commit if nothing changed.
+2. Copies `index.html` + `.nojekyll` into `_site/` and uploads it as the Pages
+   artifact.
+3. Deploys that artifact via `actions/deploy-pages`.
+
+The run **fails** if `extract.py` reports `not exactly 3` other than `0`, so a
+parser regression cannot publish silently.
+
+**Pages source must be "GitHub Actions"** (Settings → Pages → Source). This is
+not "Deploy from a branch": the workflow deploys the artifact itself, so the
+`GITHUB_TOKEN` push is not relied on to trigger a Pages build.
+
+The workflow file must be on the default branch — `workflow_dispatch` and
+`schedule` are ignored until it is merged to `main`.
 
 ---
 
