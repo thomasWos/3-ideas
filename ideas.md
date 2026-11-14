@@ -1,6 +1,90 @@
 # 3 Ideas From Me
 
-Extracted from the James Clear 3-2-1 newsletter archive: 375 issues, 1125 ideas.
+Extracted from the James Clear 3-2-1 newsletter archive: 380 issues, 1140 ideas.
+
+---
+
+## 2026-11-12
+
+“Talent is a gift. Effort is a choice.”
+
+“It won’t solve every problem in life, but it is surprising how different my mindset is when I’m sleeping well and exercising regularly compared to when I’ve had a few weeks away from the gym. When your body isn’t right, your mind starts lying to you.”
+
+“When learning, explore widely.
+
+When mastering, focus narrowly.”
+
+[source](https://jamesclear.com/3-2-1/november-12-2026)
+
+---
+
+## 2026-11-05
+
+“You can’t outgrow it if you keep clinging to it.”
+
+“Every career has a set of common problems that frequently arise. One of the keys to loving your job is to enjoy working on the frequent problems that come with your chosen path. In the best cases, wrestling with the problems feels like fun.”
+
+“Is there anything I can do to guarantee success in life?”
+
+“No, not really.”
+
+“Well then what use is all this hard work and practice?”
+
+“To make sure you are ready when good fortune arrives.”
+
+[source](https://jamesclear.com/3-2-1/november-5-2026)
+
+---
+
+## 2026-10-29
+
+“Train while it’s easy so you’re ready when it’s hard.”
+
+“Unshared knowledge is like potential energy. It’s nice to have, but it only moves things when you transform it into something else. Your contribution is what you share, not what you know.”
+
+“Spend less time trying to find motivation and more time making good habits the path of least resistance.”
+
+[source](https://jamesclear.com/3-2-1/october-29-2026)
+
+---
+
+## 2026-10-22
+
+“Overnight success always takes a year or two.”
+
+“Speed is rewarded in life.
+
+- Decisive. Make decisions quickly and you can correct them faster.
+- Proactive. Solve problems now, while they are still small.
+- Bold. Go for it today rather than delaying your dreams.
+
+Don’t rush, but don’t wait.”
+
+“Long-term thinking changes your short-term actions.
+
+- When you intend to invest long-term, it changes which stocks you buy.
+- When you intend to be in a relationship long-term, it changes the type of person you look for.
+- When you intend to stay injury-free for the long term, it changes the type of workouts you do.
+
+Build what lasts.”
+
+[source](https://jamesclear.com/3-2-1/october-22-2026)
+
+---
+
+## 2026-10-15
+
+“The sooner you make a choice, the sooner you can make an adjustment.”
+
+“Are you willing to be uncomfortable for 5 minutes?
+
+Exercising is easier once you’ve started the workout. Conversation is easier once you’re already talking. Writing is easier once you’re in the middle of it.
+
+But many rewards in life will elude you if you’re not willing to be a little uncomfortable at first.”
+
+“Success is wanting to be where you are.”
+
+[source](https://jamesclear.com/3-2-1/october-15-2026)
 
 ---
 

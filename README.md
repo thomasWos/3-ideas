@@ -4,14 +4,14 @@ Every **"3 Ideas From Me"** section from every issue of the [James Clear 3-2-1
 newsletter](https://jamesclear.com/3-2-1), extracted into a searchable local
 archive.
 
-**374 issues · 1,122 ideas · Aug 2019 → Oct 2026 · ~48,000 words**
+**380 issues · 1,140 ideas · Aug 2019 → Nov 2026 · ~48,000 words**
 
 ---
 
 ## Quick start
 
 ```bash
-./fetch.sh          # download all 378 archive entries -> raw/
+./fetch.sh          # download all 384 archive entries -> raw/
 python3 extract.py  # parse "3 Ideas From Me" -> ideas.{json,md,csv}
 python3 build_ui.py # bundle ideas.json -> index.html
 open index.html
@@ -37,7 +37,7 @@ irrelevant — the entire corpus is exposed through the REST API:
 
 ```
 GET https://jamesclear.com/wp-json/wp/v2/3-2-1?per_page=100&page=N
-→ X-WP-Total: 378
+→ X-WP-Total: 384
 ```
 
 Four requests return every issue as JSON with rendered HTML, publication date,
@@ -119,9 +119,9 @@ two.
 > **A trap worth naming.** The marker regex must be anchored on *both* sides of
 > the roman numeral. An unanchored version also matches any paragraph merely
 > *containing* the letter I — so `<p>In the long run…</p>` becomes an idea
-> boundary. This produced 1,120 garbled ideas instead of 1,122 and looked
-> superficially plausible. Anchor with the `_FILLER` character class, and always
-> confirm the count is exactly 374 × 3.
+> boundary. When the corpus was 374 issues this produced 1,120 garbled ideas
+> instead of 1,122 and looked superficially plausible. Anchor with the `_FILLER`
+> character class, and always confirm the count is exactly 380 × 3.
 
 ---
 
@@ -130,13 +130,13 @@ two.
 `extract.py` prints a report; these numbers are the **regression invariant**:
 
 ```
-issues parsed : 374 / 378 entries
-ideas         : 1122
+issues parsed : 380 / 384 entries
+ideas         : 1140
 no section    : 4
 not exactly 3 : 0
 ```
 
-If `not exactly 3` is anything other than `0`, or `ideas` is not `1122`, the
+If `not exactly 3` is anything other than `0`, or `ideas` is not `1140`, the
 parser has regressed. Check the table above before changing anything.
 
 Additional checks that were run when this pipeline was built:
@@ -152,16 +152,16 @@ Additional checks that were run when this pipeline was built:
 > There is **no automated test suite in this repo.** Verification was done
 > ad-hoc (Node + Playwright for the UI, direct assertions against the data). The
 > invariant above is currently the regression check. If you add real tests, the
-> highest-value ones are: assert 1122 ideas, assert every issue has exactly 3,
+> highest-value ones are: assert 1140 ideas, assert every issue has exactly 3,
 > and assert no issue text contains `ctt.ac` or `Share this on Twitter`.
 
 ---
 
 ## Data notes
 
-- **33 ideas appear more than once.** These are genuine repeats — James Clear
+- **36 ideas appear more than once.** These are genuine repeats — James Clear
   re-runs older material (e.g. the 2020 "learn by teaching" idea returns in
-  2025-05-08 and 2025-08-21). 1,122 total, 1,089 unique. Dedupe if you prefer.
+  2025-05-08 and 2025-08-21). 1,140 total, 1,104 unique. Dedupe if you prefer.
 - **Ideas are verbatim**, including original paragraph breaks and curly quotes.
   Text is not paraphrased, re-ordered, or truncated.
 - The 4 issues with an `intro` keep that sentence in `ideas.json` as `intro`, so

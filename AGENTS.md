@@ -5,13 +5,13 @@ Read `README.md` for the full design rationale and edge-case table.
 
 ## What this is
 
-Scrapes the "3 Ideas From Me" section from all 374 issues of the James Clear
+Scrapes the "3 Ideas From Me" section from all 380 issues of the James Clear
 3-2-1 newsletter and bundles it into a single-file offline reader.
 
 ## Commands
 
 ```bash
-./fetch.sh          # network: 378 API responses -> raw/   (~5.5 MB)
+./fetch.sh          # network: 384 API responses -> raw/   (~5.5 MB)
 python3 extract.py  # raw/ -> ideas.{json,md,csv}          (offline)
 python3 build_ui.py # ideas.json -> index.html             (offline)
 open index.html
@@ -31,18 +31,18 @@ dependency — do not add it.
 ## Hard invariant — check this after any parser change
 
 ```
-issues parsed : 374 / 378 entries
-ideas         : 1122
+issues parsed : 380 / 384 entries
+ideas         : 1140
 not exactly 3 : 0
 ```
 
-374 issues × exactly 3 ideas = 1122. Any other number means a regression.
+380 issues × exactly 3 ideas = 1140. Any other number means a regression.
 `extract.py` prints this report on every run; read it before committing.
 
 These are *expected* results, not bugs:
 - `no section : 4` — non-newsletter pages (`/refer`, `/refer-thanks`,
   `/sign-up-for-…`, `/confirmed`).
-- 33 duplicate ideas across issues — the author re-runs older material.
+- 36 duplicate ideas across issues — the author re-runs older material.
 - 4 issues carry a non-empty `intro` field.
 
 ## Generated files — never hand-edit
@@ -62,7 +62,8 @@ edge-case table in `README.md`. Two traps that have already been hit:
 1. **The roman-numeral marker regex must be anchored on both sides.** An
    unanchored version matches any paragraph containing the letter I, so
    `<p>In the long run…</p>` becomes an idea boundary. Output still *looks*
-   plausible but drops to 1,120 garbled ideas instead of 1,122.
+   plausible but drops to 1,120 garbled ideas instead of 1,122 (when the
+   corpus was 374 issues).
 
 2. **Leading text before the first marker is ambiguous.** Fewer than 3 markers
    means a marker is missing (text is an idea); all 3 present means it is an
@@ -87,11 +88,11 @@ Also: strip *both* share-embed variants (`<div class="twitter-share">` and bare
 There is no test suite. Minimum bar before calling parser work done:
 
 ```bash
-python3 extract.py | head -3          # must show 374 / 1122 / 0
+python3 extract.py | head -3          # must show 380 / 1140 / 0
 python3 -c "
 import json; d=json.load(open('ideas.json'))
 t=[i for r in d for i in r['ideas']]
-assert len(d)==374 and len(t)==1122
+assert len(d)==380 and len(t)==1140
 assert all(len(r['ideas'])==3 for r in d)
 bad=[x for x in t if 'ctt.ac' in x or 'Share this on Twitter' in x]
 assert not bad, bad[:2]
