@@ -57,7 +57,8 @@ HTML = r"""<!doctype html>
   .txt mark{font-weight:600;box-shadow:inset 0 -2px 0 var(--hit)}
   .empty{color:var(--dim);padding:40px 10px;text-align:center}
   .foot{margin-top:26px;padding-top:14px;border-top:1px solid var(--line);color:var(--dim);font-size:12px}
-  .foot a{color:var(--dim)}
+  .foot a{color:var(--dim);text-decoration:underline;text-underline-offset:2px}
+  .foot a:hover{color:var(--accent)}
   a{color:inherit}
 </style>
 </head>
@@ -87,6 +88,7 @@ HTML = r"""<!doctype html>
   <div class="foot">
     Extracted from the James Clear <a href="https://jamesclear.com/3-2-1">3-2-1</a> newsletter.
     <kbd>y</kbd> copies an idea with its date and source link.
+    <a href="https://github.com/thomasWos/3-ideas">Source on GitHub</a>.
   </div>
 </div>
 
