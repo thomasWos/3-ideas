@@ -38,6 +38,8 @@ HTML = r"""<!doctype html>
   .wrap{max-width:760px;margin:0 auto;padding:28px 20px 100px}
   h1{font-size:20px;margin:0 0 2px;font-weight:650;letter-spacing:-.01em}
   .sub{color:var(--dim);font-size:13px;margin-bottom:18px}
+  .sub a{color:var(--dim);text-decoration:underline;text-underline-offset:2px}
+  .sub a:hover{color:var(--accent)}
   .bar{position:sticky;top:0;background:var(--bg);padding:8px 0 12px;border-bottom:1px solid var(--line);z-index:5}
   input{width:100%;font:inherit;font-size:17px;padding:10px 12px;border:1px solid var(--line);
         border-radius:8px;background:var(--bg);color:var(--fg);outline:none}
@@ -57,7 +59,8 @@ HTML = r"""<!doctype html>
   .txt mark{font-weight:600;box-shadow:inset 0 -2px 0 var(--hit)}
   .empty{color:var(--dim);padding:40px 10px;text-align:center}
   .foot{margin-top:26px;padding-top:14px;border-top:1px solid var(--line);color:var(--dim);font-size:12px}
-  .foot a{color:var(--dim)}
+  .foot a{color:var(--dim);text-decoration:underline;text-underline-offset:2px}
+  .foot a:hover{color:var(--accent)}
   a{color:inherit}
 </style>
 </head>
@@ -87,6 +90,7 @@ HTML = r"""<!doctype html>
   <div class="foot">
     Extracted from the James Clear <a href="https://jamesclear.com/3-2-1">3-2-1</a> newsletter.
     <kbd>y</kbd> copies an idea with its date and source link.
+    <a href="https://github.com/thomasWos/3-ideas">Source on GitHub</a>.
   </div>
 </div>
 
@@ -100,7 +104,7 @@ const subEl = document.getElementById('sub');
 
 const FIRST = DATA.reduce((a,r)=> r.d < a ? r.d : a, '9999');
 const LAST  = DATA.reduce((a,r)=> r.d > a ? r.d : a, '0000');
-subEl.textContent = `${DATA.length} ideas · ${FIRST.slice(0,4)}–${LAST.slice(0,4)}`;
+subEl.innerHTML = `${DATA.length} ideas · ${FIRST.slice(0,4)}–${LAST.slice(0,4)} · <a href="https://github.com/thomasWos/3-ideas">Source on GitHub</a>`;
 
 // Score a row against whitespace-separated query terms. All terms must match.
 function score(row, terms){
