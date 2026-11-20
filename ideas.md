@@ -1,6 +1,24 @@
 # 3 Ideas From Me
 
-Extracted from the James Clear 3-2-1 newsletter archive: 380 issues, 1140 ideas.
+Extracted from the James Clear 3-2-1 newsletter archive: 381 issues, 1143 ideas.
+
+---
+
+## 2026-11-19
+
+“If you love the daily lifestyle, you can be happy before and after you achieve your goals.”
+
+“Reflection is perhaps more important than knowledge. Sometimes knowledge fails. And when it does, you need space to reflect and review so you can integrate your knowledge with your actual life. Reflection helps you apply your knowledge.”
+
+“Useful and joyful.
+
+Focus on being useful. Make a contribution to others. Do work that is helpful.
+
+Focus on being joyful. We only get one ride. Appreciate the beauty of it.
+
+There are a million things that can make a good life, but if you’re useful and joyful then you’re a long way home.”
+
+[source](https://jamesclear.com/3-2-1/november-19-2026)
 
 ---
 
