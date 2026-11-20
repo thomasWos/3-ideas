@@ -2,8 +2,11 @@ name: Refresh ideas & deploy
 
 on:
   schedule:
-    # Saturday 06:00 AEDT (Friday 19:00 UTC). GitHub Actions cron is UTC.
-    - cron: "0 19 * * 5"
+    # Saturday 06:17 Australia/Sydney. Deliberately off the top of the hour:
+    # GitHub delays — and can drop — scheduled runs under high load, and the
+    # start of every hour is the busiest window.
+    - cron: "17 6 * * 6"
+      timezone: "Australia/Sydney"
   workflow_dispatch:
 
 permissions:

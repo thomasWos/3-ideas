@@ -162,10 +162,23 @@ Additional checks that were run when this pipeline was built:
 The repo is also refreshed and deployed by GitHub Actions. The workflow lives in
 `.github/workflows/pages.yml` and runs on:
 
-- **Schedule:** every Saturday at 06:00 AEDT (Friday 19:00 UTC — GitHub Actions
-  cron is UTC).
+- **Schedule:** every Saturday at 06:17 Australia/Sydney, via the `timezone`
+  key on the `schedule` trigger.
 - **Manual:** `workflow_dispatch` from the Actions tab, or
   `gh workflow run pages.yml`.
+
+Two deliberate choices in that cron:
+
+- **It runs at :17, not :00.** GitHub documents that scheduled runs can be
+  delayed — and sometimes dropped — during high load, and *the start of every
+  hour is the busiest window*. A weekly job at minute 0 is the most likely
+  kind to be skipped.
+- **It uses an explicit `timezone`,** so the local time stays 06:17 across
+  daylight saving instead of drifting by an hour.
+
+A dropped run is not data loss: `fetch.sh` re-downloads the whole archive and
+`extract.py` reprocesses all of it, so the next run simply picks up everything
+that was missed. The only cost is up to a week of staleness.
 
 Each run does the full pipeline — `fetch.sh`, `extract.py`, `build_ui.py` — then:
 
